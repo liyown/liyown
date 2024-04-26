@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; margin-right: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="height: auto; width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="max-height: 150px; width: auto;" />
   </div>
   <div style="flex: 1; margin-left: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="height: auto; width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="max-height: 150px; width: auto;" />
   </div>
 </div>
 
