@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=liyown&label=Profile%20views&color=0e75b6&style=flat" alt="liyown" /> </p>
 
-
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="height: auto;" />
   </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" />
+  <div style="flex: 1; text-align: right;">
+    <img src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="height: auto;" />
   </div>
 </div>
+
 
 
