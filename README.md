@@ -33,7 +33,7 @@
 
 <hr>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" /></p>
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
