@@ -1,7 +1,8 @@
 ### Hi there 👋<h2> I'm Yaowen Liu</h2>
-
+<!--
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="my">
-
+-->
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%" alt=""/>
 <h3> 👨🏻•💻 About Me </h3>
 
 - 🤔 &nbsp; I'm super curious about all the cool new stuff happening in tech, and I'm always keeping up with the latest trends. For me, programming isn't just about skills—it's a way to let my creativity shine. I'm all about using tech to make life better and solve everyday problems. Let's build something awesome together
