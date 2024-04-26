@@ -33,7 +33,7 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="high:200px;" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="high:200px;" /></p>
+<p style="high:200px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown"  /></p style="high:200px;"> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="high:200px;" /></p>
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
