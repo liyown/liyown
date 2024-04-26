@@ -33,13 +33,10 @@
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="height: 200px; width: auto; " />    <img src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="height: 200px; width: auto; margin-left: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="height: 200px; width: auto; " />            <img align="right" src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="height: 200px; width: auto;" />
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
-<br>
-
-
 
 <p align="center">
 
