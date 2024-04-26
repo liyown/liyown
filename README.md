@@ -1,28 +1,53 @@
+### Hi there 👋<h2> I'm Yaowen Liu</h2>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="my">
+
+<h3> 👨🏻•💻 About Me </h3>
+
+- 🤔 &nbsp; I'm super curious about all the cool new stuff happening in tech, and I'm always keeping up with the latest trends. For me, programming isn't just about skills—it's a way to let my creativity shine. I'm all about using tech to make life better and solve everyday problems. Let's build something awesome together
+
+- 🎓 &nbsp; Studying Computer Science and Studying as a graduate student at Shenzhen University
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java  | C 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | vue | ReactJS
+
+- 🛢 &nbsp; MySQL | redis
 <!--
-**liyown/liyown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
 -->
-<h1 align="center">Hi 👋, I'm Yaowen Liu</h1>
-<h3 align="center">I'm a computer geek who loves to code. I'm super curious about all the cool new stuff happening in tech, and I'm always keeping up with the latest trends. For me, programming isn't just about skills—it's a way to let my creativity shine. I'm all about using tech to make life better and solve everyday problems. Let's build something awesome together!.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=liyown&label=Profile%20views&color=0e75b6&style=flat" alt="liyown" /> </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="height: 200px; width: auto;"  />   <img src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="height: 200px; width: auto;float: right; " />
 
 
 
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; spring | Docker | react | etc.
+
+<hr>
+
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+
+<hr>
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
 
 
 
+<p align="center">
 
+<a href="mailto:liuyaowen.smile@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
+
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
