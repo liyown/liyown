@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Yaowen Liu</h1>
-<h3 align="center">Hello, I am a computer practitioner who loves code. I am full of curiosity about various new technologies and developments in computer science, and I like to follow the latest trends of the industry and continue to learn and explore. Programming for me is not just a skill, but an expression of creativity. I love thinking about how technology can be used to improve lives and solve real-world problems.</h3>
+<h3 align="center">I'm a computer geek who loves to code. I'm super curious about all the cool new stuff happening in tech, and I'm always keeping up with the latest trends. For me, programming isn't just about skills—it's a way to let my creativity shine. I'm all about using tech to make life better and solve everyday problems. Let's build something awesome together!.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=liyown&label=Profile%20views&color=0e75b6&style=flat" alt="liyown" /> </p>
 
