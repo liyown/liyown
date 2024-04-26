@@ -33,7 +33,7 @@
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="height: 200px; width: auto; margin-lift:20px;" /><img src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="height: 200px; width: auto;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="height: 200px; width: auto; " /><img src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="height: 200px; width: auto; margin-lift:20px;" />
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
@@ -47,6 +47,4 @@
 
 </p>
 
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=liyown.liyown)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+ <img src="https://komarev.com/ghpvc/?username=liyown&label=Profile%20views&color=0e75b6&style=flat" alt="liyown" />  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
