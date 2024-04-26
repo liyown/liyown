@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=liyown&label=Profile%20views&color=0e75b6&style=flat" alt="liyown" /> </p>
 
 
-  <div style="flex: 1; margin-right: 5px;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="max-height: 150px; width: auto;" />
   </div>
   <div style="flex: 1; margin-left: 5px;">
     <img src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="max-height: 150px; width: auto;" />
   </div>
+</div>
+
 
 
 
