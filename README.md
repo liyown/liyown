@@ -17,7 +17,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | vue | ReactJS
 
-- 🛢 &nbsp; MySQL | redis
+- 🛢 &nbsp; MySQL | redis | spring | Docker |
 <!--
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
@@ -30,7 +30,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; spring | Docker | react | etc.
+- 🔧 &nbsp;  react | etc.
 
 <hr>
 
