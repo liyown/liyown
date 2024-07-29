@@ -15,7 +15,7 @@
 
 - 💻 &nbsp; Python | Java  | C 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | vue | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | vue 
 
 - 🛢 &nbsp; MySQL | redis | spring | Docker |
 <!--
