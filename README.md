@@ -5,32 +5,28 @@
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%" alt=""/>
 <h3> 👨🏻•💻 About Me </h3>
 
-- 🤔 &nbsp; I'm super curious about all the cool new stuff happening in tech, and I'm always keeping up with the latest trends. For me, programming isn't just about skills—it's a way to let my creativity shine. I'm all about using tech to make life better and solve everyday problems. Let's build something awesome together
+- 🤔 &nbsp; I'm super curious about all the cool new stuff happening in tech, and I'm always keeping up with the latest trends. For me, programming isn't just about skills—it's a way to excites me.
 
-- 🎓 &nbsp; Studying Computer Science and Studying as a graduate student at Shenzhen University
+- 🎓 &nbsp; Information and communication Engineering
 
-
+- 📰 &nbsp; https://me.liuyaowen.cn/
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java  | C 
+- 💻 &nbsp; Python | Java  | C | HTML | CSS | JS 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | vue 
+- 🌐 &nbsp; vue | react | Taro  
 
-- 🛢 &nbsp; MySQL | redis | spring | Docker |
-<!--
+- 🛢 &nbsp; Spring ALl 
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
+- 🖥 &nbsp; guitar | badminton 
 
 
 
-<h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  react | etc.
+<h3>🛠 To Learn 2024</h3>
+
+- 🔧 &nbsp; Dubbo's ecology | NextJS | ExpresJS | Electron 
 
 <hr>
 
