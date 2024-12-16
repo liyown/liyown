@@ -15,9 +15,9 @@
 
 - 💻 &nbsp; Python | Java  | C | HTML | CSS | JS 
 
-- 🌐 &nbsp; vue | react | Taro  
+- 🌐 &nbsp; vue | react | Taro | NextJS 
 
-- 🛢 &nbsp; Spring ALl 
+- 🛢 &nbsp; Spring ALL
 
 - 🖥 &nbsp; guitar | badminton 
 
@@ -26,7 +26,7 @@
 
 <h3>🛠 To Learn 2024</h3>
 
-- 🔧 &nbsp; Dubbo's ecology | NextJS | ExpresJS | Electron 
+- 🔧 &nbsp; Dubbo's ecology | Tairo | ExpresJS |  Rust
 
 <hr>
 
