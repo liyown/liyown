@@ -9,7 +9,7 @@
 
 - 🎓 &nbsp; Information and communication Engineering
 
-- 📰 &nbsp; https://me.liuyaowen.cn/
+- 📰 &nbsp; https://liuyaowen.cn/
 
 <h3>🛠 Tech Stack</h3>
 
@@ -19,14 +19,14 @@
 
 - 🛢 &nbsp; Spring ALL
 
-- 🖥 &nbsp; guitar | badminton 
+- 🖥 &nbsp; guitar 
 
 
 
 
 <h3>🛠 To Learn 2024</h3>
 
-- 🔧 &nbsp; Dubbo's ecology | Tairo | ExpresJS |  Rust
+- 🔧 &nbsp; Dubbo's ecology | Tauri | ExpresJS |  Rust
 
 <hr>
 
