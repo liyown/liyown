@@ -26,7 +26,7 @@
 
 <h3>🛠 To Learn 2024</h3>
 
-- 🔧 &nbsp; Dubbo's ecology | Tauri | ExpresJS |  Rust
+- 🔧 &nbsp; Dubbo's ecology | Tauri | ExpresJS |  Rust | django | flask
 
 <hr>
 
