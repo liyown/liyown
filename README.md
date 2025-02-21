@@ -13,20 +13,20 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java  | C | HTML | CSS | JS 
+- 💻 &nbsp; Python | Java | GO | C | HTML | CSS | JS   
 
-- 🌐 &nbsp; vue | react | Taro | NextJS 
+- 🌐 &nbsp; vue | react | Taro | NextJS   
 
-- 🛢 &nbsp; Spring ALL
+- 🛢 &nbsp; Spring ALL  
 
-- 🖥 &nbsp; guitar 
+- 🖥 &nbsp; guitar   
 
 
 
 
 <h3>🛠 To Learn 2024</h3>
 
-- 🔧 &nbsp; Dubbo's ecology | Tauri | ExpresJS |  Rust | django | flask
+- 🔧 &nbsp; Dubbo's ecology | Tauri | ExpresJS |  Rust | django | flask  
 
 <hr>
 
