@@ -30,7 +30,7 @@
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="height: 190px; width: auto; " />            <img align="right" src="https://github-readme-stats.vercel.app/api?username=OpenAISpace&show_icons=true&locale=en" alt="liyown" style="height: 190px; width: auto;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="height: 190px; width: auto; " />            <img align="right" src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="height: 190px; width: auto;" />
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
