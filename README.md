@@ -32,6 +32,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="height: 190px; width: auto; " />            <img align="right" src="https://github-readme-stats.vercel.app/api?username=liyown&show_icons=true&locale=en" alt="liyown" style="height: 190px; width: auto;" />
 
+<img src="https://api.githubtrends.io/user/svg/liyown/repos?time_range=one_year&loc_metric=changed&theme=classic" alt="liyown" /> 
+
+
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
 
