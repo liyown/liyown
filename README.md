@@ -25,10 +25,14 @@
 
 - 🖥 &nbsp; guitar  
 
-### Blog posts
+### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### ⚡️ Recent Activity
+
+<!--START_SECTION:activity-->
 
 ### 🛠 To Learn 2025
 
