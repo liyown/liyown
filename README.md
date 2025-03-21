@@ -28,6 +28,7 @@
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [大模型对话系统中的意图识别](https://liuyaowen.cn/posts/default/202503211)
 - [TrendPublish](https://liuyaowen.cn/posts/default/202501131)
 - [VSCODE SSH 智能路由配置方法](https://liuyaowen.cn/posts/default/202501021)
 - [AI-NAV: 打造现代化的人工智能导航平台](https://liuyaowen.cn/posts/person/202412312)
@@ -37,7 +38,6 @@
 - [Shiro 渲染leetcode卡片](https://liuyaowen.cn/posts/codenotes/20241013)
 - [使用Kaggle来当作http服务器部署服务😂](https://liuyaowen.cn/posts/fun/20240901)
 - [想开发一个用于mx-space小程序端](https://liuyaowen.cn/notes/3)
-- [十大排序算法](https://liuyaowen.cn/posts/algorithms/20240821and3)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
