@@ -84,6 +84,6 @@
 
 如果我的项目对您有帮助，欢迎赞赏支持！
 
-<img src="image/liuyaowen.jpg" alt="赞赏码" width="200px" style="border-radius: 8px; margin: 10px 0;" />
+<img src="image/liuyaowen.jpg" alt="赞赏码" width="300px" style="border-radius: 8px; margin: 15px 0;" />
 
 </div>
