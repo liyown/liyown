@@ -77,3 +77,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=liyown&label=Profile%20views&color=0e75b6&style=flat" alt="liyown" />
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+<div align="center">
+
+### 🎁 赞赏支持
+
+如果我的项目对您有帮助，欢迎赞赏支持！
+
+<img src="image/liuyaowen.jpg" alt="赞赏码" width="200px" style="border-radius: 8px; margin: 10px 0;" />
+
+</div>
