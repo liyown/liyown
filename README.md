@@ -43,16 +43,16 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/OpenAISpace/ai-trend-publish/issues/46#issuecomment-2764383425) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-2. 🔒 Closed issue [#44](https://github.com/OpenAISpace/ai-trend-publish/issues/44) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-3. 🗣 Commented on [#46](https://github.com/OpenAISpace/ai-trend-publish/issues/46#issuecomment-2764381150) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-4. 🗣 Commented on [#44](https://github.com/OpenAISpace/ai-trend-publish/issues/44#issuecomment-2742088527) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-5. 🗣 Commented on [#35](https://github.com/OpenAISpace/ai-trend-publish/issues/35#issuecomment-2735103607) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-6. 🎉 Merged PR [#43](https://github.com/OpenAISpace/ai-trend-publish/pull/43) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-7. ❗ Opened issue [#42](https://github.com/OpenAISpace/ai-trend-publish/issues/42) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-8. ❗ Opened issue [#41](https://github.com/OpenAISpace/ai-trend-publish/issues/41) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-9. ❗ Opened issue [#40](https://github.com/OpenAISpace/ai-trend-publish/issues/40) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-10. ❗ Opened issue [#39](https://github.com/OpenAISpace/ai-trend-publish/issues/39) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+1. 🚀 Published release [v0.1.3](https://github.com/OpenAISpace/autoservice/releases/tag/v0.1.3) in [OpenAISpace/autoservice](https://github.com/OpenAISpace/autoservice)
+2. 🚀 Published release [v0.1.2](https://github.com/OpenAISpace/autoservice/releases/tag/v0.1.2) in [OpenAISpace/autoservice](https://github.com/OpenAISpace/autoservice)
+3. 🚀 Published release [v0.1.1](https://github.com/OpenAISpace/autoservice/releases/tag/v0.1.1) in [OpenAISpace/autoservice](https://github.com/OpenAISpace/autoservice)
+4. 🚀 Published release [v0.1.1](https://github.com/OpenAISpace/autoservice/releases/tag/v0.1.1) in [OpenAISpace/autoservice](https://github.com/OpenAISpace/autoservice)
+5. 🚀 Published release [v0.1.1](https://github.com/OpenAISpace/autoservice/releases/tag/v0.1.1) in [OpenAISpace/autoservice](https://github.com/OpenAISpace/autoservice)
+6. 🗣 Commented on [#46](https://github.com/OpenAISpace/ai-trend-publish/issues/46#issuecomment-2764383425) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+7. 🔒 Closed issue [#44](https://github.com/OpenAISpace/ai-trend-publish/issues/44) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+8. 🗣 Commented on [#46](https://github.com/OpenAISpace/ai-trend-publish/issues/46#issuecomment-2764381150) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+9. 🗣 Commented on [#44](https://github.com/OpenAISpace/ai-trend-publish/issues/44#issuecomment-2742088527) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+10. 🗣 Commented on [#35](https://github.com/OpenAISpace/ai-trend-publish/issues/35#issuecomment-2735103607) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
 <!--END_SECTION:activity-->
 
 ### 🛠 To Learn 2025
