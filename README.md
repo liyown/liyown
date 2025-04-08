@@ -28,6 +28,8 @@
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么我们要删掉 100% 的 useEffect](https://liuyaowen.cn/notes/4)
+- [Scaling Language-Free Visual Representation Learning](https://liuyaowen.cn/posts/codenotes/2025040071)
 - [GPT-4o 图像生成机制分析报告](https://liuyaowen.cn/posts/default/202503281)
 - [大模型对话系统中的意图识别](https://liuyaowen.cn/posts/default/202503211)
 - [TrendPublish](https://liuyaowen.cn/posts/default/202501131)
@@ -36,8 +38,6 @@
 - [get-bibtex：让文献引用管理更轻松的 Python 工具](https://liuyaowen.cn/posts/person/20241231)
 - [`rsync` 命令总结](https://liuyaowen.cn/posts/codenotes/20241110)
 - [Mybatis 自动配置原理](https://liuyaowen.cn/posts/default/2024112)
-- [Shiro 渲染leetcode卡片](https://liuyaowen.cn/posts/codenotes/20241013)
-- [使用Kaggle来当作http服务器部署服务😂](https://liuyaowen.cn/posts/fun/20240901)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
