@@ -28,6 +28,7 @@
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js 流式传输与 Suspense 技术深度详解：原理、实战](https://liuyaowen.cn/posts/default/20250418)
 - [人工智能代理互操作性的未来：谷歌A2A协议与Anthropic MCP的协同作用](https://liuyaowen.cn/posts/default/20250414)
 - [时光的雕刻](https://liuyaowen.cn/notes/5)
 - [为什么我们要删掉 100% 的 useEffect](https://liuyaowen.cn/notes/4)
@@ -37,7 +38,6 @@
 - [TrendPublish](https://liuyaowen.cn/posts/default/202501131)
 - [VSCODE SSH 智能路由配置方法](https://liuyaowen.cn/posts/default/202501021)
 - [AI-NAV: 打造现代化的人工智能导航平台](https://liuyaowen.cn/posts/person/202412312)
-- [get-bibtex：让文献引用管理更轻松的 Python 工具](https://liuyaowen.cn/posts/person/20241231)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
