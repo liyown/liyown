@@ -103,6 +103,8 @@
 
 </div>
 <!-- END_GITHUB_STATS -->
+想拥有同款卡片吗? 看这里 👉 https://github.com/OpenAISpace/star-track-action
+
 
 ### 📰 Blog posts
 
