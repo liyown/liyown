@@ -1,0 +1,20 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天运行一次
+  workflow_dispatch:     # 允许手动触发
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # 需要写入权限以提交更改
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update GitHub Stats
+        uses: OpenAISpace/star-track-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: liyown

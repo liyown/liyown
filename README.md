@@ -25,6 +25,14 @@
 
 - 🖥 &nbsp; guitar  
 
+### 🛠 To Learn 2025
+
+- 🔧 &nbsp; Dubbo's ecology | Tauri | ExpresJS | Rust |
+
+<!-- BEGIN_GITHUB_STATS -->
+
+<!-- END_GITHUB_STATS -->
+
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -55,9 +63,7 @@
 10. 🗣 Commented on [#46](https://github.com/OpenAISpace/ai-trend-publish/issues/46#issuecomment-2764383425) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
 <!--END_SECTION:activity-->
 
-### 🛠 To Learn 2025
 
-- 🔧 &nbsp; Dubbo's ecology | Tauri | ExpresJS | Rust |
 
 <hr>
 
