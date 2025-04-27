@@ -19,15 +19,15 @@
 
 - 💻 &nbsp; Python | Java | GO | C | HTML | CSS | JS  
 
-- 🌐 &nbsp; vue | react | Taro | NextJS | Remix 
+- 🌐 &nbsp; Vue | React | Uniapp | NextJS | Remix 
 
 - 🛢 &nbsp; Spring ALL 
 
-- 🖥 &nbsp; guitar  
+- 🖥 &nbsp; Guitar  
 
 ### 🛠 To Learn 2025
 
-- 🔧 &nbsp; Dubbo's ecology | Tauri | ExpresJS | Rust |
+- 🔧 &nbsp; Dubbo's Ecology | Electron  | Rust | K8S Ecology
 
 <!-- BEGIN_GITHUB_STATS -->
 <div align="center">
