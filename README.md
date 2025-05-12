@@ -124,16 +124,16 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/liyown/get_bibtex/issues/4#issuecomment-2839420381) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-2. 🚀 Published release [v1](https://github.com/OpenAISpace/star-track-action/releases/tag/v1) in [OpenAISpace/star-track-action](https://github.com/OpenAISpace/star-track-action)
+1. 🗣 Commented on [#48](https://github.com/OpenAISpace/ai-trend-publish/issues/48#issuecomment-2869778699) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+2. 🗣 Commented on [#4](https://github.com/liyown/get_bibtex/issues/4#issuecomment-2839420381) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
 3. 🚀 Published release [v1](https://github.com/OpenAISpace/star-track-action/releases/tag/v1) in [OpenAISpace/star-track-action](https://github.com/OpenAISpace/star-track-action)
 4. 🚀 Published release [v1](https://github.com/OpenAISpace/star-track-action/releases/tag/v1) in [OpenAISpace/star-track-action](https://github.com/OpenAISpace/star-track-action)
 5. 🚀 Published release [v1](https://github.com/OpenAISpace/star-track-action/releases/tag/v1) in [OpenAISpace/star-track-action](https://github.com/OpenAISpace/star-track-action)
-6. ❗ Opened issue [#5367](https://github.com/CherryHQ/cherry-studio/issues/5367) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-7. 🗣 Commented on [#2](https://github.com/liyown/nextjs_stream_demo/issues/2#issuecomment-2831811603) in [liyown/nextjs_stream_demo](https://github.com/liyown/nextjs_stream_demo)
-8. 🗣 Commented on [#2](https://github.com/liyown/nextjs_stream_demo/issues/2#issuecomment-2831811185) in [liyown/nextjs_stream_demo](https://github.com/liyown/nextjs_stream_demo)
-9. 🗣 Commented on [#45](https://github.com/OpenAISpace/ai-trend-publish/issues/45#issuecomment-2829186776) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-10. 🚀 Published release [v0.1.3](https://github.com/OpenAISpace/autoservice/releases/tag/v0.1.3) in [OpenAISpace/autoservice](https://github.com/OpenAISpace/autoservice)
+6. 🚀 Published release [v1](https://github.com/OpenAISpace/star-track-action/releases/tag/v1) in [OpenAISpace/star-track-action](https://github.com/OpenAISpace/star-track-action)
+7. ❗ Opened issue [#5367](https://github.com/CherryHQ/cherry-studio/issues/5367) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+8. 🗣 Commented on [#2](https://github.com/liyown/nextjs_stream_demo/issues/2#issuecomment-2831811603) in [liyown/nextjs_stream_demo](https://github.com/liyown/nextjs_stream_demo)
+9. 🗣 Commented on [#2](https://github.com/liyown/nextjs_stream_demo/issues/2#issuecomment-2831811185) in [liyown/nextjs_stream_demo](https://github.com/liyown/nextjs_stream_demo)
+10. 🗣 Commented on [#45](https://github.com/OpenAISpace/ai-trend-publish/issues/45#issuecomment-2829186776) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
 <!--END_SECTION:activity-->
 
 
