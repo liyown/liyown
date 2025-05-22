@@ -124,15 +124,15 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/OpenAISpace/ai-trend-publish/issues/49#issuecomment-2878451003) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-2. 🗣 Commented on [#50](https://github.com/OpenAISpace/ai-trend-publish/issues/50#issuecomment-2878450419) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-3. 🔒 Closed issue [#48](https://github.com/OpenAISpace/ai-trend-publish/issues/48) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-4. 🔒 Closed issue [#33](https://github.com/OpenAISpace/ai-trend-publish/issues/33) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-5. 🗣 Commented on [#48](https://github.com/OpenAISpace/ai-trend-publish/issues/48#issuecomment-2869778699) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-6. 🗣 Commented on [#4](https://github.com/liyown/get_bibtex/issues/4#issuecomment-2839420381) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-7. 🚀 Published release [v1](https://github.com/OpenAISpace/star-track-action/releases/tag/v1) in [OpenAISpace/star-track-action](https://github.com/OpenAISpace/star-track-action)
-8. 🚀 Published release [v1](https://github.com/OpenAISpace/star-track-action/releases/tag/v1) in [OpenAISpace/star-track-action](https://github.com/OpenAISpace/star-track-action)
-9. 🚀 Published release [v1](https://github.com/OpenAISpace/star-track-action/releases/tag/v1) in [OpenAISpace/star-track-action](https://github.com/OpenAISpace/star-track-action)
+1. 🔒 Closed issue [#49](https://github.com/OpenAISpace/ai-trend-publish/issues/49) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+2. 🎉 Merged PR [#51](https://github.com/OpenAISpace/ai-trend-publish/pull/51) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+3. 💪 Opened PR [#51](https://github.com/OpenAISpace/ai-trend-publish/pull/51) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+4. 🗣 Commented on [#49](https://github.com/OpenAISpace/ai-trend-publish/issues/49#issuecomment-2878451003) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+5. 🗣 Commented on [#50](https://github.com/OpenAISpace/ai-trend-publish/issues/50#issuecomment-2878450419) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+6. 🔒 Closed issue [#48](https://github.com/OpenAISpace/ai-trend-publish/issues/48) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+7. 🔒 Closed issue [#33](https://github.com/OpenAISpace/ai-trend-publish/issues/33) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+8. 🗣 Commented on [#48](https://github.com/OpenAISpace/ai-trend-publish/issues/48#issuecomment-2869778699) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+9. 🗣 Commented on [#4](https://github.com/liyown/get_bibtex/issues/4#issuecomment-2839420381) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
 10. 🚀 Published release [v1](https://github.com/OpenAISpace/star-track-action/releases/tag/v1) in [OpenAISpace/star-track-action](https://github.com/OpenAISpace/star-track-action)
 <!--END_SECTION:activity-->
 
