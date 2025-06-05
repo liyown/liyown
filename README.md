@@ -27,7 +27,7 @@
 
 ### 🛠 To Learn 2025
 
-- 🔧 &nbsp; Dubbo's Ecology | Electron  | Rust | K8S Ecology
+- 🔧 &nbsp; Dubbo's Ecology | Electron  | K8S Ecology
 
 <!-- BEGIN_GITHUB_STATS -->
 <div align="center">
