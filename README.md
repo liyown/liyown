@@ -109,6 +109,7 @@
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [浅尝 Reactor 框架：响应式编程](https://liuyaowen.cn/posts/codenotes/202506061)
 - [快速部署 Kubernetes、Harbor 和 Web 服务的教程](https://liuyaowen.cn/posts/default/202505121)
 - [模型上下文协议&lpar;MCP&rpar;深度解析：规范、实践与示例](https://liuyaowen.cn/posts/default/202504281)
 - [Next.js 流式传输与 Suspense 技术深度详解：原理、实战](https://liuyaowen.cn/posts/default/20250418)
@@ -118,7 +119,6 @@
 - [Scaling Language-Free Visual Representation Learning](https://liuyaowen.cn/posts/codenotes/2025040071)
 - [GPT-4o 图像生成机制分析报告](https://liuyaowen.cn/posts/default/202503281)
 - [大模型对话系统中的意图识别](https://liuyaowen.cn/posts/default/202503211)
-- [TrendPublish](https://liuyaowen.cn/posts/default/202501131)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
