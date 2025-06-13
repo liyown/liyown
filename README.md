@@ -109,6 +109,7 @@
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Blur: A Deep Dive into a Custom SVG Glass Effect vs. Apple&#39;s Liquid Glass](https://liuyaowen.cn/posts/default/202506121)
 - [Kotlin 备忘录](https://liuyaowen.cn/posts/default/202506091)
 - [浅尝 Reactor 框架：响应式编程](https://liuyaowen.cn/posts/codenotes/202506061)
 - [快速部署 Kubernetes、Harbor 和 Web 服务的教程](https://liuyaowen.cn/posts/default/202505121)
@@ -118,7 +119,6 @@
 - [时光的雕刻](https://liuyaowen.cn/notes/5)
 - [为什么我们要删掉 100% 的 useEffect](https://liuyaowen.cn/notes/4)
 - [Scaling Language-Free Visual Representation Learning](https://liuyaowen.cn/posts/codenotes/2025040071)
-- [GPT-4o 图像生成机制分析报告](https://liuyaowen.cn/posts/default/202503281)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
