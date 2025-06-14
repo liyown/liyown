@@ -109,6 +109,7 @@
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [构建LLM代理：为什么“多代理”架构往往是坑？](https://liuyaowen.cn/posts/default/202506131)
 - [Beyond the Blur: A Deep Dive into a Custom SVG Glass Effect vs. Apple&#39;s Liquid Glass](https://liuyaowen.cn/posts/default/202506121)
 - [Kotlin 备忘录](https://liuyaowen.cn/posts/default/202506091)
 - [浅尝 Reactor 框架：响应式编程](https://liuyaowen.cn/posts/codenotes/202506061)
@@ -118,7 +119,6 @@
 - [人工智能代理互操作性的未来：谷歌A2A协议与Anthropic MCP的协同作用](https://liuyaowen.cn/posts/default/20250414)
 - [时光的雕刻](https://liuyaowen.cn/notes/5)
 - [为什么我们要删掉 100% 的 useEffect](https://liuyaowen.cn/notes/4)
-- [Scaling Language-Free Visual Representation Learning](https://liuyaowen.cn/posts/codenotes/2025040071)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
