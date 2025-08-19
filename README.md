@@ -109,6 +109,7 @@
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring 与 MyBatis 内部工具类大全](https://liuyaowen.cn/posts/default/20250818)
 - [Java Stream 业务操作手册](https://liuyaowen.cn/posts/default/20250813)
 - [深入理解SpringCloud Bootstrap启动机制](https://liuyaowen.cn/posts/codenotes/202507241)
 - [《Dispersive Loss：重新审视表征学习中的对比损失》](https://liuyaowen.cn/posts/machinelearning/202506162)
@@ -118,7 +119,6 @@
 - [浅尝 Reactor 框架：响应式编程](https://liuyaowen.cn/posts/codenotes/202506061)
 - [快速部署 Kubernetes、Harbor 和 Web 服务的教程](https://liuyaowen.cn/posts/default/202505121)
 - [模型上下文协议&lpar;MCP&rpar;深度解析：规范、实践与示例](https://liuyaowen.cn/posts/default/202504281)
-- [Next.js 流式传输与 Suspense 技术深度详解：原理、实战](https://liuyaowen.cn/posts/default/20250418)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
