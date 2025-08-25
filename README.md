@@ -60,13 +60,13 @@
       <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-51-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-1841-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
+      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-1842-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
       <img alt="Fork数" src="https://img.shields.io/badge/Forked-267-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-1841-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-1842-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2025/08/24</sup>
+<sup>📅 统计更新于: 2025/08/25</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
