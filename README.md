@@ -60,13 +60,13 @@
       <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-51-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-1847-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
+      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-1846-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
-      <img alt="Fork数" src="https://img.shields.io/badge/Forked-269-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="Fork数" src="https://img.shields.io/badge/Forked-271-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-1847-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-1846-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2025/09/02</sup>
+<sup>📅 统计更新于: 2025/09/03</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
