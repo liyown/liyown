@@ -109,6 +109,7 @@
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [源码阅读之旅](https://liuyaowen.cn/notes/6)
 - [MyBatis 源码手记](https://liuyaowen.cn/posts/default/20250906)
 - [Spring 与 MyBatis 内部工具类大全](https://liuyaowen.cn/posts/default/20250818)
 - [Java Stream 业务操作手册](https://liuyaowen.cn/posts/default/20250813)
@@ -118,7 +119,6 @@
 - [Beyond the Blur: A Deep Dive into a Custom SVG Glass Effect vs. Apple&#39;s Liquid Glass](https://liuyaowen.cn/posts/default/202506121)
 - [Kotlin 备忘录](https://liuyaowen.cn/posts/default/202506091)
 - [浅尝 Reactor 框架：响应式编程](https://liuyaowen.cn/posts/codenotes/202506061)
-- [快速部署 Kubernetes、Harbor 和 Web 服务的教程](https://liuyaowen.cn/posts/default/202505121)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
