@@ -109,6 +109,7 @@
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [java 虚拟线程好文推荐](https://liuyaowen.cn/posts/default/20251023)
 - [源码阅读之旅](https://liuyaowen.cn/notes/6)
 - [MyBatis 源码手记](https://liuyaowen.cn/posts/default/20250906)
 - [Spring 与 MyBatis 内部工具类大全](https://liuyaowen.cn/posts/default/20250818)
@@ -118,7 +119,6 @@
 - [构建LLM代理：为什么“多代理”架构往往是坑？](https://liuyaowen.cn/posts/default/202506131)
 - [Beyond the Blur: A Deep Dive into a Custom SVG Glass Effect vs. Apple&#39;s Liquid Glass](https://liuyaowen.cn/posts/default/202506121)
 - [Kotlin 备忘录](https://liuyaowen.cn/posts/default/202506091)
-- [浅尝 Reactor 框架：响应式编程](https://liuyaowen.cn/posts/codenotes/202506061)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
