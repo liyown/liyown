@@ -38,7 +38,7 @@
   <tr>
     <td align="center" colspan="4">
       <img alt="GitHub评级" src="https://img.shields.io/badge/Grade-SS-F84?style=for-the-badge&logo=github&logoColor=white" />
-      <img alt="GitHub分数" src="https://img.shields.io/badge/Score-2255-F84?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="GitHub分数" src="https://img.shields.io/badge/Score-2254-F84?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@
       <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-4.7-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="贡献仓库" src="https://img.shields.io/badge/Contributed_To-18-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="贡献仓库" src="https://img.shields.io/badge/Contributed_To-17-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -60,13 +60,13 @@
       <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-54-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-2618-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
+      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-2619-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
       <img alt="Fork数" src="https://img.shields.io/badge/Forked-377-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-2618-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-2619-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2025/10/26</sup>
+<sup>📅 统计更新于: 2025/10/27</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
