@@ -109,6 +109,7 @@
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AT 分布式事务使用详解](https://liuyaowen.cn/posts/default/20251217)
 - [Koupleless 合并部署完整教程](https://liuyaowen.cn/posts/default/20251216)
 - [java 虚拟线程好文推荐](https://liuyaowen.cn/posts/default/20251023)
 - [源码阅读之旅](https://liuyaowen.cn/notes/6)
@@ -118,7 +119,6 @@
 - [深入理解SpringCloud Bootstrap启动机制](https://liuyaowen.cn/posts/codenotes/202507241)
 - [《Dispersive Loss：重新审视表征学习中的对比损失》](https://liuyaowen.cn/posts/machinelearning/202506162)
 - [构建LLM代理：为什么“多代理”架构往往是坑？](https://liuyaowen.cn/posts/default/202506131)
-- [Beyond the Blur: A Deep Dive into a Custom SVG Glass Effect vs. Apple&#39;s Liquid Glass](https://liuyaowen.cn/posts/default/202506121)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
