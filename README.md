@@ -60,18 +60,18 @@
       <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-53-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-2999-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
+      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-3002-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
       <img alt="Fork数" src="https://img.shields.io/badge/Forked-449-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-2999-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-3002-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="提交数量" src="https://img.shields.io/badge/Commits-717-2188FF?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="提交数量" src="https://img.shields.io/badge/Commits-700-2188FF?style=for-the-badge&logo=git&logoColor=white" />
     </td>
     <td align="center">
       <img alt="议题数量" src="https://img.shields.io/badge/Issues-60-F74D53?style=for-the-badge&logo=github&logoColor=white" />
@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img alt="每仓库提交" src="https://img.shields.io/badge/Commits_Per_Repo-14-2188FF?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="每仓库提交" src="https://img.shields.io/badge/Commits_Per_Repo-13-2188FF?style=for-the-badge&logo=git&logoColor=white" />
     </td>
     <td align="center">
       <img alt="每仓库星标" src="https://img.shields.io/badge/Stars_Per_Repo-56.6-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/01/27</sup>
+<sup>📅 统计更新于: 2026/01/28</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
