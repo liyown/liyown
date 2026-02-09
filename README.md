@@ -63,7 +63,7 @@
       <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-3026-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
-      <img alt="Fork数" src="https://img.shields.io/badge/Forked-453-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="Fork数" src="https://img.shields.io/badge/Forked-452-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
       <img alt="被Watch数" src="https://img.shields.io/badge/Watched-3026-26A641?style=for-the-badge&logo=github&logoColor=white" />
@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/02/08</sup>
+<sup>📅 统计更新于: 2026/02/09</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
