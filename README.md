@@ -49,7 +49,7 @@
       <img alt="关注者" src="https://img.shields.io/badge/Followers-22-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.0-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.1-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
       <img alt="贡献仓库" src="https://img.shields.io/badge/Contributed_To-12-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/02/17</sup>
+<sup>📅 统计更新于: 2026/02/18</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
