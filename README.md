@@ -136,6 +136,7 @@
 - [ThinNav](https://github.com/liyown/ThinNav) - 一个极其简洁轻便的网址导航，自带后台管理系统
 - [model-server](https://github.com/liyown/model-server) - 使用fastapi为AI模型提供推理服务，提供鉴权，错误重试，超时重试，异步任务，任务进度查询，数据校验等
 - [shiro-applet](https://github.com/liyown/shiro-applet) - 适用于mx-sapce的小程序展示端
+<!--/PROJECTS-->
 - [book-ssg-template](https://github.com/liyown/book-ssg-template) - Yet another template for document SSG.
 - [Shiro](https://github.com/liyown/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [react-starter](https://github.com/liyown/react-starter) - react-spa初始化项目模板
