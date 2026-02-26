@@ -1,22 +1,21 @@
 ### Hi there 👋 I'm Yaowen Liu
 
-### 👨🏻 About Me
-
 ```
-$ whoami
-Yaowen Liu — Full-stack Developer
+                    /\_/\
+                   ( o.o )
+                    > ^ <
+$ whoami           (\_ | _/)
+Yaowen Liu —      (__|__)
+Full-stack Dev    (____)
 
 $ cat ~/.mission
 > Build useful tools
-> Ship products that matter
-> Never stop learning
+> Ship products
+> Keep learning
 
 $ neofetch
 
     ┌─[ liyown@github ]
-    │
-    ├─ OS
-    │  macOS / Linux / Windows
     │
     ├─ Focus
     │  ├─ Frontend
