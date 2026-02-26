@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Yaowen Liu
 
-<table>
-<tr>
-<td valign="top">
-
 ```
 $ whoami
 Yaowen Liu — Full-stack Developer
@@ -14,33 +10,22 @@ $ cat ~/.mission
 > Keep learning
 
 $ neofetch
-
-    ┌─[ liyown@github ]
-    │
-    ├─ Focus
-    │  ├─ Frontend
-    │  ├─ Backend
-    │  ├─ AI / Agents
+    ┌─[ liyown@github ]               ／l、
+    │                               （ﾟ､ ｡ ７
+    ├─ Focus                          l  ~ヽ
+    │  ├─ AI / Agents                 じしf_,)ノ
     │  └─ DevOps
     │
-    ├─ Location
-    │  China
+    ├─ Blog                           [ Status: Coding... ]
+    │  └─ liuyaowen.cn                [ Mood:   Daimeng   ]
     │
-    └─ Blog
-       liuyaowen.cn
+    └─ Stack
+       ├─ TS / Java / Python / AI Coding
+       └─ UI/UX And Design
 ```
-
 ---
 *Talk is cheap, show me the code.*
 
-</td>
-<td align="center" valign="middle">
-
-<img src="https://cdn.dribbble.com/users/1089228/screenshots/2861449/media/135f8cb121280744883089c165f6578.gifd" width="150"/>
-
-</td>
-</tr>
-</table>
 
 ## 我的GitHub统计
 
