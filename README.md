@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Yaowen Liu
 
+<table>
+<tr>
+<td valign="top">
+
 ```
-                    /\_/\
-                   ( o.o )
-                    > ^ <
-$ whoami           (\_ | _/)
-Yaowen Liu —      (__|__)
-Full-stack Dev    (____)
+$ whoami
+Yaowen Liu — Full-stack Developer
 
 $ cat ~/.mission
 > Build useful tools
@@ -32,6 +32,15 @@ $ neofetch
 
 ---
 *Talk is cheap, show me the code.*
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://cdn.dribbble.com/users/1089228/screenshots/2861449/media/135f8cb121280744883089c165f6578.gifd" width="150"/>
+
+</td>
+</tr>
+</table>
 
 ## 我的GitHub统计
 
