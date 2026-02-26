@@ -5,8 +5,6 @@ $ cat /etc/passwd | grep liyown
 > Full-stack Developer. Client + Backend + AI.
 > Building tools, agents, and automation.
 
-$ neofetch
-
 liyown@github
 ─────────────
 OS: macOS, Linux, Windows                        ／＞　 フ
@@ -14,7 +12,7 @@ Bio: Full-stack Dev                            | 　\_　\_|
 Status: Always shipping                      ／\` ‿‿ノ
 Skills:                                          (　ヽ＿ヽ\_)\_\_)
   ├─ Client:  React, Next.js, Vue, Uniapp       ＼二 )
-  ├─ Backend: Java, Python, Go, Spring
+  ├─ Backend: Java, Python, Spring, Js
   ├─ AI/ML:   Agents, RAG, Automation
   └─ DevOps:  Docker, K8S
 
