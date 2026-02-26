@@ -1,9 +1,8 @@
-### Hi there 👋<h2> I'm Yaowen Liu</h2>
+### Hi there 👋 I'm Yaowen Liu
 
-<!--
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="my">
--->
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%" alt=""/>
+<p align="center">
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" width="180" alt=""/>
+</p>
 
 ### 👨🏻 About Me
 
