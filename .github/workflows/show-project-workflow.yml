@@ -15,5 +15,3 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           owner: liyown
-          readme-path: 'README.md'
-          marker: '<!--PROJECTS-->'
