@@ -15,23 +15,6 @@
 
 - 📰 &nbsp; https://liuyaowen.cn/
 
-### 🛠 Tech Stack
-
-- 💻 &nbsp; Python | Java | GO | C | HTML | CSS | JS  
-
-- 🌐 &nbsp; Vue | React | Uniapp | NextJS | Remix 
-
-- 🛢 &nbsp; Spring ALL 
-
-- 🖥 &nbsp; Guitar  
-
-### 🛠 To Learn 2025
-
-- 🔧 &nbsp; Dubbo's Ecology | Electron  | K8S Ecology
-
-<!-- BEGIN_GITHUB_STATS -->
-<div align="center">
-
 ## 我的GitHub统计
 
 <table>
