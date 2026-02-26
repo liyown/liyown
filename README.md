@@ -1,25 +1,38 @@
+### Hi there 👋 I'm Yaowen Liu
+
 ### 👨🏻 About Me
 
-<pre>
-$ cat /etc/passwd | grep liyown
-> Full-stack Developer. Client + Backend + AI.
-> Building tools, agents, and automation.
+```
+$ whoami
+Yaowen Liu — Full-stack Developer
+
+$ cat ~/.mission
+> Build useful tools
+> Ship products that matter
+> Never stop learning
 
 $ neofetch
 
-liyown@github
-─────────────
-OS: macOS, Linux, Windows                        ／＞　 フ
-Bio: Full-stack Dev                            | 　\_　\_|
-Status: Always shipping                      ／\` ‿‿ノ
-Skills:                                          (　ヽ＿ヽ\_)\_\_)
-  ├─ Client:  React, Next.js, Vue, Uniapp       ＼二 )
-  ├─ Backend: Java, Python, Go, Spring
-  ├─ AI/ML:   Agents, RAG, Automation
-  └─ DevOps:  Docker, K8S
+    ┌─[ liyown@github ]
+    │
+    ├─ OS
+    │  macOS / Linux / Windows
+    │
+    ├─ Focus
+    │  ├─ Frontend
+    │  ├─ Backend
+    │  ├─ AI / Agents
+    │  └─ DevOps
+    │
+    ├─ Location
+    │  China
+    │
+    └─ Blog
+       liuyaowen.cn
+```
 
-「 Talk is cheap, show me the code. 」
-</pre>
+---
+*Talk is cheap, show me the code.*
 
 ## 我的GitHub统计
 
