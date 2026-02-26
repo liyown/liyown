@@ -1,46 +1,25 @@
-### Hi there 👋 I'm Yaowen Liu
-
-<p align="center">
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" width="180" alt=""/>
-</p>
-
 ### 👨🏻 About Me
 
 <pre>
-┌──────────────────────────────────────────────────────────┐
-│  _ __      __              __  _                         │
-│ | '_ \    / _|  __ _     / _|| |__    ___   _ __  _   _ │
-│ | | | |  | |_  / _` |   / / | '_ \  / _ \ | '__|| | | |│
-│ | | | |  |  _|| (_| |  / /  | | | || (_) || |   | |_| |│
-│ |_| |_|  |_|   \__,_| /_/   |_| |_| \___/ |_|    \__, |│
-│                                                    |___/ │
-└──────────────────────────────────────────────────────────┘
-                      >_ Hello, World!
+$ cat /etc/passwd | grep liyown
+> Full-stack Developer. Client + Backend + AI.
+> Building tools, agents, and automation.
+
+$ neofetch
+
+liyown@github
+─────────────
+OS: macOS, Linux, Windows                        ／＞　 フ
+Bio: Full-stack Dev                            | 　\_　\_|
+Status: Always shipping                      ／\` ‿‿ノ
+Skills:                                          (　ヽ＿ヽ\_)\_\_)
+  ├─ Client:  React, Next.js, Vue, Uniapp       ＼二 )
+  ├─ Backend: Java, Python, Go, Spring
+  ├─ AI/ML:   Agents, RAG, Automation
+  └─ DevOps:  Docker, K8S
+
+「 Talk is cheap, show me the code. 」
 </pre>
-
-```bash
-$ whoami
-Yaowen Liu | Full-stack Developer | @liyown
-
-$ cat skills.txt
-[✓] Client App      ████████████░░  80%
-[✓] Backend        █████████████░  90%
-[✓] AI/ML           ██████████░░░░  70%
-[✓] DevOps          ██████░░░░░░░░  50%
-
-$ grep -r "coffee" /me
-coffee: ∞ (insufficient resource)
-
-$ cat motto.txt
-"Talk is cheap, show me the code."
-
-$ uptime
-up 10000+ hours, coding...
-```
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=liyown&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 ## 我的GitHub统计
 
