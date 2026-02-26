@@ -7,13 +7,41 @@
 
 ### 👨🏻 About Me
 
-- 🤔 &nbsp; I'm super curious about all the cool new stuff happening in tech,
-  and I'm always keeping up with the latest trends. For me, programming isn't
-  just about skills—it's a way to excites me.
+<pre>
+┌──────────────────────────────────────────────────────────┐
+│  _ __      __              __  _                         │
+│ | '_ \    / _|  __ _     / _|| |__    ___   _ __  _   _ │
+│ | | | |  | |_  / _` |   / / | '_ \  / _ \ | '__|| | | |│
+│ | | | |  |  _|| (_| |  / /  | | | || (_) || |   | |_| |│
+│ |_| |_|  |_|   \__,_| /_/   |_| |_| \___/ |_|    \__, |│
+│                                                    |___/ │
+└──────────────────────────────────────────────────────────┘
+                      >_ Hello, World!
+</pre>
 
-- 🎓 &nbsp; Information and communication Engineering
+```bash
+$ whoami
+Yaowen Liu | Full-stack Developer | @liyown
 
-- 📰 &nbsp; https://liuyaowen.cn/
+$ cat skills.txt
+[✓] Client App      ████████████░░  80%
+[✓] Backend        █████████████░  90%
+[✓] AI/ML           ██████████░░░░  70%
+[✓] DevOps          ██████░░░░░░░░  50%
+
+$ grep -r "coffee" /me
+coffee: ∞ (insufficient resource)
+
+$ cat motto.txt
+"Talk is cheap, show me the code."
+
+$ uptime
+up 10000+ hours, coding...
+```
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=liyown&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ### 🛠 Tech Stack
 
