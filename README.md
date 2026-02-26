@@ -43,23 +43,6 @@ up 10000+ hours, coding...
 <img src="https://komarev.com/ghpvc/?username=liyown&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-### 🛠 Tech Stack
-
-- 💻 &nbsp; Python | Java | GO | C | HTML | CSS | JS  
-
-- 🌐 &nbsp; Vue | React | Uniapp | NextJS | Remix 
-
-- 🛢 &nbsp; Spring ALL 
-
-- 🖥 &nbsp; Guitar  
-
-### 🛠 To Learn 2025
-
-- 🔧 &nbsp; Dubbo's Ecology | Electron  | K8S Ecology
-
-<!-- BEGIN_GITHUB_STATS -->
-<div align="center">
-
 ## 我的GitHub统计
 
 <table>
@@ -164,6 +147,32 @@ up 10000+ hours, coding...
 - [ThinNav](https://github.com/liyown/ThinNav) - 一个极其简洁轻便的网址导航，自带后台管理系统
 - [model-server](https://github.com/liyown/model-server) - 使用fastapi为AI模型提供推理服务，提供鉴权，错误重试，超时重试，异步任务，任务进度查询，数据校验等
 - [shiro-applet](https://github.com/liyown/shiro-applet) - 适用于mx-sapce的小程序展示端
+- [book-ssg-template](https://github.com/liyown/book-ssg-template) - Yet another template for document SSG.
+- [Shiro](https://github.com/liyown/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
+- [react-starter](https://github.com/liyown/react-starter) - react-spa初始化项目模板
+- [vue3-Oj-front](https://github.com/liyown/vue3-Oj-front) - 智能oj前端
+- [spring-cloud-sandbox-backend](https://github.com/liyown/spring-cloud-sandbox-backend) - 在线OJ系统中的代码沙箱微服务
+- [spring-cloud-starter](https://github.com/liyown/spring-cloud-starter)
+- [springboot-oj-backend](https://github.com/liyown/springboot-oj-backend)
+- [springboot-starter](https://github.com/liyown/springboot-starter) - 初始化项目
+- [pic-go](https://github.com/liyown/pic-go)
+- [springboot-middlewave-example](https://github.com/liyown/springboot-middlewave-example)
+- [mkdocs](https://github.com/liyown/mkdocs) - 知识收集、创作、储存、分享
+- [vcard-personal-portfolio](https://github.com/liyown/vcard-personal-portfolio) - 精美的个人主页模板，含使用教程和部署教程
+- [FileCodeBox](https://github.com/liyown/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+- [liyown](https://github.com/liyown/liyown)
+- [Addressing-Class-Imbalance-in-Federated-Learning--integrate-impl](https://github.com/liyown/Addressing-Class-Imbalance-in-Federated-Learning--integrate-impl) - The integration of https://doi.org/10.1609/aaai.v35i11.17219 code implementation
+- [Addressing-Class-Imbalance-FL](https://github.com/liyown/Addressing-Class-Imbalance-FL) - This is the code for Addressing Class Imbalance in Federated Learning (AAAI-2021).
+- [get_bibtex](https://github.com/liyown/get_bibtex) - A Python tool for fetching citations from multiple sources.
+- [request](https://github.com/liyown/request)
+- [top-news-study](https://github.com/liyown/top-news-study) - atguigu study project
+- [tomcat-servlet-study](https://github.com/liyown/tomcat-servlet-study) - 一个学习javaweb代码记录
+- [image-super-resolution-course](https://github.com/liyown/image-super-resolution-course) - 超分辨率的一个课程实验
+- [federated-learning-pytorch](https://github.com/liyown/federated-learning-pytorch) - Code for federated learning is easier to understand and modify than large frameworks
+- [watch-free-rtos-course](https://github.com/liyown/watch-free-rtos-course)
+- [transformer-english2chinese-study](https://github.com/liyown/transformer-english2chinese-study)
+- [some-else](https://github.com/liyown/some-else)
+- [verilog-electronic-clock-course](https://github.com/liyown/verilog-electronic-clock-course)
 <!--/PROJECTS-->
 
 ### 📰 Blog posts
