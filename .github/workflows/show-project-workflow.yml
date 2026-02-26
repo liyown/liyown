@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: show project workflow
 on:
   schedule: # Run workflow automatically
     - cron: "0 0 * * *" # 每天午夜运行一次
