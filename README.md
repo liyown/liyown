@@ -161,14 +161,14 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/OpenAISpace/ai-trend-publish/issues/61#issuecomment-3673422235) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-2. 🔒 Closed issue [#62](https://github.com/OpenAISpace/ai-trend-publish/issues/62) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-3. 🗣 Commented on [#62](https://github.com/OpenAISpace/ai-trend-publish/issues/62#issuecomment-3673421569) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-4. 🗣 Commented on [#56](https://github.com/OpenAISpace/ai-trend-publish/issues/56#issuecomment-3297509989) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-5. 🗣 Commented on [#58](https://github.com/OpenAISpace/ai-trend-publish/issues/58#issuecomment-3297502853) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-6. 💪 Opened PR [#52](https://github.com/OpenAISpace/ai-trend-publish/pull/52) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-7. 🔒 Closed issue [#38](https://github.com/OpenAISpace/ai-trend-publish/issues/38) in [OpenAISpace/ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
-8. 🚀 Published release [0.1.3](https://github.com/OpenAISpace/flow-engine/releases/tag/0.1.3) in [OpenAISpace/flow-engine](https://github.com/OpenAISpace/flow-engine)
+1. 🚀 Published release [v0.0.9](https://github.com/liyown/show-projects-action/releases/tag/v0.0.9) in [liyown/show-projects-action](https://github.com/liyown/show-projects-action)
+2. 🚀 Published release [v0.0.7](https://github.com/liyown/show-projects-action/releases/tag/untagged-741472e97f584a4bfa85) in [liyown/show-projects-action](https://github.com/liyown/show-projects-action)
+3. 🚀 Published release [v0.0.6](https://github.com/liyown/show-projects-action/releases/tag/untagged-1c804f89376770658191) in [liyown/show-projects-action](https://github.com/liyown/show-projects-action)
+4. 🚀 Published release [v0.0.5](https://github.com/liyown/show-projects-action/releases/tag/untagged-33a3c66ea626fe8e1d93) in [liyown/show-projects-action](https://github.com/liyown/show-projects-action)
+5. 🚀 Published release [v0.0.4](https://github.com/liyown/show-projects-action/releases/tag/untagged-9bdc82f990668f78d54f) in [liyown/show-projects-action](https://github.com/liyown/show-projects-action)
+6. 🚀 Published release [v0.0.3](https://github.com/liyown/show-projects-action/releases/tag/untagged-7d0783df45b72f78e77d) in [liyown/show-projects-action](https://github.com/liyown/show-projects-action)
+7. 🚀 Published release [v1.1](https://github.com/liyown/show-projects-action/releases/tag/v1.1) in [liyown/show-projects-action](https://github.com/liyown/show-projects-action)
+8. 🚀 Published release [v1](https://github.com/liyown/show-projects-action/releases/tag/untagged-4644d5b7a25a5dee3b70) in [liyown/show-projects-action](https://github.com/liyown/show-projects-action)
 9. 🚀 Published release [0.1.3](https://github.com/OpenAISpace/flow-engine/releases/tag/0.1.3) in [OpenAISpace/flow-engine](https://github.com/OpenAISpace/flow-engine)
 10. 🚀 Published release [0.1.3](https://github.com/OpenAISpace/flow-engine/releases/tag/0.1.3) in [OpenAISpace/flow-engine](https://github.com/OpenAISpace/flow-engine)
 <!--END_SECTION:activity-->
