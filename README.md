@@ -104,8 +104,9 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
-- [show-projects-action](https://github.com/liyown/show-projects-action) - 在 readme 展示自己的项目
-- [mcp-Interactivebrokers](https://github.com/liyown/mcp-Interactivebrokers) - nteractivebrokers 模拟交易的 mcp
+- [shiroi-deploy](https://github.com/liyown/shiroi-deploy) - 一键部署 Shiroi（Docker Compose + Nginx 反代 + Let's Encrypt HTTPS）。
+- [show-projects-action](https://github.com/liyown/show-projects-action) - 一个 GitHub Action，用于在 README 中展示组织或用户的项目列表。
+- [mcp-Interactivebrokers](https://github.com/liyown/mcp-Interactivebrokers) - 这是一个基于 FastAPI 和 FastMCP 的 Interactive Brokers API 包装器，提供了简单易用的 REST API 接口来与 Interactive Brokers 进行交互。
 - [star-track-action](https://github.com/liyown/star-track-action) - 自动为你的README生成一张的GitHub统计卡片，通过这个GitHub Action展示你的开源贡献和活动数据
 - [nextjs_stream_demo](https://github.com/liyown/nextjs_stream_demo) - Next.js流式传输和Suspense原理演示  📚 从原理到实践，深入解析Next.js流式渲染技术。通过对比演示$RC函数和 self.__next_f队列两种实现方式，帮助开发者理解React现代渲染机制的底层原理。  ✨ 主要特点: 实现了两种流式传输方案的对比演示。完整展示HTTP分块传输的工作原理。包含详细的教程文档和注释 🧠 无论你是React进阶学习者，还是对现代SSR渲染技术感兴趣的开发者，这个项目都能帮助你深入理解Next.js如何优化用户体验和提高应用性能。
 - [FlowBFF](https://github.com/liyown/FlowBFF) - FlowBFF 是一个高可配置的 BFF（Backend for Frontend）框架，旨在简化前后端之间的复杂交互，提供灵活的工作流编排能力。通过直观的可视化编辑器，开发者可以轻松设计和配置 API 的工作流逻辑，实现数据聚合、转换、缓存等复杂操作。FlowBFF 集成了强大的执行引擎、缓存系统和日志管理，支持高并发、低延迟的 API 请求处理。
