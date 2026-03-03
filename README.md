@@ -147,6 +147,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [xMemory：超越RAG的智能体记忆](https://liuyaowen.cn/posts/codenotes/xmemory-intelligent-agent-memory-beyond-rag)
 - [认知红利：工作前几年如何真正拉开差距](https://liuyaowen.cn/posts/default/20260123)
 - [AT 分布式事务使用详解](https://liuyaowen.cn/posts/default/20251217)
 - [Koupleless 合并部署完整教程](https://liuyaowen.cn/posts/default/20251216)
@@ -156,7 +157,6 @@ $ neofetch
 - [Spring 与 MyBatis 内部工具类大全](https://liuyaowen.cn/posts/default/20250818)
 - [Java Stream 业务操作手册](https://liuyaowen.cn/posts/default/20250813)
 - [深入理解SpringCloud Bootstrap启动机制](https://liuyaowen.cn/posts/codenotes/202507241)
-- [《Dispersive Loss：重新审视表征学习中的对比损失》](https://liuyaowen.cn/posts/machinelearning/202506162)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
