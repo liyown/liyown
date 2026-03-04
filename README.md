@@ -201,10 +201,6 @@ $ neofetch
 <!-- BEGIN_GITHUB_STATS -->
 <div align="center">
 
-
-<!-- BEGIN_GITHUB_STATS -->
-<div align="center">
-
 ## 我的GitHub统计
 
 <table>
@@ -272,7 +268,7 @@ $ neofetch
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/03/03</sup>
+<sup>📅 统计更新于: 2026/03/04</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
