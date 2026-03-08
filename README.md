@@ -162,16 +162,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3973254992) in [mx-space/core](https://github.com/mx-space/core)
-2. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3973157680) in [mx-space/core](https://github.com/mx-space/core)
-3. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3973083602) in [mx-space/core](https://github.com/mx-space/core)
-4. ❗ Opened issue [#3](https://github.com/mx-space/obsidian-mixspace-plugin/issues/3) in [mx-space/obsidian-mixspace-plugin](https://github.com/mx-space/obsidian-mixspace-plugin)
-5. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3972243115) in [mx-space/core](https://github.com/mx-space/core)
-6. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3972230646) in [mx-space/core](https://github.com/mx-space/core)
-7. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3972012146) in [mx-space/core](https://github.com/mx-space/core)
-8. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3971981191) in [mx-space/core](https://github.com/mx-space/core)
-9. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3971940072) in [mx-space/core](https://github.com/mx-space/core)
-10. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3971727289) in [mx-space/core](https://github.com/mx-space/core)
+1. ℹ️ Assigned issue [#26](https://github.com/liyown/ai-trend-publish/issues/26) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+2. 🔒 Closed issue [#6](https://github.com/liyown/get_bibtex/issues/6) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+3. 🎉 Merged PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+4. 🗣 Commented on [#7](https://github.com/liyown/get_bibtex/pull/7#issuecomment-4016292002) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+5. ℹ️ Labeled PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+6. 💪 Opened PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+7. 🔓 Reopened issue [#6](https://github.com/liyown/get_bibtex/issues/6) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+8. 🔒 Closed issue [#6](https://github.com/liyown/get_bibtex/issues/6) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+9. ❌ Closed PR [#64](https://github.com/liyown/ai-trend-publish/pull/64) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+10. ℹ️ Labeled PR [#64](https://github.com/liyown/ai-trend-publish/pull/64) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
 <!--END_SECTION:activity-->
 
 
