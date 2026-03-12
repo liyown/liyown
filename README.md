@@ -147,6 +147,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [把经验写进仓库：关于 Skills 的一些想法](https://liuyaowen.cn/posts/default/experience-skills-thoughts)
 - [给 OpenClaw 装上眼睛：ARM64 服务器无头浏览器实战指南](https://liuyaowen.cn/posts/default/openclaw-arm64-1772639270)
 - [xMemory：超越RAG的智能体记忆](https://liuyaowen.cn/posts/codenotes/xmemory-intelligent-agent-memory-beyond-rag)
 - [认知红利：工作前几年如何真正拉开差距](https://liuyaowen.cn/posts/default/20260123)
@@ -156,7 +157,6 @@ $ neofetch
 - [源码阅读之旅](https://liuyaowen.cn/notes/6)
 - [MyBatis 源码手记](https://liuyaowen.cn/posts/default/20250906)
 - [Spring 与 MyBatis 内部工具类大全](https://liuyaowen.cn/posts/default/20250818)
-- [Java Stream 业务操作手册](https://liuyaowen.cn/posts/default/20250813)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
