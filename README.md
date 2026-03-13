@@ -104,6 +104,7 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
+- [XHSOps](https://github.com/liyown/XHSOps) -  内容写得再用心，发到小红书没人看？   做内容最大的坑：感动自己；这是一套 AI 驱动的小红书运营系统——输入主题，AI 帮你写选题、生成文案、设计封面、分析数据、自动优化。
 - [shiroi-deploy](https://github.com/liyown/shiroi-deploy) - 一键部署 Shiroi（Docker Compose + Nginx 反代 + Let's Encrypt HTTPS）。
 - [show-projects-action](https://github.com/liyown/show-projects-action) - 一个 GitHub Action，用于在 README 中展示组织或用户的项目列表。
 - [mcp-Interactivebrokers](https://github.com/liyown/mcp-Interactivebrokers) - 这是一个基于 FastAPI 和 FastMCP 的 Interactive Brokers API 包装器，提供了简单易用的 REST API 接口来与 Interactive Brokers 进行交互。
