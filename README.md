@@ -148,6 +148,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [图像生成怎么突然把“写字”这件事做对了？](https://liuyaowen.cn/posts/default/20260314)
 - [把经验写进仓库：关于 Skills 的一些想法](https://liuyaowen.cn/posts/default/experience-skills-thoughts)
 - [给 OpenClaw 装上眼睛：ARM64 服务器无头浏览器实战指南](https://liuyaowen.cn/posts/default/openclaw-arm64-1772639270)
 - [xMemory：超越RAG的智能体记忆](https://liuyaowen.cn/posts/codenotes/xmemory-intelligent-agent-memory-beyond-rag)
@@ -157,7 +158,6 @@ $ neofetch
 - [java 虚拟线程好文推荐](https://liuyaowen.cn/posts/default/20251023)
 - [源码阅读之旅](https://liuyaowen.cn/notes/6)
 - [MyBatis 源码手记](https://liuyaowen.cn/posts/default/20250906)
-- [Spring 与 MyBatis 内部工具类大全](https://liuyaowen.cn/posts/default/20250818)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
