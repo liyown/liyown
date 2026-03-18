@@ -149,6 +149,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude 风格的流式 UI，到底是怎么做出来的](https://liuyaowen.cn/posts/default/20260317)
 - [图像生成怎么突然把“写字”这件事做对了？](https://liuyaowen.cn/posts/default/20260314)
 - [把经验写进仓库：关于 Skills 的一些想法](https://liuyaowen.cn/posts/default/experience-skills-thoughts)
 - [给 OpenClaw 装上眼睛：ARM64 服务器无头浏览器实战指南](https://liuyaowen.cn/posts/default/openclaw-arm64-1772639270)
@@ -158,7 +159,6 @@ $ neofetch
 - [Koupleless 合并部署完整教程](https://liuyaowen.cn/posts/default/20251216)
 - [java 虚拟线程好文推荐](https://liuyaowen.cn/posts/default/20251023)
 - [源码阅读之旅](https://liuyaowen.cn/notes/6)
-- [MyBatis 源码手记](https://liuyaowen.cn/posts/default/20250906)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
