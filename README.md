@@ -218,7 +218,7 @@ $ neofetch
       <img alt="用户" src="https://img.shields.io/badge/User-liyown-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="关注者" src="https://img.shields.io/badge/Followers-23-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="关注者" src="https://img.shields.io/badge/Followers-24-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
       <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.2-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
@@ -235,7 +235,7 @@ $ neofetch
       <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-3149-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
-      <img alt="Fork数" src="https://img.shields.io/badge/Forked-460-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="Fork数" src="https://img.shields.io/badge/Forked-459-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
       <img alt="被Watch数" src="https://img.shields.io/badge/Watched-3149-26A641?style=for-the-badge&logo=github&logoColor=white" />
@@ -271,7 +271,7 @@ $ neofetch
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/03/27</sup>
+<sup>📅 统计更新于: 2026/03/28</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
