@@ -165,16 +165,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#26](https://github.com/liyown/ai-trend-publish/issues/26) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-2. 🔒 Closed issue [#6](https://github.com/liyown/get_bibtex/issues/6) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-3. 🎉 Merged PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-4. 🗣 Commented on [#7](https://github.com/liyown/get_bibtex/pull/7#issuecomment-4016292002) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-5. ℹ️ Labeled PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-6. 💪 Opened PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-7. 🔓 Reopened issue [#6](https://github.com/liyown/get_bibtex/issues/6) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-8. 🔒 Closed issue [#6](https://github.com/liyown/get_bibtex/issues/6) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-9. ❌ Closed PR [#64](https://github.com/liyown/ai-trend-publish/pull/64) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-10. ℹ️ Labeled PR [#64](https://github.com/liyown/ai-trend-publish/pull/64) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+1. 💪 Opened PR [#408](https://github.com/TanStack/ai/pull/408) in [TanStack/ai](https://github.com/TanStack/ai)
+2. ❗ Opened issue [#407](https://github.com/TanStack/ai/issues/407) in [TanStack/ai](https://github.com/TanStack/ai)
+3. 💪 Opened PR [#406](https://github.com/TanStack/ai/pull/406) in [TanStack/ai](https://github.com/TanStack/ai)
+4. ℹ️ Assigned issue [#26](https://github.com/liyown/ai-trend-publish/issues/26) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+5. 🔒 Closed issue [#6](https://github.com/liyown/get_bibtex/issues/6) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+6. 🎉 Merged PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+7. 🗣 Commented on [#7](https://github.com/liyown/get_bibtex/pull/7#issuecomment-4016292002) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+8. ℹ️ Labeled PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+9. 💪 Opened PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+10. 🔓 Reopened issue [#6](https://github.com/liyown/get_bibtex/issues/6) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
 <!--END_SECTION:activity-->
 
 
