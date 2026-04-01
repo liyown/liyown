@@ -104,7 +104,7 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
-- [NoteCard](https://github.com/liyown/NoteCard)
+- [marknative](https://github.com/liyown/marknative) - 原生 Markdown 渲染引擎，目标是把 Markdown 直接变成可分页文档，而不是先变成 HTML 再交给浏览器截图。
 - [wechat-openclaw](https://github.com/liyown/wechat-openclaw) - OpenClaw 微信接入解析，演示微信通道如何接入、适配并复用宿主 Agent 能力
 - [skill-toolkit](https://github.com/liyown/skill-toolkit) - A growing toolkit of reusable AI agent skills
 - [XHSSpec](https://github.com/liyown/XHSSpec) - 内容写得再用心，发到小红书没人看？   做内容最大的坑：感动自己；一套规范驱动 AI 的小红书运营系统——输入主题，AI 帮你写选题、生成文案、设计封面、分析数据、复盘、沉淀知识库、文章系列续写、自动优化等等
