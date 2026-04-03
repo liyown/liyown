@@ -151,6 +151,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [不想再用 puppeteer 了，我写了个 Markdown 渲染引擎](https://liuyaowen.cn/posts/default/markdown-rendering-engine-alternative-puppeteer)
 - [Claude 风格的流式 UI，到底是怎么做出来的](https://liuyaowen.cn/posts/default/20260317)
 - [图像生成怎么突然把“写字”这件事做对了？](https://liuyaowen.cn/posts/default/20260314)
 - [把经验写进仓库：关于 Skills 的一些想法](https://liuyaowen.cn/posts/default/experience-skills-thoughts)
@@ -160,7 +161,6 @@ $ neofetch
 - [AT 分布式事务使用详解](https://liuyaowen.cn/posts/default/20251217)
 - [Koupleless 合并部署完整教程](https://liuyaowen.cn/posts/default/20251216)
 - [java 虚拟线程好文推荐](https://liuyaowen.cn/posts/default/20251023)
-- [源码阅读之旅](https://liuyaowen.cn/notes/6)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
