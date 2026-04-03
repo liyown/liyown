@@ -94,7 +94,9 @@ jobs:
 
       - name: Build Docker Image
         run: |
-          docker build -t ghcr.io/${{ secrets.DOCKER_NAMESPACE }}/shiroi:latest .
+          docker build \
+            --build-arg BASE_URL=https://liuyaowen.cn \
+            -t ghcr.io/${{ secrets.DOCKER_NAMESPACE }}/shiroi:latest .
 
       - name: Push Docker Image to Github
         run: |
