@@ -171,16 +171,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#408](https://github.com/TanStack/ai/pull/408) in [TanStack/ai](https://github.com/TanStack/ai)
-2. ❗ Opened issue [#407](https://github.com/TanStack/ai/issues/407) in [TanStack/ai](https://github.com/TanStack/ai)
-3. 💪 Opened PR [#406](https://github.com/TanStack/ai/pull/406) in [TanStack/ai](https://github.com/TanStack/ai)
-4. ℹ️ Assigned issue [#26](https://github.com/liyown/ai-trend-publish/issues/26) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-5. 🔒 Closed issue [#6](https://github.com/liyown/get_bibtex/issues/6) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-6. 🎉 Merged PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-7. 🗣 Commented on [#7](https://github.com/liyown/get_bibtex/pull/7#issuecomment-4016292002) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-8. ℹ️ Labeled PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-9. 💪 Opened PR [#7](https://github.com/liyown/get_bibtex/pull/7) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-10. 🔓 Reopened issue [#6](https://github.com/liyown/get_bibtex/issues/6) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+1. 🔓 Reopened issue [#2](https://github.com/liyown/marknative/issues/2) in [liyown/marknative](https://github.com/liyown/marknative)
+2. 🔒 Closed issue [#2](https://github.com/liyown/marknative/issues/2) in [liyown/marknative](https://github.com/liyown/marknative)
+3. 🔒 Closed issue [#2](https://github.com/liyown/marknative/issues/2) in [liyown/marknative](https://github.com/liyown/marknative)
+4. 🗣 Commented on [#5](https://github.com/liyown/marknative/issues/5#issuecomment-4182887423) in [liyown/marknative](https://github.com/liyown/marknative)
+5. 🗣 Commented on [#2](https://github.com/liyown/marknative/issues/2#issuecomment-4182376069) in [liyown/marknative](https://github.com/liyown/marknative)
+6. 🚀 Published release [v0.2.0 — Theme System](https://github.com/liyown/marknative/releases/tag/v0.2.0) in [liyown/marknative](https://github.com/liyown/marknative)
+7. 🗣 Commented on [#2](https://github.com/liyown/marknative/issues/2#issuecomment-4181494534) in [liyown/marknative](https://github.com/liyown/marknative)
+8. 🗣 Commented on [#3](https://github.com/liyown/marknative/issues/3#issuecomment-4181492840) in [liyown/marknative](https://github.com/liyown/marknative)
+9. 🔒 Closed issue [#3](https://github.com/liyown/marknative/issues/3) in [liyown/marknative](https://github.com/liyown/marknative)
+10. 🔒 Closed issue [#4](https://github.com/liyown/marknative/issues/4) in [liyown/marknative](https://github.com/liyown/marknative)
 <!--END_SECTION:activity-->
 
 
