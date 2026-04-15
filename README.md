@@ -59,18 +59,18 @@ $ neofetch
       <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-61-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-3758-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
+      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-3760-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
       <img alt="Fork数" src="https://img.shields.io/badge/Forked-493-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-3758-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-3760-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="提交数量" src="https://img.shields.io/badge/Commits-708-2188FF?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="提交数量" src="https://img.shields.io/badge/Commits-704-2188FF?style=for-the-badge&logo=git&logoColor=white" />
     </td>
     <td align="center">
       <img alt="议题数量" src="https://img.shields.io/badge/Issues-64-F74D53?style=for-the-badge&logo=github&logoColor=white" />
@@ -98,7 +98,7 @@ $ neofetch
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/04/14</sup>
+<sup>📅 统计更新于: 2026/04/15</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
