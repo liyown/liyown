@@ -94,7 +94,14 @@ jobs:
 
       - name: Build Docker Image
         run: |
-          docker build -t ghcr.io/${{ secrets.DOCKER_NAMESPACE }}/yohaku:latest .
+          docker build \
+            --build-arg BASE_URL=https://liuyaowen.cn \
+            --build-arg S3_ACCESS_KEY=${{ secrets.S3_ACCESS_KEY }} \
+            --build-arg S3_SECRET_KEY=${{ secrets.S3_SECRET_KEY }} \
+            --build-arg WEBHOOK_SECRET=${{ secrets.WEBHOOK_SECRET }} \
+            --build-arg TMDB_API_KEY=${{ secrets.TMDB_API_KEY }} \
+            --build-arg GH_TOKEN=${{ secrets.GH_TOKEN }} \
+            -t ghcr.io/${{ secrets.DOCKER_NAMESPACE }}/yohaku:latest .
 
       - name: Push Docker Image to Github
         run: |
