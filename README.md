@@ -27,13 +27,17 @@ $ neofetch
 *Talk is cheap, show me the code.*
 
 
+
+<!-- BEGIN_GITHUB_STATS -->
+<div align="center">
+
 ## 我的GitHub统计
 
 <table>
   <tr>
     <td align="center" colspan="4">
       <img alt="GitHub评级" src="https://img.shields.io/badge/Grade-SS-F84?style=for-the-badge&logo=github&logoColor=white" />
-      <img alt="GitHub分数" src="https://img.shields.io/badge/Score-2527-F84?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="GitHub分数" src="https://img.shields.io/badge/Score-2882-F84?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -41,38 +45,38 @@ $ neofetch
       <img alt="用户" src="https://img.shields.io/badge/User-liyown-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="关注者" src="https://img.shields.io/badge/Followers-22-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="关注者" src="https://img.shields.io/badge/Followers-34-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.1-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.2-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="贡献仓库" src="https://img.shields.io/badge/Contributed_To-10-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-53-26A641?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-3053-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
-    </td>
-    <td align="center">
-      <img alt="Fork数" src="https://img.shields.io/badge/Forked-457-26A641?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-3053-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="贡献仓库" src="https://img.shields.io/badge/Contributed_To-3-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="提交数量" src="https://img.shields.io/badge/Commits-718-2188FF?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-61-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="议题数量" src="https://img.shields.io/badge/Issues-60-F74D53?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-3762-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
-      <img alt="拉取请求数量" src="https://img.shields.io/badge/Pull_Requests-15-A371F7?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="Fork数" src="https://img.shields.io/badge/Forked-493-26A641?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center">
+      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-3762-26A641?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="提交数量" src="https://img.shields.io/badge/Commits-707-2188FF?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+    <td align="center">
+      <img alt="议题数量" src="https://img.shields.io/badge/Issues-64-F74D53?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center">
+      <img alt="拉取请求数量" src="https://img.shields.io/badge/Pull_Requests-31-A371F7?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
       <img alt="主要语言" src="https://img.shields.io/badge/Top_Language-TypeScript-2188FF?style=for-the-badge&logo=github&logoColor=white" />
@@ -80,32 +84,38 @@ $ neofetch
   </tr>
   <tr>
     <td align="center">
-      <img alt="每仓库提交" src="https://img.shields.io/badge/Commits_Per_Repo-14-2188FF?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="每仓库提交" src="https://img.shields.io/badge/Commits_Per_Repo-12-2188FF?style=for-the-badge&logo=git&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="每仓库星标" src="https://img.shields.io/badge/Stars_Per_Repo-57.6-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
+      <img alt="每仓库星标" src="https://img.shields.io/badge/Stars_Per_Repo-61.7-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
-      <img alt="Issue关闭率" src="https://img.shields.io/badge/Issue_Close_Rate-67%25-F74D53?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="Issue关闭率" src="https://img.shields.io/badge/Issue_Close_Rate-72%25-F74D53?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="PR合并率" src="https://img.shields.io/badge/PR_Merge_Rate-80%25-A371F7?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="PR合并率" src="https://img.shields.io/badge/PR_Merge_Rate-48%25-A371F7?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/02/26</sup>
+<sup>📅 统计更新于: 2026/04/16</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
+
 想拥有同款卡片吗? 看这里 👉 https://github.com/OpenAISpace/star-track-action
 
 
 ### 📌 My Projects
 
 <!--PROJECTS-->
-- [show-projects-action](https://github.com/liyown/show-projects-action) - 在 readme 展示自己的项目
-- [mcp-Interactivebrokers](https://github.com/liyown/mcp-Interactivebrokers) - nteractivebrokers 模拟交易的 mcp
+- [marknative](https://github.com/liyown/marknative) - A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.
+- [wechat-openclaw](https://github.com/liyown/wechat-openclaw) - OpenClaw 微信接入解析，演示微信通道如何接入、适配并复用宿主 Agent 能力
+- [skill-toolkit](https://github.com/liyown/skill-toolkit) - A growing toolkit of reusable AI agent skills
+- [XHSSpec](https://github.com/liyown/XHSSpec) - 内容写得再用心，发到小红书没人看？   做内容最大的坑：感动自己；一套规范驱动 AI 的小红书运营系统——输入主题，AI 帮你写选题、生成文案、设计封面、分析数据、复盘、沉淀知识库、文章系列续写、自动优化等等
+- [shiroi-deploy](https://github.com/liyown/shiroi-deploy) - 一键部署 Shiroi（Docker Compose + Nginx 反代 + Let's Encrypt HTTPS）。
+- [show-projects-action](https://github.com/liyown/show-projects-action) - 一个 GitHub Action，用于在 README 中展示组织或用户的项目列表。
+- [mcp-Interactivebrokers](https://github.com/liyown/mcp-Interactivebrokers) - 这是一个基于 FastAPI 和 FastMCP 的 Interactive Brokers API 包装器，提供了简单易用的 REST API 接口来与 Interactive Brokers 进行交互。
 - [star-track-action](https://github.com/liyown/star-track-action) - 自动为你的README生成一张的GitHub统计卡片，通过这个GitHub Action展示你的开源贡献和活动数据
 - [nextjs_stream_demo](https://github.com/liyown/nextjs_stream_demo) - Next.js流式传输和Suspense原理演示  📚 从原理到实践，深入解析Next.js流式渲染技术。通过对比演示$RC函数和 self.__next_f队列两种实现方式，帮助开发者理解React现代渲染机制的底层原理。  ✨ 主要特点: 实现了两种流式传输方案的对比演示。完整展示HTTP分块传输的工作原理。包含详细的教程文档和注释 🧠 无论你是React进阶学习者，还是对现代SSR渲染技术感兴趣的开发者，这个项目都能帮助你深入理解Next.js如何优化用户体验和提高应用性能。
 - [FlowBFF](https://github.com/liyown/FlowBFF) - FlowBFF 是一个高可配置的 BFF（Backend for Frontend）框架，旨在简化前后端之间的复杂交互，提供灵活的工作流编排能力。通过直观的可视化编辑器，开发者可以轻松设计和配置 API 的工作流逻辑，实现数据聚合、转换、缓存等复杂操作。FlowBFF 集成了强大的执行引擎、缓存系统和日志管理，支持高并发、低延迟的 API 请求处理。
@@ -146,42 +156,34 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [一键配置高效终端：zsh + Oh My Zsh + powerlevel10k（零配置上手）](https://liuyaowen.cn/posts/default/one-click-setup-zsh-oh-my-zsh-powerlevel10k)
+- [不想再用 puppeteer 了，我写了个 Markdown 渲染引擎](https://liuyaowen.cn/posts/default/markdown-rendering-engine-alternative-puppeteer)
+- [Claude 风格的流式 UI，到底是怎么做出来的](https://liuyaowen.cn/posts/default/20260317)
+- [图像生成怎么突然把“写字”这件事做对了？](https://liuyaowen.cn/posts/default/20260314)
+- [把经验写进仓库：关于 Skills 的一些想法](https://liuyaowen.cn/posts/default/experience-skills-thoughts)
+- [给 OpenClaw 装上眼睛：ARM64 服务器无头浏览器实战指南](https://liuyaowen.cn/posts/default/openclaw-arm64-1772639270)
+- [xMemory：超越RAG的智能体记忆](https://liuyaowen.cn/posts/codenotes/xmemory-intelligent-agent-memory-beyond-rag)
 - [认知红利：工作前几年如何真正拉开差距](https://liuyaowen.cn/posts/default/20260123)
 - [AT 分布式事务使用详解](https://liuyaowen.cn/posts/default/20251217)
 - [Koupleless 合并部署完整教程](https://liuyaowen.cn/posts/default/20251216)
-- [java 虚拟线程好文推荐](https://liuyaowen.cn/posts/default/20251023)
-- [源码阅读之旅](https://liuyaowen.cn/notes/6)
-- [MyBatis 源码手记](https://liuyaowen.cn/posts/default/20250906)
-- [Spring 与 MyBatis 内部工具类大全](https://liuyaowen.cn/posts/default/20250818)
-- [Java Stream 业务操作手册](https://liuyaowen.cn/posts/default/20250813)
-- [深入理解SpringCloud Bootstrap启动机制](https://liuyaowen.cn/posts/codenotes/202507241)
-- [《Dispersive Loss：重新审视表征学习中的对比损失》](https://liuyaowen.cn/posts/machinelearning/202506162)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3973254992) in [mx-space/core](https://github.com/mx-space/core)
-2. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3973157680) in [mx-space/core](https://github.com/mx-space/core)
-3. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3973083602) in [mx-space/core](https://github.com/mx-space/core)
-4. ❗ Opened issue [#3](https://github.com/mx-space/obsidian-mixspace-plugin/issues/3) in [mx-space/obsidian-mixspace-plugin](https://github.com/mx-space/obsidian-mixspace-plugin)
-5. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3972243115) in [mx-space/core](https://github.com/mx-space/core)
-6. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3972230646) in [mx-space/core](https://github.com/mx-space/core)
-7. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3972012146) in [mx-space/core](https://github.com/mx-space/core)
-8. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3971981191) in [mx-space/core](https://github.com/mx-space/core)
-9. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3971940072) in [mx-space/core](https://github.com/mx-space/core)
-10. 🗣 Commented on [#2577](https://github.com/mx-space/core/issues/2577#issuecomment-3971727289) in [mx-space/core](https://github.com/mx-space/core)
+1. 🗣 Commented on [#6](https://github.com/liyown/marknative/pull/6#issuecomment-4221919781) in [liyown/marknative](https://github.com/liyown/marknative)
+2. 🚀 Published release [v0.5.0 — Monorepo, CLI skill, docs overhaul](https://github.com/liyown/marknative/releases/tag/v0.5.0) in [liyown/marknative](https://github.com/liyown/marknative)
+3. 🚀 Published release [v0.4.0 — CLI](https://github.com/liyown/marknative/releases/tag/v0.4.0) in [liyown/marknative](https://github.com/liyown/marknative)
+4. 🚀 Published release [v0.3.1](https://github.com/liyown/marknative/releases/tag/v0.3.1) in [liyown/marknative](https://github.com/liyown/marknative)
+5. 🔒 Closed issue [#5](https://github.com/liyown/marknative/issues/5) in [liyown/marknative](https://github.com/liyown/marknative)
+6. 🗣 Commented on [#5](https://github.com/liyown/marknative/issues/5#issuecomment-4187138773) in [liyown/marknative](https://github.com/liyown/marknative)
+7. 🗣 Commented on [#5](https://github.com/liyown/marknative/issues/5#issuecomment-4187138650) in [liyown/marknative](https://github.com/liyown/marknative)
+8. 🚀 Published release [v0.3.0](https://github.com/liyown/marknative/releases/tag/v0.3.0) in [liyown/marknative](https://github.com/liyown/marknative)
+9. 🔓 Reopened issue [#2](https://github.com/liyown/marknative/issues/2) in [liyown/marknative](https://github.com/liyown/marknative)
+10. 🔒 Closed issue [#2](https://github.com/liyown/marknative/issues/2) in [liyown/marknative](https://github.com/liyown/marknative)
 <!--END_SECTION:activity-->
 
 
-
-<hr>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyown&show_icons=true&locale=en&layout=compact" alt="liyown" style="height: 190px; width: auto; " />
-
-<img src="https://api.githubtrends.io/user/svg/liyown/repos?time_range=one_year&loc_metric=changed&theme=classic" alt="liyown" />
-
-<hr>
 
 ### 🤝🏻 Connect with Me
 
@@ -204,78 +206,3 @@ $ neofetch
 
 </div>
 
-
-<!-- BEGIN_GITHUB_STATS -->
-<div align="center">
-
-## 我的GitHub统计
-
-<table>
-  <tr>
-    <td align="center" colspan="4">
-      <img alt="GitHub评级" src="https://img.shields.io/badge/Grade-SS-F84?style=for-the-badge&logo=github&logoColor=white" />
-      <img alt="GitHub分数" src="https://img.shields.io/badge/Score-2508-F84?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="用户" src="https://img.shields.io/badge/User-liyown-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="关注者" src="https://img.shields.io/badge/Followers-22-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.1-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="贡献仓库" src="https://img.shields.io/badge/Contributed_To-2-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-50-26A641?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-3055-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
-    </td>
-    <td align="center">
-      <img alt="Fork数" src="https://img.shields.io/badge/Forked-459-26A641?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-3055-26A641?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="提交数量" src="https://img.shields.io/badge/Commits-707-2188FF?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="议题数量" src="https://img.shields.io/badge/Issues-60-F74D53?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="拉取请求数量" src="https://img.shields.io/badge/Pull_Requests-19-A371F7?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="主要语言" src="https://img.shields.io/badge/Top_Language-Python-2188FF?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="每仓库提交" src="https://img.shields.io/badge/Commits_Per_Repo-14-2188FF?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="每仓库星标" src="https://img.shields.io/badge/Stars_Per_Repo-61.1-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
-    </td>
-    <td align="center">
-      <img alt="Issue关闭率" src="https://img.shields.io/badge/Issue_Close_Rate-67%25-F74D53?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="PR合并率" src="https://img.shields.io/badge/PR_Merge_Rate-63%25-A371F7?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<sup>📅 统计更新于: 2026/03/02</sup>
-
-</div>
-<!-- END_GITHUB_STATS -->
