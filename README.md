@@ -171,16 +171,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/liyown/marknative/pull/6#issuecomment-4221919781) in [liyown/marknative](https://github.com/liyown/marknative)
-2. 🚀 Published release [v0.5.0 — Monorepo, CLI skill, docs overhaul](https://github.com/liyown/marknative/releases/tag/v0.5.0) in [liyown/marknative](https://github.com/liyown/marknative)
-3. 🚀 Published release [v0.4.0 — CLI](https://github.com/liyown/marknative/releases/tag/v0.4.0) in [liyown/marknative](https://github.com/liyown/marknative)
-4. 🚀 Published release [v0.3.1](https://github.com/liyown/marknative/releases/tag/v0.3.1) in [liyown/marknative](https://github.com/liyown/marknative)
-5. 🔒 Closed issue [#5](https://github.com/liyown/marknative/issues/5) in [liyown/marknative](https://github.com/liyown/marknative)
-6. 🗣 Commented on [#5](https://github.com/liyown/marknative/issues/5#issuecomment-4187138773) in [liyown/marknative](https://github.com/liyown/marknative)
-7. 🗣 Commented on [#5](https://github.com/liyown/marknative/issues/5#issuecomment-4187138650) in [liyown/marknative](https://github.com/liyown/marknative)
-8. 🚀 Published release [v0.3.0](https://github.com/liyown/marknative/releases/tag/v0.3.0) in [liyown/marknative](https://github.com/liyown/marknative)
-9. 🔓 Reopened issue [#2](https://github.com/liyown/marknative/issues/2) in [liyown/marknative](https://github.com/liyown/marknative)
-10. 🔒 Closed issue [#2](https://github.com/liyown/marknative/issues/2) in [liyown/marknative](https://github.com/liyown/marknative)
+1. 🗣 Commented on [#65](https://github.com/liyown/ai-trend-publish/issues/65#issuecomment-4266273916) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+2. 🗣 Commented on [#65](https://github.com/liyown/ai-trend-publish/issues/65#issuecomment-4266238043) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+3. 🗣 Commented on [#6](https://github.com/liyown/marknative/pull/6#issuecomment-4221919781) in [liyown/marknative](https://github.com/liyown/marknative)
+4. 🚀 Published release [v0.5.0 — Monorepo, CLI skill, docs overhaul](https://github.com/liyown/marknative/releases/tag/v0.5.0) in [liyown/marknative](https://github.com/liyown/marknative)
+5. 🚀 Published release [v0.4.0 — CLI](https://github.com/liyown/marknative/releases/tag/v0.4.0) in [liyown/marknative](https://github.com/liyown/marknative)
+6. 🚀 Published release [v0.3.1](https://github.com/liyown/marknative/releases/tag/v0.3.1) in [liyown/marknative](https://github.com/liyown/marknative)
+7. 🔒 Closed issue [#5](https://github.com/liyown/marknative/issues/5) in [liyown/marknative](https://github.com/liyown/marknative)
+8. 🗣 Commented on [#5](https://github.com/liyown/marknative/issues/5#issuecomment-4187138773) in [liyown/marknative](https://github.com/liyown/marknative)
+9. 🗣 Commented on [#5](https://github.com/liyown/marknative/issues/5#issuecomment-4187138650) in [liyown/marknative](https://github.com/liyown/marknative)
+10. 🚀 Published release [v0.3.0](https://github.com/liyown/marknative/releases/tag/v0.3.0) in [liyown/marknative](https://github.com/liyown/marknative)
 <!--END_SECTION:activity-->
 
 
