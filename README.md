@@ -62,7 +62,7 @@ $ neofetch
       <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-3846-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
-      <img alt="Fork数" src="https://img.shields.io/badge/Forked-507-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="Fork数" src="https://img.shields.io/badge/Forked-506-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
       <img alt="被Watch数" src="https://img.shields.io/badge/Watched-3846-26A641?style=for-the-badge&logo=github&logoColor=white" />
@@ -98,7 +98,7 @@ $ neofetch
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/05/07</sup>
+<sup>📅 统计更新于: 2026/05/08</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
