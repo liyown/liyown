@@ -98,7 +98,7 @@ $ neofetch
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/05/08</sup>
+<sup>📅 统计更新于: 2026/05/09</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
