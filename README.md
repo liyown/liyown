@@ -171,16 +171,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.7](https://github.com/liyown/ai-trend-publish/releases/tag/v1.0.7) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-2. 🔒 Closed issue [#37](https://github.com/liyown/ai-trend-publish/issues/37) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-3. 🔒 Closed issue [#39](https://github.com/liyown/ai-trend-publish/issues/39) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-4. 🔒 Closed issue [#40](https://github.com/liyown/ai-trend-publish/issues/40) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-5. 🔒 Closed issue [#42](https://github.com/liyown/ai-trend-publish/issues/42) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-6. 🔓 Reopened issue [#42](https://github.com/liyown/ai-trend-publish/issues/42) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+1. 🚀 Published release [v1.0.9](https://github.com/liyown/ai-trend-publish/releases/tag/v1.0.9) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+2. 🚀 Published release [v1.0.8](https://github.com/liyown/ai-trend-publish/releases/tag/v1.0.8) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+3. 🚀 Published release [v1.0.7](https://github.com/liyown/ai-trend-publish/releases/tag/v1.0.7) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+4. 🔒 Closed issue [#37](https://github.com/liyown/ai-trend-publish/issues/37) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+5. 🔒 Closed issue [#39](https://github.com/liyown/ai-trend-publish/issues/39) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+6. 🔒 Closed issue [#40](https://github.com/liyown/ai-trend-publish/issues/40) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
 7. 🔒 Closed issue [#42](https://github.com/liyown/ai-trend-publish/issues/42) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-8. 🔒 Closed issue [#56](https://github.com/liyown/ai-trend-publish/issues/56) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-9. 🔒 Closed issue [#58](https://github.com/liyown/ai-trend-publish/issues/58) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-10. 🔒 Closed issue [#61](https://github.com/liyown/ai-trend-publish/issues/61) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+8. 🔓 Reopened issue [#42](https://github.com/liyown/ai-trend-publish/issues/42) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+9. 🔒 Closed issue [#42](https://github.com/liyown/ai-trend-publish/issues/42) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+10. 🔒 Closed issue [#56](https://github.com/liyown/ai-trend-publish/issues/56) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
 <!--END_SECTION:activity-->
 
 
