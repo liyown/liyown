@@ -156,6 +156,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [# 从 Linux 网络到 Kubernetes 网络：彻底理解 Pod 是如何通信的](https://liuyaowen.cn/posts/default/linux-kubernetes-pod)
 - [一键配置高效终端：zsh + Oh My Zsh + powerlevel10k（零配置上手）](https://liuyaowen.cn/posts/default/one-click-setup-zsh-oh-my-zsh-powerlevel10k)
 - [不想再用 puppeteer 了，我写了个 Markdown 渲染引擎](https://liuyaowen.cn/posts/default/markdown-rendering-engine-alternative-puppeteer)
 - [Claude 风格的流式 UI，到底是怎么做出来的](https://liuyaowen.cn/posts/default/20260317)
@@ -165,7 +166,6 @@ $ neofetch
 - [xMemory：超越RAG的智能体记忆](https://liuyaowen.cn/posts/codenotes/xmemory-intelligent-agent-memory-beyond-rag)
 - [认知红利：工作前几年如何真正拉开差距](https://liuyaowen.cn/posts/default/20260123)
 - [AT 分布式事务使用详解](https://liuyaowen.cn/posts/default/20251217)
-- [Koupleless 合并部署完整教程](https://liuyaowen.cn/posts/default/20251216)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
