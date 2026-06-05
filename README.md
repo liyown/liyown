@@ -171,16 +171,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.5](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.5) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-2. 🚀 Published release [TrendPublish v2.0.4](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.4) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-3. 🚀 Published release [TrendPublish v2.0.3](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.3) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-4. 🚀 Published release [TrendPublish v2.0.2](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.2) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-5. 🚀 Published release [TrendPublish v2.0.1](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.1) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-6. 🚀 Published release [TrendPublish v2.0.0](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.0) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-7. 🚀 Published release [v1.0.10](https://github.com/liyown/ai-trend-publish/releases/tag/v1.0.10) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-8. 🚀 Published release [v1.0.9](https://github.com/liyown/ai-trend-publish/releases/tag/v1.0.9) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-9. 🚀 Published release [v1.0.8](https://github.com/liyown/ai-trend-publish/releases/tag/v1.0.8) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-10. 🚀 Published release [v1.0.7](https://github.com/liyown/ai-trend-publish/releases/tag/v1.0.7) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+1. 🎉 Merged PR [#408](https://github.com/TanStack/ai/pull/408) in [TanStack/ai](https://github.com/TanStack/ai)
+2. 🚀 Published release [v2.0.7](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.7) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+3. 🚀 Published release [v2.0.6](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.6) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+4. 🚀 Published release [v2.0.5](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.5) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+5. 🚀 Published release [TrendPublish v2.0.4](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.4) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+6. 🚀 Published release [TrendPublish v2.0.3](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.3) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+7. 🚀 Published release [TrendPublish v2.0.2](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.2) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+8. 🚀 Published release [TrendPublish v2.0.1](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.1) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+9. 🚀 Published release [TrendPublish v2.0.0](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.0) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+10. 🚀 Published release [v1.0.10](https://github.com/liyown/ai-trend-publish/releases/tag/v1.0.10) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
 <!--END_SECTION:activity-->
 
 
