@@ -109,6 +109,7 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
+- [skills-registry](https://github.com/liyown/skills-registry) - A shadcn-compatible source registry for reusable AI skills.
 - [marknative](https://github.com/liyown/marknative) - A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.
 - [wechat-openclaw](https://github.com/liyown/wechat-openclaw) - OpenClaw 微信接入解析，演示微信通道如何接入、适配并复用宿主 Agent 能力
 - [skill-toolkit](https://github.com/liyown/skill-toolkit) - A growing toolkit of reusable AI agent skills
