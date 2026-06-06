@@ -157,6 +157,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [一次诡异的 Spring 循环依赖问题：三级缓存拿到的是原始对象，最终却变成了代理对象](https://liuyaowen.cn/posts/default/spring)
 - [# 从 Linux 网络到 Kubernetes 网络：彻底理解 Pod 是如何通信的](https://liuyaowen.cn/posts/default/linux-kubernetes-pod)
 - [一键配置高效终端：zsh + Oh My Zsh + powerlevel10k（零配置上手）](https://liuyaowen.cn/posts/default/one-click-setup-zsh-oh-my-zsh-powerlevel10k)
 - [不想再用 puppeteer 了，我写了个 Markdown 渲染引擎](https://liuyaowen.cn/posts/default/markdown-rendering-engine-alternative-puppeteer)
@@ -166,7 +167,6 @@ $ neofetch
 - [给 OpenClaw 装上眼睛：ARM64 服务器无头浏览器实战指南](https://liuyaowen.cn/posts/default/openclaw-arm64-1772639270)
 - [xMemory：超越RAG的智能体记忆](https://liuyaowen.cn/posts/codenotes/xmemory-intelligent-agent-memory-beyond-rag)
 - [认知红利：工作前几年如何真正拉开差距](https://liuyaowen.cn/posts/default/20260123)
-- [AT 分布式事务使用详解](https://liuyaowen.cn/posts/default/20251217)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
