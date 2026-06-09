@@ -172,16 +172,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#408](https://github.com/TanStack/ai/pull/408) in [TanStack/ai](https://github.com/TanStack/ai)
-2. 🚀 Published release [v2.0.7](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.7) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-3. 🚀 Published release [v2.0.6](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.6) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-4. 🚀 Published release [v2.0.5](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.5) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-5. 🚀 Published release [TrendPublish v2.0.4](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.4) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-6. 🚀 Published release [TrendPublish v2.0.3](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.3) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-7. 🚀 Published release [TrendPublish v2.0.2](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.2) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-8. 🚀 Published release [TrendPublish v2.0.1](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.1) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-9. 🚀 Published release [TrendPublish v2.0.0](https://github.com/liyown/ai-trend-publish/releases/tag/v2.0.0) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-10. 🚀 Published release [v1.0.10](https://github.com/liyown/ai-trend-publish/releases/tag/v1.0.10) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+1. 🚀 Published release [v0.3.9](https://github.com/liyown/skills-registry/releases/tag/v0.3.9) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+2. 🚀 Published release [v0.3.8](https://github.com/liyown/skills-registry/releases/tag/v0.3.8) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+3. 🚀 Published release [v0.3.7](https://github.com/liyown/skills-registry/releases/tag/v0.3.7) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+4. 🚀 Published release [v0.3.6](https://github.com/liyown/skills-registry/releases/tag/v0.3.6) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+5. 🚀 Published release [v0.3.5](https://github.com/liyown/skills-registry/releases/tag/v0.3.5) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+6. 🚀 Published release [v0.3.4](https://github.com/liyown/skills-registry/releases/tag/v0.3.4) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+7. 🚀 Published release [v0.3.3](https://github.com/liyown/skills-registry/releases/tag/v0.3.3) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+8. 🚀 Published release [v0.3.2](https://github.com/liyown/skills-registry/releases/tag/v0.3.2) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+9. 🚀 Published release [v0.3.1](https://github.com/liyown/skills-registry/releases/tag/v0.3.1) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+10. 🎉 Merged PR [#408](https://github.com/TanStack/ai/pull/408) in [TanStack/ai](https://github.com/TanStack/ai)
 <!--END_SECTION:activity-->
 
 
