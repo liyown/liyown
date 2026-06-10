@@ -37,7 +37,7 @@ $ neofetch
   <tr>
     <td align="center" colspan="4">
       <img alt="GitHub评级" src="https://img.shields.io/badge/Grade-SS-F84?style=for-the-badge&logo=github&logoColor=white" />
-      <img alt="GitHub分数" src="https://img.shields.io/badge/Score-2943-F84?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="GitHub分数" src="https://img.shields.io/badge/Score-2983-F84?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -45,10 +45,10 @@ $ neofetch
       <img alt="用户" src="https://img.shields.io/badge/User-liyown-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="关注者" src="https://img.shields.io/badge/Followers-39-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="关注者" src="https://img.shields.io/badge/Followers-41-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.3-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.4-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
       <img alt="贡献仓库" src="https://img.shields.io/badge/Contributed_To-2-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
@@ -56,16 +56,16 @@ $ neofetch
   </tr>
   <tr>
     <td align="center">
-      <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-61-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-62-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-3877-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
+      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-3947-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
-      <img alt="Fork数" src="https://img.shields.io/badge/Forked-510-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="Fork数" src="https://img.shields.io/badge/Forked-523-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-3877-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-3947-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ $ neofetch
       <img alt="议题数量" src="https://img.shields.io/badge/Issues-65-F74D53?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="拉取请求数量" src="https://img.shields.io/badge/Pull_Requests-36-A371F7?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="拉取请求数量" src="https://img.shields.io/badge/Pull_Requests-37-A371F7?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
       <img alt="主要语言" src="https://img.shields.io/badge/Top_Language-TypeScript-2188FF?style=for-the-badge&logo=github&logoColor=white" />
@@ -84,21 +84,21 @@ $ neofetch
   </tr>
   <tr>
     <td align="center">
-      <img alt="每仓库提交" src="https://img.shields.io/badge/Commits_Per_Repo-12-2188FF?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="每仓库提交" src="https://img.shields.io/badge/Commits_Per_Repo-11-2188FF?style=for-the-badge&logo=git&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="每仓库星标" src="https://img.shields.io/badge/Stars_Per_Repo-63.6-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
+      <img alt="每仓库星标" src="https://img.shields.io/badge/Stars_Per_Repo-63.7-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
-      <img alt="Issue关闭率" src="https://img.shields.io/badge/Issue_Close_Rate-74%25-F74D53?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="Issue关闭率" src="https://img.shields.io/badge/Issue_Close_Rate-85%25-F74D53?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="PR合并率" src="https://img.shields.io/badge/PR_Merge_Rate-44%25-A371F7?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="PR合并率" src="https://img.shields.io/badge/PR_Merge_Rate-43%25-A371F7?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/05/18</sup>
+<sup>📅 统计更新于: 2026/06/10</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
@@ -109,6 +109,7 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
+- [skills-registry](https://github.com/liyown/skills-registry) - A shadcn-compatible source registry for reusable AI skills.
 - [marknative](https://github.com/liyown/marknative) - A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.
 - [wechat-openclaw](https://github.com/liyown/wechat-openclaw) - OpenClaw 微信接入解析，演示微信通道如何接入、适配并复用宿主 Agent 能力
 - [skill-toolkit](https://github.com/liyown/skill-toolkit) - A growing toolkit of reusable AI agent skills
@@ -156,31 +157,31 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么 Vite、Webpack、Rspack 能实现 @ 别名](https://liuyaowen.cn/posts/default/vite-webpack-rspack)
+- [Node.js ESM 模块解析算法理解](https://liuyaowen.cn/posts/default/node-js-esm)
+- [从 C++ 到 Rust、Go：把主流编译流程真正串起来](https://liuyaowen.cn/posts/default/c-rust-go)
+- [一次诡异的 Spring 循环依赖问题：三级缓存拿到的是原始对象，最终却变成了代理对象](https://liuyaowen.cn/posts/default/spring)
+- [# 从 Linux 网络到 Kubernetes 网络：彻底理解 Pod 是如何通信的](https://liuyaowen.cn/posts/default/linux-kubernetes-pod)
 - [一键配置高效终端：zsh + Oh My Zsh + powerlevel10k（零配置上手）](https://liuyaowen.cn/posts/default/one-click-setup-zsh-oh-my-zsh-powerlevel10k)
 - [不想再用 puppeteer 了，我写了个 Markdown 渲染引擎](https://liuyaowen.cn/posts/default/markdown-rendering-engine-alternative-puppeteer)
 - [Claude 风格的流式 UI，到底是怎么做出来的](https://liuyaowen.cn/posts/default/20260317)
 - [图像生成怎么突然把“写字”这件事做对了？](https://liuyaowen.cn/posts/default/20260314)
 - [把经验写进仓库：关于 Skills 的一些想法](https://liuyaowen.cn/posts/default/experience-skills-thoughts)
-- [给 OpenClaw 装上眼睛：ARM64 服务器无头浏览器实战指南](https://liuyaowen.cn/posts/default/openclaw-arm64-1772639270)
-- [xMemory：超越RAG的智能体记忆](https://liuyaowen.cn/posts/codenotes/xmemory-intelligent-agent-memory-beyond-rag)
-- [认知红利：工作前几年如何真正拉开差距](https://liuyaowen.cn/posts/default/20260123)
-- [AT 分布式事务使用详解](https://liuyaowen.cn/posts/default/20251217)
-- [Koupleless 合并部署完整教程](https://liuyaowen.cn/posts/default/20251216)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/liyown/ai-trend-publish/pull/66#issuecomment-4473309285) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-2. 🗣 Commented on [#65](https://github.com/liyown/ai-trend-publish/issues/65#issuecomment-4266238043) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-3. 🗣 Commented on [#6](https://github.com/liyown/marknative/pull/6#issuecomment-4221919781) in [liyown/marknative](https://github.com/liyown/marknative)
-4. 🚀 Published release [v0.5.0 — Monorepo, CLI skill, docs overhaul](https://github.com/liyown/marknative/releases/tag/v0.5.0) in [liyown/marknative](https://github.com/liyown/marknative)
-5. 🚀 Published release [v0.4.0 — CLI](https://github.com/liyown/marknative/releases/tag/v0.4.0) in [liyown/marknative](https://github.com/liyown/marknative)
-6. 🚀 Published release [v0.3.1](https://github.com/liyown/marknative/releases/tag/v0.3.1) in [liyown/marknative](https://github.com/liyown/marknative)
-7. 🔒 Closed issue [#5](https://github.com/liyown/marknative/issues/5) in [liyown/marknative](https://github.com/liyown/marknative)
-8. 🗣 Commented on [#5](https://github.com/liyown/marknative/issues/5#issuecomment-4187138773) in [liyown/marknative](https://github.com/liyown/marknative)
-9. 🗣 Commented on [#5](https://github.com/liyown/marknative/issues/5#issuecomment-4187138650) in [liyown/marknative](https://github.com/liyown/marknative)
-10. 🚀 Published release [v0.3.0](https://github.com/liyown/marknative/releases/tag/v0.3.0) in [liyown/marknative](https://github.com/liyown/marknative)
+1. 🚀 Published release [v0.3.9](https://github.com/liyown/skills-registry/releases/tag/v0.3.9) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+2. 🚀 Published release [v0.3.8](https://github.com/liyown/skills-registry/releases/tag/v0.3.8) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+3. 🚀 Published release [v0.3.7](https://github.com/liyown/skills-registry/releases/tag/v0.3.7) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+4. 🚀 Published release [v0.3.6](https://github.com/liyown/skills-registry/releases/tag/v0.3.6) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+5. 🚀 Published release [v0.3.5](https://github.com/liyown/skills-registry/releases/tag/v0.3.5) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+6. 🚀 Published release [v0.3.4](https://github.com/liyown/skills-registry/releases/tag/v0.3.4) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+7. 🚀 Published release [v0.3.3](https://github.com/liyown/skills-registry/releases/tag/v0.3.3) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+8. 🚀 Published release [v0.3.2](https://github.com/liyown/skills-registry/releases/tag/v0.3.2) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+9. 🚀 Published release [v0.3.1](https://github.com/liyown/skills-registry/releases/tag/v0.3.1) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
+10. 🎉 Merged PR [#408](https://github.com/TanStack/ai/pull/408) in [TanStack/ai](https://github.com/TanStack/ai)
 <!--END_SECTION:activity-->
 
 
