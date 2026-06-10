@@ -157,6 +157,8 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么 Vite、Webpack、Rspack 能实现 @ 别名](https://liuyaowen.cn/posts/default/vite-webpack-rspack)
+- [Node.js ESM 模块解析算法理解](https://liuyaowen.cn/posts/default/node-js-esm)
 - [从 C++ 到 Rust、Go：把主流编译流程真正串起来](https://liuyaowen.cn/posts/default/c-rust-go)
 - [一次诡异的 Spring 循环依赖问题：三级缓存拿到的是原始对象，最终却变成了代理对象](https://liuyaowen.cn/posts/default/spring)
 - [# 从 Linux 网络到 Kubernetes 网络：彻底理解 Pod 是如何通信的](https://liuyaowen.cn/posts/default/linux-kubernetes-pod)
@@ -165,8 +167,6 @@ $ neofetch
 - [Claude 风格的流式 UI，到底是怎么做出来的](https://liuyaowen.cn/posts/default/20260317)
 - [图像生成怎么突然把“写字”这件事做对了？](https://liuyaowen.cn/posts/default/20260314)
 - [把经验写进仓库：关于 Skills 的一些想法](https://liuyaowen.cn/posts/default/experience-skills-thoughts)
-- [给 OpenClaw 装上眼睛：ARM64 服务器无头浏览器实战指南](https://liuyaowen.cn/posts/default/openclaw-arm64-1772639270)
-- [xMemory：超越RAG的智能体记忆](https://liuyaowen.cn/posts/codenotes/xmemory-intelligent-agent-memory-beyond-rag)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
