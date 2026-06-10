@@ -87,12 +87,18 @@ jobs:
           lfs: true
           submodules: recursive
 
-      - name: Login to Registry
+      - name: Login to GitHub Container Registry
         uses: docker/login-action@v3
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Login to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
 
       - name: Build Docker Image
         run: |
@@ -103,11 +109,14 @@ jobs:
             --build-arg WEBHOOK_SECRET=${{ secrets.WEBHOOK_SECRET }} \
             --build-arg TMDB_API_KEY=${{ secrets.TMDB_API_KEY }} \
             --build-arg GH_TOKEN=${{ secrets.GH_TOKEN }} \
-            -t ghcr.io/${{ secrets.DOCKER_NAMESPACE }}/yohaku:latest .
+            -t ghcr.io/${{ secrets.DOCKER_NAMESPACE }}/yohaku:latest \
+            -t liuyaowen0925/yohaku:latest .
 
-      - name: Push Docker Image to Github
-        run: |
-          docker push ghcr.io/${{ secrets.DOCKER_NAMESPACE }}/yohaku:latest
+      - name: Push Docker Image to GitHub Container Registry
+        run: docker push ghcr.io/${{ secrets.DOCKER_NAMESPACE }}/yohaku:latest
+
+      - name: Push Docker Image to Docker Hub
+        run: docker push liuyaowen0925/yohaku:latest
 
       - name: Store artifact commit version
         shell: bash
