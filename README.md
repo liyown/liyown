@@ -172,16 +172,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.9](https://github.com/liyown/skills-registry/releases/tag/v0.3.9) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
-2. 🚀 Published release [v0.3.8](https://github.com/liyown/skills-registry/releases/tag/v0.3.8) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
-3. 🚀 Published release [v0.3.7](https://github.com/liyown/skills-registry/releases/tag/v0.3.7) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
-4. 🚀 Published release [v0.3.6](https://github.com/liyown/skills-registry/releases/tag/v0.3.6) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
-5. 🚀 Published release [v0.3.5](https://github.com/liyown/skills-registry/releases/tag/v0.3.5) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
-6. 🚀 Published release [v0.3.4](https://github.com/liyown/skills-registry/releases/tag/v0.3.4) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
-7. 🚀 Published release [v0.3.3](https://github.com/liyown/skills-registry/releases/tag/v0.3.3) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
-8. 🚀 Published release [v0.3.2](https://github.com/liyown/skills-registry/releases/tag/v0.3.2) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
-9. 🚀 Published release [v0.3.1](https://github.com/liyown/skills-registry/releases/tag/v0.3.1) in [liyown/skills-registry](https://github.com/liyown/skills-registry)
-10. 🎉 Merged PR [#408](https://github.com/TanStack/ai/pull/408) in [TanStack/ai](https://github.com/TanStack/ai)
+1. 🎉 Merged PR [#3](https://github.com/liyown/superpower-enterprise/pull/3) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
+2. 💪 Opened PR [#3](https://github.com/liyown/superpower-enterprise/pull/3) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
+3. 🎉 Merged PR [#2](https://github.com/liyown/superpower-enterprise/pull/2) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
+4. 💪 Opened PR [#2](https://github.com/liyown/superpower-enterprise/pull/2) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
+5. 🎉 Merged PR [#1](https://github.com/liyown/superpower-enterprise/pull/1) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
+6. 💪 Opened PR [#1](https://github.com/liyown/superpower-enterprise/pull/1) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
+7. 🚀 Published release [v0.3.9](https://github.com/liyown/superpower-enterprise/releases/tag/v0.3.9) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
+8. 🚀 Published release [v0.3.8](https://github.com/liyown/superpower-enterprise/releases/tag/v0.3.8) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
+9. 🚀 Published release [v0.3.7](https://github.com/liyown/superpower-enterprise/releases/tag/v0.3.7) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
+10. 🚀 Published release [v0.3.6](https://github.com/liyown/superpower-enterprise/releases/tag/v0.3.6) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
 <!--END_SECTION:activity-->
 
 
