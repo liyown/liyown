@@ -172,16 +172,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/liyown/superpower-enterprise/pull/3) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
-2. 💪 Opened PR [#3](https://github.com/liyown/superpower-enterprise/pull/3) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
-3. 🎉 Merged PR [#2](https://github.com/liyown/superpower-enterprise/pull/2) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
-4. 💪 Opened PR [#2](https://github.com/liyown/superpower-enterprise/pull/2) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
-5. 🎉 Merged PR [#1](https://github.com/liyown/superpower-enterprise/pull/1) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
-6. 💪 Opened PR [#1](https://github.com/liyown/superpower-enterprise/pull/1) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
-7. 🚀 Published release [v0.3.9](https://github.com/liyown/superpower-enterprise/releases/tag/v0.3.9) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
-8. 🚀 Published release [v0.3.8](https://github.com/liyown/superpower-enterprise/releases/tag/v0.3.8) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
-9. 🚀 Published release [v0.3.7](https://github.com/liyown/superpower-enterprise/releases/tag/v0.3.7) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
-10. 🚀 Published release [v0.3.6](https://github.com/liyown/superpower-enterprise/releases/tag/v0.3.6) in [liyown/superpower-enterprise](https://github.com/liyown/superpower-enterprise)
+1. 🎉 Merged PR [#7](https://github.com/liyown/ai-navigation/pull/7) in [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
+2. 🔒 Closed issue [#4](https://github.com/liyown/ai-navigation/issues/4) in [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
+3. 🗣 Commented on [#26](https://github.com/liyown/ai-trend-publish/issues/26#issuecomment-4686436084) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+4. 🗣 Commented on [#4](https://github.com/liyown/ai-navigation/issues/4#issuecomment-4686436088) in [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
+5. 🗣 Commented on [#35](https://github.com/liyown/ai-trend-publish/issues/35#issuecomment-4686436086) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+6. 🗣 Commented on [#5](https://github.com/liyown/ai-navigation/issues/5#issuecomment-4686433052) in [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
+7. 🗣 Commented on [#57](https://github.com/liyown/ai-trend-publish/issues/57#issuecomment-4686433050) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+8. 💪 Opened PR [#7](https://github.com/liyown/ai-navigation/pull/7) in [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
+9. 🗣 Commented on [#4](https://github.com/liyown/get_bibtex/issues/4#issuecomment-4676945891) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+10. 🔒 Closed issue [#5](https://github.com/liyown/get_bibtex/issues/5) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
 <!--END_SECTION:activity-->
 
 
