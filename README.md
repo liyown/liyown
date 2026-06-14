@@ -109,6 +109,7 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
+- [git-spread](https://github.com/liyown/git-spread) - A TUI for spreading Git branches, commits, and PRs across release branches.
 - [superpower-enterprise](https://github.com/liyown/superpower-enterprise) - The enterprise augment layer for obra/superpowers.
 - [marknative](https://github.com/liyown/marknative) - A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.
 - [wechat-openclaw](https://github.com/liyown/wechat-openclaw) - OpenClaw 微信接入解析，演示微信通道如何接入、适配并复用宿主 Agent 能力
