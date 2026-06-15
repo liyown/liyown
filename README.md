@@ -173,16 +173,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/liyown/ai-navigation/pull/7) in [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
-2. 🔒 Closed issue [#4](https://github.com/liyown/ai-navigation/issues/4) in [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
-3. 🗣 Commented on [#26](https://github.com/liyown/ai-trend-publish/issues/26#issuecomment-4686436084) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-4. 🗣 Commented on [#4](https://github.com/liyown/ai-navigation/issues/4#issuecomment-4686436088) in [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
-5. 🗣 Commented on [#35](https://github.com/liyown/ai-trend-publish/issues/35#issuecomment-4686436086) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-6. 🗣 Commented on [#5](https://github.com/liyown/ai-navigation/issues/5#issuecomment-4686433052) in [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
-7. 🗣 Commented on [#57](https://github.com/liyown/ai-trend-publish/issues/57#issuecomment-4686433050) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-8. 💪 Opened PR [#7](https://github.com/liyown/ai-navigation/pull/7) in [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
-9. 🗣 Commented on [#4](https://github.com/liyown/get_bibtex/issues/4#issuecomment-4676945891) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
-10. 🔒 Closed issue [#5](https://github.com/liyown/get_bibtex/issues/5) in [liyown/get_bibtex](https://github.com/liyown/get_bibtex)
+1. 🎉 Merged PR [#3](https://github.com/liyown/git-spread/pull/3) in [liyown/git-spread](https://github.com/liyown/git-spread)
+2. 🎉 Merged PR [#2](https://github.com/liyown/git-spread/pull/2) in [liyown/git-spread](https://github.com/liyown/git-spread)
+3. ℹ️ Labeled PR [#3](https://github.com/liyown/git-spread/pull/3) in [liyown/git-spread](https://github.com/liyown/git-spread)
+4. 💪 Opened PR [#3](https://github.com/liyown/git-spread/pull/3) in [liyown/git-spread](https://github.com/liyown/git-spread)
+5. ℹ️ Labeled PR [#2](https://github.com/liyown/git-spread/pull/2) in [liyown/git-spread](https://github.com/liyown/git-spread)
+6. 💪 Opened PR [#2](https://github.com/liyown/git-spread/pull/2) in [liyown/git-spread](https://github.com/liyown/git-spread)
+7. 🎉 Merged PR [#1](https://github.com/liyown/git-spread/pull/1) in [liyown/git-spread](https://github.com/liyown/git-spread)
+8. ℹ️ Labeled PR [#1](https://github.com/liyown/git-spread/pull/1) in [liyown/git-spread](https://github.com/liyown/git-spread)
+9. 💪 Opened PR [#1](https://github.com/liyown/git-spread/pull/1) in [liyown/git-spread](https://github.com/liyown/git-spread)
+10. ❌ Closed PR [#67](https://github.com/liyown/ai-trend-publish/pull/67) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
 <!--END_SECTION:activity-->
 
 
