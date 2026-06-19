@@ -109,6 +109,7 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
+- [looplane](https://github.com/liyown/looplane) - Loop engineering scaffold for Linear-based local agents.
 - [git-spread](https://github.com/liyown/git-spread) - A TUI for spreading Git branches, commits, and PRs across release branches.
 - [superpower-enterprise](https://github.com/liyown/superpower-enterprise) - The enterprise augment layer for obra/superpowers.
 - [marknative](https://github.com/liyown/marknative) - A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.
