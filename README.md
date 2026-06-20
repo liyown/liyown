@@ -174,16 +174,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/liyown/git-spread/pull/5) in [liyown/git-spread](https://github.com/liyown/git-spread)
-2. 💪 Opened PR [#5](https://github.com/liyown/git-spread/pull/5) in [liyown/git-spread](https://github.com/liyown/git-spread)
-3. 🎉 Merged PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
-4. ℹ️ Labeled PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
-5. 💪 Opened PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
-6. 🎉 Merged PR [#3](https://github.com/liyown/git-spread/pull/3) in [liyown/git-spread](https://github.com/liyown/git-spread)
-7. 🎉 Merged PR [#2](https://github.com/liyown/git-spread/pull/2) in [liyown/git-spread](https://github.com/liyown/git-spread)
-8. ℹ️ Labeled PR [#3](https://github.com/liyown/git-spread/pull/3) in [liyown/git-spread](https://github.com/liyown/git-spread)
-9. 💪 Opened PR [#3](https://github.com/liyown/git-spread/pull/3) in [liyown/git-spread](https://github.com/liyown/git-spread)
-10. ℹ️ Labeled PR [#2](https://github.com/liyown/git-spread/pull/2) in [liyown/git-spread](https://github.com/liyown/git-spread)
+1. 🔒 Closed issue [#2](https://github.com/liyown/ai-trend-publish/issues/2) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+2. 🔒 Closed issue [#8](https://github.com/liyown/ai-trend-publish/issues/8) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+3. 🔒 Closed issue [#11](https://github.com/liyown/ai-trend-publish/issues/11) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+4. 🔒 Closed issue [#35](https://github.com/liyown/ai-trend-publish/issues/35) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+5. 🎉 Merged PR [#5](https://github.com/liyown/git-spread/pull/5) in [liyown/git-spread](https://github.com/liyown/git-spread)
+6. 💪 Opened PR [#5](https://github.com/liyown/git-spread/pull/5) in [liyown/git-spread](https://github.com/liyown/git-spread)
+7. 🎉 Merged PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
+8. ℹ️ Labeled PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
+9. 💪 Opened PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
+10. 🎉 Merged PR [#3](https://github.com/liyown/git-spread/pull/3) in [liyown/git-spread](https://github.com/liyown/git-spread)
 <!--END_SECTION:activity-->
 
 
