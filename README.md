@@ -174,16 +174,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/liyown/ai-trend-publish/issues/2) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-2. 🔒 Closed issue [#8](https://github.com/liyown/ai-trend-publish/issues/8) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-3. 🔒 Closed issue [#11](https://github.com/liyown/ai-trend-publish/issues/11) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-4. 🔒 Closed issue [#35](https://github.com/liyown/ai-trend-publish/issues/35) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
-5. 🎉 Merged PR [#5](https://github.com/liyown/git-spread/pull/5) in [liyown/git-spread](https://github.com/liyown/git-spread)
-6. 💪 Opened PR [#5](https://github.com/liyown/git-spread/pull/5) in [liyown/git-spread](https://github.com/liyown/git-spread)
-7. 🎉 Merged PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
-8. ℹ️ Labeled PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
-9. 💪 Opened PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
-10. 🎉 Merged PR [#3](https://github.com/liyown/git-spread/pull/3) in [liyown/git-spread](https://github.com/liyown/git-spread)
+1. ℹ️ Labeled issue [#57](https://github.com/liyown/ai-trend-publish/issues/57) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+2. ℹ️ Labeled issue [#5](https://github.com/liyown/ai-navigation/issues/5) in [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
+3. 🔒 Closed issue [#2](https://github.com/liyown/ai-trend-publish/issues/2) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+4. 🔒 Closed issue [#8](https://github.com/liyown/ai-trend-publish/issues/8) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+5. 🔒 Closed issue [#11](https://github.com/liyown/ai-trend-publish/issues/11) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+6. 🔒 Closed issue [#35](https://github.com/liyown/ai-trend-publish/issues/35) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+7. 🎉 Merged PR [#5](https://github.com/liyown/git-spread/pull/5) in [liyown/git-spread](https://github.com/liyown/git-spread)
+8. 💪 Opened PR [#5](https://github.com/liyown/git-spread/pull/5) in [liyown/git-spread](https://github.com/liyown/git-spread)
+9. 🎉 Merged PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
+10. ℹ️ Labeled PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
 <!--END_SECTION:activity-->
 
 
