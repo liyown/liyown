@@ -186,7 +186,7 @@ $ neofetch
 10. ℹ️ Labeled PR [#4](https://github.com/liyown/git-spread/pull/4) in [liyown/git-spread](https://github.com/liyown/git-spread)
 <!--END_SECTION:activity-->
 
-
+[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/liyown)](https://githubroast.dev/u/liyown)
 
 ### 🤝🏻 Connect with Me
 
