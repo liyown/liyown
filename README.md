@@ -2,7 +2,7 @@
 
 ```
 $ whoami
-Yaowen Liu — Full-stack Developer
+Evan Liu — Full-stack Developer
 
 $ cat ~/.mission
 > Build useful tools
