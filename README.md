@@ -109,6 +109,7 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
+- [MailRelay](https://github.com/liyown/MailRelay) - Email-driven automation command router with extensible handlers
 - [looplane](https://github.com/liyown/looplane) - Loop engineering scaffold for Linear-based local agents.
 - [git-spread](https://github.com/liyown/git-spread) - A TUI for spreading Git branches, commits, and PRs across release branches.
 - [superpower-enterprise](https://github.com/liyown/superpower-enterprise) - The enterprise augment layer for obra/superpowers.
