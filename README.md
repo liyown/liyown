@@ -109,6 +109,8 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
+- [img](https://github.com/liyown/img) - 轻量、跨平台、可扩展的图片上传 CLI，支持 S3/R2、阿里云 OSS、GitHub 和通用 HTTP API。
+- [SKILL](https://github.com/liyown/SKILL)
 - [MailRelay](https://github.com/liyown/MailRelay) - Turn authenticated email into safe, auditable automation commands.
 - [looplane](https://github.com/liyown/looplane) - Loop engineering scaffold for Linear-based local agents.
 - [git-spread](https://github.com/liyown/git-spread) - A TUI for spreading Git branches, commits, and PRs across release branches.
