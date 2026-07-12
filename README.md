@@ -109,7 +109,7 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
-- [img](https://github.com/liyown/img) - 轻量、跨平台、可扩展的图片上传 CLI，支持 S3/R2、阿里云 OSS、GitHub 和通用 HTTP API。
+- [img](https://github.com/liyown/img) - CLI image uploader for developers & AI agents — S3/R2, OSS, GitHub, HTTP · 为开发者和 AI Agent 设计的图片上传工具
 - [SKILL](https://github.com/liyown/SKILL)
 - [MailRelay](https://github.com/liyown/MailRelay) - Turn authenticated email into safe, auditable automation commands.
 - [looplane](https://github.com/liyown/looplane) - Loop engineering scaffold for Linear-based local agents.
