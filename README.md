@@ -162,6 +162,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我的 TypeScript 全栈技术栈取舍：SSR、SPA 与 API 的边界](https://liuyaowen.cn/posts/default/typescript-fullstack-ssr-spa-api-boundary)
 - [为什么 Vite、Webpack、Rspack 能实现 @ 别名](https://liuyaowen.cn/posts/default/vite-webpack-rspack)
 - [Node.js ESM 模块解析算法理解](https://liuyaowen.cn/posts/default/node-js-esm)
 - [从 C++ 到 Rust、Go：把主流编译流程真正串起来](https://liuyaowen.cn/posts/default/c-rust-go)
@@ -171,7 +172,6 @@ $ neofetch
 - [不想再用 puppeteer 了，我写了个 Markdown 渲染引擎](https://liuyaowen.cn/posts/default/markdown-rendering-engine-alternative-puppeteer)
 - [Claude 风格的流式 UI，到底是怎么做出来的](https://liuyaowen.cn/posts/default/20260317)
 - [图像生成怎么突然把“写字”这件事做对了？](https://liuyaowen.cn/posts/default/20260314)
-- [把经验写进仓库：关于 Skills 的一些想法](https://liuyaowen.cn/posts/default/experience-skills-thoughts)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
