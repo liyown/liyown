@@ -162,16 +162,16 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 虚拟线程如何与网络 I/O 协作：Carrier、Continuation 与 Poller](https://liuyaowen.cn/posts/default/java-virtual-threads-network-io-carrier-continuation-poller)
 - [我的 TypeScript 全栈技术栈取舍：SSR、SPA 与 API 的边界](https://liuyaowen.cn/posts/default/typescript-fullstack-ssr-spa-api-boundary)
 - [为什么 Vite、Webpack、Rspack 能实现 @ 别名](https://liuyaowen.cn/posts/default/vite-webpack-rspack)
 - [Node.js ESM 模块解析算法理解](https://liuyaowen.cn/posts/default/node-js-esm)
 - [从 C++ 到 Rust、Go：把主流编译流程真正串起来](https://liuyaowen.cn/posts/default/c-rust-go)
-- [一次诡异的 Spring 循环依赖问题：三级缓存拿到的是原始对象，最终却变成了代理对象](https://liuyaowen.cn/posts/default/spring)
+- [Spring 6 循环依赖与早期代理：三级缓存的真实边界](https://liuyaowen.cn/posts/default/spring)
 - [# 从 Linux 网络到 Kubernetes 网络：彻底理解 Pod 是如何通信的](https://liuyaowen.cn/posts/default/linux-kubernetes-pod)
 - [一键配置高效终端：zsh + Oh My Zsh + powerlevel10k（零配置上手）](https://liuyaowen.cn/posts/default/one-click-setup-zsh-oh-my-zsh-powerlevel10k)
 - [不想再用 puppeteer 了，我写了个 Markdown 渲染引擎](https://liuyaowen.cn/posts/default/markdown-rendering-engine-alternative-puppeteer)
 - [Claude 风格的流式 UI，到底是怎么做出来的](https://liuyaowen.cn/posts/default/20260317)
-- [图像生成怎么突然把“写字”这件事做对了？](https://liuyaowen.cn/posts/default/20260314)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
