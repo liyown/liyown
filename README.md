@@ -163,6 +163,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot ConfigData 源码解析：配置资源发现、激活上下文、Profile 推导、递归 Import 与 ContributorIterator 后序遍历](https://liuyaowen.cn/posts/default/spring-boot-config-data)
 - [HTTP 1.1、HTTP 2 与 HTTP 3：把三次协议演进串起来](https://liuyaowen.cn/posts/default/http-evolution-1-1-2-3)
 - [Java 虚拟线程如何与网络 I/O 协作：Carrier、Continuation 与 Poller](https://liuyaowen.cn/posts/default/java-virtual-threads-network-io-carrier-continuation-poller)
 - [我的 TypeScript 全栈技术栈取舍：SSR、SPA 与 API 的边界](https://liuyaowen.cn/posts/default/typescript-fullstack-ssr-spa-api-boundary)
@@ -172,7 +173,6 @@ $ neofetch
 - [Spring 6 循环依赖与早期代理：三级缓存的真实边界](https://liuyaowen.cn/posts/default/spring)
 - [# 从 Linux 网络到 Kubernetes 网络：彻底理解 Pod 是如何通信的](https://liuyaowen.cn/posts/default/linux-kubernetes-pod)
 - [一键配置高效终端：zsh + Oh My Zsh + powerlevel10k（零配置上手）](https://liuyaowen.cn/posts/default/one-click-setup-zsh-oh-my-zsh-powerlevel10k)
-- [不想再用 puppeteer 了，我写了个 Markdown 渲染引擎](https://liuyaowen.cn/posts/default/markdown-rendering-engine-alternative-puppeteer)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
