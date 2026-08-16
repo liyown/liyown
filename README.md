@@ -164,16 +164,16 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Runtime 系列（四）：Agent 如何接受执行中的新输入：Steer、Follow-up、Inject 与 Inbox](https://liuyaowen.cn/posts/default/agent-input-delivery-steer-follow-up-inject-inbox)
-- [Agent Runtime 系列（三）：Pi Agent Loop 源码：一次 Prompt 如何经过 Model、Tool 和下一轮决策](https://liuyaowen.cn/posts/default/pi-agent-loop-prompt-model-tool-decision)
-- [Agent Runtime 系列（二）：Agent 为什么需要多层生命周期：Session、Run、Turn 与 Step](https://liuyaowen.cn/posts/default/agent-lifecycle-session-run-turn-step)
-- [Agent Runtime 系列（一）：从 Vercel AI SDK、Pi 到 DeepSeek Harness：Agent Runtime 的边界](https://liuyaowen.cn/posts/default/agent-runtime-boundary)
-- [「spring 源码系列」Spring ASM 字节码处理机制](https://liuyaowen.cn/posts/default/spring-asm-bytecode-processing-mechanism)
-- [读《LobeHub 性能与 DX 优化》：把成本从每次渲染挪到只发生一次](https://liuyaowen.cn/posts/default/lobehub-performance-dx-optimization-analysis)
-- [Spring Boot ConfigData 源码解析：配置资源发现、激活上下文、Profile 推导、递归 Import 与 ContributorIterator 后序遍历](https://liuyaowen.cn/posts/default/spring-boot-config-data)
-- [HTTP 1.1、HTTP 2 与 HTTP 3：把三次协议演进串起来](https://liuyaowen.cn/posts/default/http-evolution-1-1-2-3)
-- [Java 虚拟线程如何与网络 I/O 协作：Carrier、Continuation 与 Poller](https://liuyaowen.cn/posts/default/java-virtual-threads-network-io-carrier-continuation-poller)
-- [我的 TypeScript 全栈技术栈取舍：SSR、SPA 与 API 的边界](https://liuyaowen.cn/posts/default/typescript-fullstack-ssr-spa-api-boundary)
+- [Agent Runtime 系列（十六）：Demo：实现一个可恢复、可投影、可插件化的 Agent Web Runtime](https://liuyaowen.cn/posts/agent-llm-engineering/recoverable-projectable-plugin-agent-web-runtime-demo)
+- [Agent Runtime 系列（十五）：DeepSeek Harness 的插件化 UI：Slot、Hook、Props 与 React](https://liuyaowen.cn/posts/agent-llm-engineering/deepseek-harness-plugin-ui-slots-react)
+- [Agent Runtime 系列（十四）：Agent UI 的状态从哪里来：Event、Projection 与 Client Runtime](https://liuyaowen.cn/posts/agent-llm-engineering/agent-ui-event-projection-client-runtime)
+- [Agent Runtime 系列（十三）：Agent 进入 Web 后，Session、Run 和连接应该怎么分离](https://liuyaowen.cn/posts/agent-llm-engineering/agent-web-session-run-connection-lifecycle)
+- [Agent Runtime 系列（十二）：Demo：实现一个会随依赖变化自动启停的 Plugin Runtime](https://liuyaowen.cn/posts/agent-llm-engineering/dynamic-plugin-runtime-dependency-lifecycle-demo)
+- [Agent Runtime 系列（十一）：Cordis 与 DeepSeek Harness：插件卸载以后，依赖链如何重新稳定](https://liuyaowen.cn/posts/agent-llm-engineering/cordis-dependency-chain-lifecycle-reconciliation)
+- [Agent Runtime 系列（十）：时空可组合性：动态插件系统如何处理副作用与依赖](https://liuyaowen.cn/posts/agent-llm-engineering/spatiotemporal-composability-plugin-effects-dependencies)
+- [Agent Runtime 系列（九）：Agent Core 为什么会越来越重：从 Pi Extension 看 Harness 的扩展边界](https://liuyaowen.cn/posts/agent-llm-engineering/pi-extension-harness-core-boundary)
+- [Agent Runtime 系列（六）：Pi Session Tree：一份 JSONL 如何保存分支、Compaction 与当前 Context](https://liuyaowen.cn/posts/agent-llm-engineering/pi-session-tree-jsonl-branch-compaction-context)
+- [Agent Runtime 系列（八）：Demo：实现一个可以 Crash Recovery 的 Agent Session](https://liuyaowen.cn/posts/agent-llm-engineering/agent-session-crash-recovery-demo)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
