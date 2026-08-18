@@ -109,6 +109,8 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
+- [Mimo](https://github.com/liyown/Mimo)
+- [mino](https://github.com/liyown/mino)
 - [honor-card](https://github.com/liyown/honor-card) - 可自定义并本地保存的电子工卡页面
 - [1panel-cli](https://github.com/liyown/1panel-cli) - Independent CLI for remotely managing 1Panel V2 instances
 - [img](https://github.com/liyown/img) - CLI image uploader for developers & AI agents — S3/R2, OSS, GitHub, HTTP · 为开发者和 AI Agent 设计的图片上传工具
