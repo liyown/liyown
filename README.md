@@ -48,7 +48,7 @@ $ neofetch
       <img alt="关注者" src="https://img.shields.io/badge/Followers-43-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.5-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.6-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
       <img alt="贡献仓库" src="https://img.shields.io/badge/Contributed_To-2-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
@@ -59,13 +59,13 @@ $ neofetch
       <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-72-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-4117-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
+      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-4118-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
     </td>
     <td align="center">
       <img alt="Fork数" src="https://img.shields.io/badge/Forked-550-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-4117-26A641?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-4118-26A641?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@ $ neofetch
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/08/18</sup>
+<sup>📅 统计更新于: 2026/08/19</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
