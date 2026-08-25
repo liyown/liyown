@@ -109,6 +109,7 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
+- [dshx](https://github.com/liyown/dshx) - Build, test, and ship typed DeepSeek Harness plugins — framework, scaffolding, and a verified community Hub.
 - [Mimo](https://github.com/liyown/Mimo)
 - [mino](https://github.com/liyown/mino)
 - [honor-card](https://github.com/liyown/honor-card) - 可自定义并本地保存的电子工卡页面
