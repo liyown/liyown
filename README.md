@@ -166,6 +166,8 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么我做了 DSHX：给 DeepSeek Harness 补一套插件开发工作流](https://liuyaowen.cn/posts/agent-llm-engineering/dshx-deepseek-harness-plugin-toolchain)
+- [MCP 正在补上的一块拼图：Skills Over MCP](https://liuyaowen.cn/posts/agent-llm-engineering/skills-over-mcp-sep-2640)
 - [Agent Runtime 系列（十六）：Demo：实现一个可恢复、可投影、可插件化的 Agent Web Runtime](https://liuyaowen.cn/posts/agent-llm-engineering/recoverable-projectable-plugin-agent-web-runtime-demo)
 - [Agent Runtime 系列（十五）：DeepSeek Harness 的插件化 UI：Slot、Hook、Props 与 React](https://liuyaowen.cn/posts/agent-llm-engineering/deepseek-harness-plugin-ui-slots-react)
 - [Agent Runtime 系列（十四）：Agent UI 的状态从哪里来：Event、Projection 与 Client Runtime](https://liuyaowen.cn/posts/agent-llm-engineering/agent-ui-event-projection-client-runtime)
@@ -174,8 +176,6 @@ $ neofetch
 - [Agent Runtime 系列（十一）：Cordis 与 DeepSeek Harness：插件卸载以后，依赖链如何重新稳定](https://liuyaowen.cn/posts/agent-llm-engineering/cordis-dependency-chain-lifecycle-reconciliation)
 - [Agent Runtime 系列（十）：时空可组合性：动态插件系统如何处理副作用与依赖](https://liuyaowen.cn/posts/agent-llm-engineering/spatiotemporal-composability-plugin-effects-dependencies)
 - [Agent Runtime 系列（九）：Agent Core 为什么会越来越重：从 Pi Extension 看 Harness 的扩展边界](https://liuyaowen.cn/posts/agent-llm-engineering/pi-extension-harness-core-boundary)
-- [Agent Runtime 系列（六）：Pi Session Tree：一份 JSONL 如何保存分支、Compaction 与当前 Context](https://liuyaowen.cn/posts/agent-llm-engineering/pi-session-tree-jsonl-branch-compaction-context)
-- [Agent Runtime 系列（八）：Demo：实现一个可以 Crash Recovery 的 Agent Session](https://liuyaowen.cn/posts/agent-llm-engineering/agent-session-crash-recovery-demo)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
