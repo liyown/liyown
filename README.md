@@ -166,6 +166,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MyBatis foreach 遍历 Pair 报错：为什么 item 会变成 String？](https://liuyaowen.cn/posts/databases-storage/mybatis-foreach-pair-map-entry-item-string)
 - [为什么我做了 DSHX：给 DeepSeek Harness 补一套插件开发工作流](https://liuyaowen.cn/posts/agent-llm-engineering/dshx-deepseek-harness-plugin-toolchain)
 - [MCP 正在补上的一块拼图：Skills Over MCP](https://liuyaowen.cn/posts/agent-llm-engineering/skills-over-mcp-sep-2640)
 - [Agent Runtime 系列（十六）：Demo：实现一个可恢复、可投影、可插件化的 Agent Web Runtime](https://liuyaowen.cn/posts/agent-llm-engineering/recoverable-projectable-plugin-agent-web-runtime-demo)
@@ -175,7 +176,6 @@ $ neofetch
 - [Agent Runtime 系列（十二）：Demo：实现一个会随依赖变化自动启停的 Plugin Runtime](https://liuyaowen.cn/posts/agent-llm-engineering/dynamic-plugin-runtime-dependency-lifecycle-demo)
 - [Agent Runtime 系列（十一）：Cordis 与 DeepSeek Harness：插件卸载以后，依赖链如何重新稳定](https://liuyaowen.cn/posts/agent-llm-engineering/cordis-dependency-chain-lifecycle-reconciliation)
 - [Agent Runtime 系列（十）：时空可组合性：动态插件系统如何处理副作用与依赖](https://liuyaowen.cn/posts/agent-llm-engineering/spatiotemporal-composability-plugin-effects-dependencies)
-- [Agent Runtime 系列（九）：Agent Core 为什么会越来越重：从 Pi Extension 看 Harness 的扩展边界](https://liuyaowen.cn/posts/agent-llm-engineering/pi-extension-harness-core-boundary)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
