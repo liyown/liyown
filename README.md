@@ -110,7 +110,6 @@ $ neofetch
 
 <!--PROJECTS-->
 - [dshx](https://github.com/liyown/dshx) - Build, test, and ship typed DeepSeek Harness plugins — framework, scaffolding, and a verified community Hub.
-- [mino](https://github.com/liyown/mino) - 原生 macOS 个人桌宠。每个账号一只宠物。好友接受后可以串门、互动，也可以托密封信件。基础互动在本机立刻回应。
 - [honor-card](https://github.com/liyown/honor-card) - 可自定义并本地保存的电子工卡页面
 - [1panel-cli](https://github.com/liyown/1panel-cli) - Independent CLI for remotely managing 1Panel V2 instances
 - [img](https://github.com/liyown/img) - CLI image uploader for developers & AI agents — S3/R2, OSS, GitHub, HTTP · 为开发者和 AI Agent 设计的图片上传工具
