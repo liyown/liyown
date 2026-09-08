@@ -112,7 +112,7 @@ $ neofetch
 - [dshx](https://github.com/liyown/dshx) - Build, test, and ship typed DeepSeek Harness plugins — framework, scaffolding, and a verified community Hub.
 - [honor-card](https://github.com/liyown/honor-card) - 可自定义并本地保存的电子工卡页面
 - [1panel-cli](https://github.com/liyown/1panel-cli) - Independent CLI for remotely managing 1Panel V2 instances
-- [img](https://github.com/liyown/img) - CLI image uploader for developers & AI agents — S3/R2, OSS, GitHub, HTTP · 为开发者和 AI Agent 设计的图片上传工具
+- [img](https://github.com/liyown/img) - Native image uploader built with Rust. Desktop app, standalone CLI and Agent Skill for macOS, Windows and Linux. Supports R2, S3, OSS, GitHub and HTTP storage.
 - [SKILL](https://github.com/liyown/SKILL)
 - [MailRelay](https://github.com/liyown/MailRelay) - Turn authenticated email into safe, auditable automation commands.
 - [looplane](https://github.com/liyown/looplane) - Loop engineering scaffold for Linear-based local agents.
