@@ -37,7 +37,7 @@ $ neofetch
   <tr>
     <td align="center" colspan="4">
       <img alt="GitHub评级" src="https://img.shields.io/badge/Grade-SS-F84?style=for-the-badge&logo=github&logoColor=white" />
-      <img alt="GitHub分数" src="https://img.shields.io/badge/Score-3141-F84?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="GitHub分数" src="https://img.shields.io/badge/Score-3146-F84?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ $ neofetch
       <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.6-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td align="center">
-      <img alt="贡献仓库" src="https://img.shields.io/badge/Contributed_To-2-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="贡献仓库" src="https://img.shields.io/badge/Contributed_To-3-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ $ neofetch
   </tr>
   <tr>
     <td align="center">
-      <img alt="提交数量" src="https://img.shields.io/badge/Commits-994-2188FF?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="提交数量" src="https://img.shields.io/badge/Commits-1017-2188FF?style=for-the-badge&logo=git&logoColor=white" />
     </td>
     <td align="center">
       <img alt="议题数量" src="https://img.shields.io/badge/Issues-68-F74D53?style=for-the-badge&logo=github&logoColor=white" />
@@ -98,7 +98,7 @@ $ neofetch
   </tr>
 </table>
 
-<sup>📅 统计更新于: 2026/09/08</sup>
+<sup>📅 统计更新于: 2026/09/09</sup>
 
 </div>
 <!-- END_GITHUB_STATS -->
