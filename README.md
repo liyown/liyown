@@ -180,12 +180,12 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/liyown/dshx/pull/5) in [liyown/dshx](https://github.com/liyown/dshx)
-2. 💪 Opened PR [#4](https://github.com/liyown/dshx/pull/4) in [liyown/dshx](https://github.com/liyown/dshx)
-3. 🎉 Merged PR [#4](https://github.com/liyown/dshx/pull/4) in [liyown/dshx](https://github.com/liyown/dshx)
-4. 🎉 Merged PR [#1](https://github.com/liyown/dshx/pull/1) in [liyown/dshx](https://github.com/liyown/dshx)
-5. 💪 Opened PR [#1](https://github.com/liyown/dshx/pull/1) in [liyown/dshx](https://github.com/liyown/dshx)
-6. 🗣 Commented on [#69](https://github.com/liyown/ai-trend-publish/issues/69#issuecomment-5204282896) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
+1. ❗ Opened issue [#11584](https://github.com/ruanyf/weekly/issues/11584) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+2. 🎉 Merged PR [#5](https://github.com/liyown/dshx/pull/5) in [liyown/dshx](https://github.com/liyown/dshx)
+3. 💪 Opened PR [#4](https://github.com/liyown/dshx/pull/4) in [liyown/dshx](https://github.com/liyown/dshx)
+4. 🎉 Merged PR [#4](https://github.com/liyown/dshx/pull/4) in [liyown/dshx](https://github.com/liyown/dshx)
+5. 🎉 Merged PR [#1](https://github.com/liyown/dshx/pull/1) in [liyown/dshx](https://github.com/liyown/dshx)
+6. 💪 Opened PR [#1](https://github.com/liyown/dshx/pull/1) in [liyown/dshx](https://github.com/liyown/dshx)
 7. 🔒 Closed issue [#35](https://github.com/liyown/ai-trend-publish/issues/35) in [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish)
 8. 🎉 Merged PR [#5](https://github.com/liyown/git-spread/pull/5) in [liyown/git-spread](https://github.com/liyown/git-spread)
 9. 💪 Opened PR [#5](https://github.com/liyown/git-spread/pull/5) in [liyown/git-spread](https://github.com/liyown/git-spread)
