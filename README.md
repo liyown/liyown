@@ -165,16 +165,16 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GSC 实战：如何判断 SEO 改动有效，而不是只看 CTR](https://liuyaowen.cn/posts/projects-practice/indie-developer-seo-growth-gsc)
+- [独立开发者外链实战：从 Ahrefs 实验看别人为什么引用你](https://liuyaowen.cn/posts/projects-practice/indie-developer-link-building)
+- [独立开发者关键词研究：从 Plausible 和 Bannerbear 学选题](https://liuyaowen.cn/posts/projects-practice/indie-developer-keyword-research)
+- [独立开发者技术 SEO：先定位问题，再决定要不要改代码](https://liuyaowen.cn/posts/projects-practice/indie-developer-technical-seo)
 - [Uber 如何在 Agent 请求增长 9.4 倍后稳住 AI 成本](https://liuyaowen.cn/posts/agent-llm-engineering/uber-agent-cost-engineering-9-4x-requests)
 - [MyBatis foreach 遍历 Pair 报错：为什么 item 会变成 String？](https://liuyaowen.cn/posts/databases-storage/mybatis-foreach-pair-map-entry-item-string)
 - [为什么我做了 DSHX：给 DeepSeek Harness 补一套插件开发工作流](https://liuyaowen.cn/posts/agent-llm-engineering/dshx-deepseek-harness-plugin-toolchain)
 - [MCP 正在补上的一块拼图：Skills Over MCP](https://liuyaowen.cn/posts/agent-llm-engineering/skills-over-mcp-sep-2640)
 - [Agent Runtime 系列（十六）：Demo：实现一个可恢复、可投影、可插件化的 Agent Web Runtime](https://liuyaowen.cn/posts/agent-llm-engineering/recoverable-projectable-plugin-agent-web-runtime-demo)
 - [Agent Runtime 系列（十五）：DeepSeek Harness 的插件化 UI：Slot、Hook、Props 与 React](https://liuyaowen.cn/posts/agent-llm-engineering/deepseek-harness-plugin-ui-slots-react)
-- [Agent Runtime 系列（十四）：Agent UI 的状态从哪里来：Event、Projection 与 Client Runtime](https://liuyaowen.cn/posts/agent-llm-engineering/agent-ui-event-projection-client-runtime)
-- [Agent Runtime 系列（十三）：Agent 进入 Web 后，Session、Run 和连接应该怎么分离](https://liuyaowen.cn/posts/agent-llm-engineering/agent-web-session-run-connection-lifecycle)
-- [Agent Runtime 系列（十二）：Demo：实现一个会随依赖变化自动启停的 Plugin Runtime](https://liuyaowen.cn/posts/agent-llm-engineering/dynamic-plugin-runtime-dependency-lifecycle-demo)
-- [Agent Runtime 系列（十一）：Cordis 与 DeepSeek Harness：插件卸载以后，依赖链如何重新稳定](https://liuyaowen.cn/posts/agent-llm-engineering/cordis-dependency-chain-lifecycle-reconciliation)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
