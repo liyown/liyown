@@ -36,8 +36,17 @@ $ neofetch
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/star-track/profile-dark-compact.svg" />
   <source media="(max-width: 640px)" srcset="assets/star-track/profile-light-compact.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/star-track/profile-dark.svg" />
-  <img src="assets/star-track/profile-light.svg" alt="Liuyaowen: 4181 stars, 51 repositories, 397 contributions, SS (2994). Updated 2026-09-20 UTC." width="100%" />
+  <img src="assets/star-track/profile-light.svg" alt="Liuyaowen: 4181 stars, 51 repositories, 400 contributions, SS (2994). Updated 2026-09-20 UTC." width="100%" />
 </picture>
+
+[liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) · [liyown/marknative](https://github.com/liyown/marknative) · [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
+
+<details>
+<summary>查看统计与评分明细</summary>
+
+[完整统计报告](assets/star-track/summary.md) · [JSON](assets/star-track/stats.json)
+
+</details>
 
 <!-- prettier-ignore-end -->
 
