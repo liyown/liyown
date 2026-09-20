@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-09-20T03:37:02.384Z",
+  "collectedAt": "2026-09-20T03:42:21.276Z",
   "window": {
-    "from": "2025-09-20T03:37:02.384Z",
-    "to": "2026-09-20T03:37:02.384Z"
+    "from": "2025-09-20T03:42:21.276Z",
+    "to": "2026-09-20T03:42:21.276Z"
   },
   "scope": {
     "username": "liyown",
@@ -17,8 +17,8 @@
     "followers": 48,
     "following": 5,
     "contributedTo": 32,
-    "contributions": 402,
-    "commits": 349,
+    "contributions": 404,
+    "commits": 351,
     "issues": 4,
     "pullRequests": 18,
     "reviews": 1,
@@ -1481,7 +1481,7 @@
       },
       {
         "date": "2026-09-20",
-        "count": 7
+        "count": 9
       }
     ]
   },
@@ -2493,7 +2493,7 @@
     "breakdown": {
       "repositories": 51,
       "stars": 2090.5,
-      "commits": 34.9,
+      "commits": 35.1,
       "issues": 0.2,
       "pullRequests": 1.8,
       "followers": 14.4,
