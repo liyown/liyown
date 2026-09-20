@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: Generate profile
-        uses: liyown/star-track-action@16ab8952909839b190a5373bb76e1d91bd39e88a
+        uses: liyown/star-track-action@40b61ef4c908b9ac4ad4be985775cfd86cb10251
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           config_path: star-track.yml
