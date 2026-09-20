@@ -29,81 +29,30 @@ $ neofetch
 
 
 <!-- BEGIN_GITHUB_STATS -->
-<div align="center">
 
-## 我的GitHub统计
+<!-- prettier-ignore-start -->
 
-<table>
-  <tr>
-    <td align="center" colspan="4">
-      <img alt="GitHub评级" src="https://img.shields.io/badge/Grade-SS-F84?style=for-the-badge&logo=github&logoColor=white" />
-      <img alt="GitHub分数" src="https://img.shields.io/badge/Score-3162-F84?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="用户" src="https://img.shields.io/badge/User-liyown-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="关注者" src="https://img.shields.io/badge/Followers-47-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="活跃时间" src="https://img.shields.io/badge/Years_Active-5.6-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="贡献仓库" src="https://img.shields.io/badge/Contributed_To-4-2D9EF1?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="仓库数量" src="https://img.shields.io/badge/Repositories-72-26A641?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="获得的星标数" src="https://img.shields.io/badge/Stars-4183-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
-    </td>
-    <td align="center">
-      <img alt="Fork数" src="https://img.shields.io/badge/Forked-562-26A641?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="被Watch数" src="https://img.shields.io/badge/Watched-4183-26A641?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="提交数量" src="https://img.shields.io/badge/Commits-1016-2188FF?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="议题数量" src="https://img.shields.io/badge/Issues-68-F74D53?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="拉取请求数量" src="https://img.shields.io/badge/Pull_Requests-56-A371F7?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="主要语言" src="https://img.shields.io/badge/Top_Language-TypeScript-2188FF?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="每仓库提交" src="https://img.shields.io/badge/Commits_Per_Repo-14-2188FF?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="每仓库星标" src="https://img.shields.io/badge/Stars_Per_Repo-58.1-FFD94C?style=for-the-badge&logo=github&logoColor=black" />
-    </td>
-    <td align="center">
-      <img alt="Issue关闭率" src="https://img.shields.io/badge/Issue_Close_Rate-93%25-F74D53?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="PR合并率" src="https://img.shields.io/badge/PR_Merge_Rate-54%25-A371F7?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/star-track/profile-dark-compact.svg" />
+  <source media="(max-width: 640px)" srcset="assets/star-track/profile-light-compact.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/star-track/profile-dark.svg" />
+  <img src="assets/star-track/profile-light.svg" alt="Liuyaowen: 4181 stars, 51 repositories, 395 contributions, SS (2991). Updated 2026-09-20 UTC." width="100%" />
+</picture>
 
-<sup>📅 统计更新于: 2026/09/19</sup>
+[liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) · [liyown/marknative](https://github.com/liyown/marknative) · [liyown/ai-navigation](https://github.com/liyown/ai-navigation)
 
-</div>
+<details>
+<summary>查看统计与评分明细</summary>
+
+[完整统计报告](assets/star-track/summary.md) · [JSON](assets/star-track/stats.json)
+
+</details>
+
+<!-- prettier-ignore-end -->
+
 <!-- END_GITHUB_STATS -->
 
-想拥有同款卡片吗? 看这里 👉 https://github.com/OpenAISpace/star-track-action
+想拥有同款开源名片？[让 Agent 一键接入 →](https://github.com/liyown/star-track-action#一键-agent-接入)
 
 
 ### 📌 My Projects

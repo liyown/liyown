@@ -1,26 +1,24 @@
-name: Update GitHub Stats
+name: Update Star Track profile
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天运行一次
-  workflow_dispatch:     # 允许手动触发
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: star-track-profile
+  cancel-in-progress: false
 
 jobs:
-  update-stats:
+  profile:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write    # 需要写入权限以提交更改
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Update GitHub Stats
-        uses: OpenAISpace/star-track-action@v1
+      - uses: actions/checkout@v6
+      - name: Generate profile
+        uses: liyown/star-track-action@72763108525132f68465271a2f506b794192476b
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: liyown
-
-          scope: all             # 'personal'(仅个人仓库)或'all'(包括组织)，默认为'personal'
-          readme_path: README.md # README文件路径，默认为'README.md'
-          card_title: 我的GitHub统计  # 卡片标题，默认为'GitHub Stats'
-
-          
+          config_path: star-track.yml
