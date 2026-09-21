@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-09-20T04:41:51.506Z",
+  "collectedAt": "2026-09-21T04:40:22.529Z",
   "window": {
-    "from": "2025-09-20T04:41:51.506Z",
-    "to": "2026-09-20T04:41:51.506Z"
+    "from": "2025-09-21T04:40:22.529Z",
+    "to": "2026-09-21T04:40:22.529Z"
   },
   "scope": {
     "username": "liyown",
@@ -1482,6 +1482,10 @@
       {
         "date": "2026-09-20",
         "count": 9
+      },
+      {
+        "date": "2026-09-21",
+        "count": 0
       }
     ]
   },
@@ -1583,7 +1587,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3188,
+      "stars": 3189,
       "forks": 444,
       "watchers": 22,
       "issues": 52,
@@ -2413,7 +2417,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3188,
+      "stars": 3189,
       "forks": 444,
       "watchers": 22,
       "issues": 52,
@@ -2462,7 +2466,7 @@
     }
   ],
   "totals": {
-    "stars": 4181,
+    "stars": 4182,
     "repositories": 51,
     "forks": 561,
     "watchers": 62,
@@ -2486,13 +2490,13 @@
   "rating": {
     "version": "v2",
     "grade": "SS",
-    "score": 2994,
+    "score": 2995,
     "nextGrade": "SS+",
     "nextScore": 3500,
-    "progress": 0.6626666666666666,
+    "progress": 0.6633333333333333,
     "breakdown": {
       "repositories": 51,
-      "stars": 2090.5,
+      "stars": 2091,
       "commits": 35.1,
       "issues": 0.2,
       "pullRequests": 1.8,
