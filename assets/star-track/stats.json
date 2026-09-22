@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-09-21T04:40:22.529Z",
+  "collectedAt": "2026-09-22T04:36:31.488Z",
   "window": {
-    "from": "2025-09-21T04:40:22.529Z",
-    "to": "2026-09-21T04:40:22.529Z"
+    "from": "2025-09-22T04:36:31.488Z",
+    "to": "2026-09-22T04:36:31.488Z"
   },
   "scope": {
     "username": "liyown",
@@ -14,7 +14,7 @@
     "login": "liyown",
     "name": "Evan",
     "createdAt": "2019-09-19T05:18:46Z",
-    "followers": 48,
+    "followers": 49,
     "following": 5,
     "contributedTo": 32,
     "contributions": 404,
@@ -23,10 +23,6 @@
     "pullRequests": 18,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-09-21",
-        "count": 0
-      },
       {
         "date": "2025-09-22",
         "count": 0
@@ -1486,6 +1482,10 @@
       {
         "date": "2026-09-21",
         "count": 0
+      },
+      {
+        "date": "2026-09-22",
+        "count": 0
       }
     ]
   },
@@ -1893,7 +1893,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 657,
+      "stars": 658,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -2435,7 +2435,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 657,
+      "stars": 658,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -2466,7 +2466,7 @@
     }
   ],
   "totals": {
-    "stars": 4182,
+    "stars": 4183,
     "repositories": 51,
     "forks": 561,
     "watchers": 62,
@@ -2496,11 +2496,11 @@
     "progress": 0.6633333333333333,
     "breakdown": {
       "repositories": 51,
-      "stars": 2091,
+      "stars": 2091.5,
       "commits": 35.1,
       "issues": 0.2,
       "pullRequests": 1.8,
-      "followers": 14.4,
+      "followers": 14.7,
       "contributedRepositories": 64,
       "forks": 112.2,
       "starMilestone": 500,
