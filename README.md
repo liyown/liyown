@@ -114,16 +114,16 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GSC 实战：如何判断 SEO 改动有效，而不是只看 CTR](https://liuyaowen.cn/posts/projects-practice/indie-developer-seo-growth-gsc)
-- [独立开发者外链实战：从 Ahrefs 实验看别人为什么引用你](https://liuyaowen.cn/posts/projects-practice/indie-developer-link-building)
-- [独立开发者关键词研究：从 Plausible 和 Bannerbear 学选题](https://liuyaowen.cn/posts/projects-practice/indie-developer-keyword-research)
-- [独立开发者技术 SEO：先定位问题，再决定要不要改代码](https://liuyaowen.cn/posts/projects-practice/indie-developer-technical-seo)
-- [Uber 如何在 Agent 请求增长 9.4 倍后稳住 AI 成本](https://liuyaowen.cn/posts/agent-llm-engineering/uber-agent-cost-engineering-9-4x-requests)
-- [MyBatis foreach 遍历 Pair 报错：为什么 item 会变成 String？](https://liuyaowen.cn/posts/databases-storage/mybatis-foreach-pair-map-entry-item-string)
-- [为什么我做了 DSHX：给 DeepSeek Harness 补一套插件开发工作流](https://liuyaowen.cn/posts/agent-llm-engineering/dshx-deepseek-harness-plugin-toolchain)
-- [MCP 正在补上的一块拼图：Skills Over MCP](https://liuyaowen.cn/posts/agent-llm-engineering/skills-over-mcp-sep-2640)
-- [Agent Runtime 系列（十六）：Demo：实现一个可恢复、可投影、可插件化的 Agent Web Runtime](https://liuyaowen.cn/posts/agent-llm-engineering/recoverable-projectable-plugin-agent-web-runtime-demo)
-- [Agent Runtime 系列（十五）：DeepSeek Harness 的插件化 UI：Slot、Hook、Props 与 React](https://liuyaowen.cn/posts/agent-llm-engineering/deepseek-harness-plugin-ui-slots-react)
+- [从零实现一个多轮意图识别助手：语料、状态、路由与评测](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-assistant-demo)
+- [意图识别服务上线：延迟、成本、监控与错误闭环](https://liuyaowen.cn/posts/ai-machine-learning/production-intent-recognition-service)
+- [RAG 与 Agent 中的意图路由：检索、工具、闲聊与澄清](https://liuyaowen.cn/posts/ai-machine-learning/rag-agent-intent-routing)
+- [意图识别小模型实战：分类头训练、知识蒸馏与低成本部署](https://liuyaowen.cn/posts/ai-machine-learning/small-model-intent-recognition-finetuning)
+- [意图识别怎么评测：从分类准确率到多轮任务成功率](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-evaluation)
+- [意图不明确时怎么办：未知意图识别、拒识与澄清追问](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-unknown-clarification)
+- [一句话多个意图怎么办：多标签识别、条件与任务依赖](https://liuyaowen.cn/posts/ai-machine-learning/multi-intent-recognition-task-dependencies)
+- [意图识别模型怎么选：规则、TF-IDF、向量检索与小模型基线](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-rules-vectors-baselines)
+- [意图标签怎么设计：分类粒度、槽位边界与多级意图体系](https://liuyaowen.cn/posts/ai-machine-learning/intent-label-taxonomy-design)
+- [多轮对话意图识别：上下文、槽位与对话状态如何协同](https://liuyaowen.cn/posts/ai-machine-learning/multi-turn-intent-recognition-context)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
