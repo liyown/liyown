@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-09-25T04:41:30.443Z",
+  "collectedAt": "2026-09-26T04:44:09.215Z",
   "window": {
-    "from": "2025-09-25T04:41:30.443Z",
-    "to": "2026-09-25T04:41:30.443Z"
+    "from": "2025-09-26T04:44:09.215Z",
+    "to": "2026-09-26T04:44:09.215Z"
   },
   "scope": {
     "username": "liyown",
@@ -23,10 +23,6 @@
     "pullRequests": 18,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-09-25",
-        "count": 0
-      },
       {
         "date": "2025-09-26",
         "count": 0
@@ -1486,6 +1482,10 @@
       {
         "date": "2026-09-25",
         "count": 0
+      },
+      {
+        "date": "2026-09-26",
+        "count": 0
       }
     ]
   },
@@ -1587,7 +1587,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3193,
+      "stars": 3194,
       "forks": 446,
       "watchers": 22,
       "issues": 52,
@@ -1677,7 +1677,7 @@
       "description": "Build, test, and ship typed DeepSeek Harness plugins — framework, scaffolding, and a verified community Hub.",
       "url": "https://github.com/liyown/dshx",
       "language": "TypeScript",
-      "stars": 14,
+      "stars": 13,
       "forks": 1,
       "watchers": 1,
       "issues": 1,
@@ -1893,7 +1893,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 658,
+      "stars": 659,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -2417,7 +2417,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3193,
+      "stars": 3194,
       "forks": 446,
       "watchers": 22,
       "issues": 52,
@@ -2435,7 +2435,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 658,
+      "stars": 659,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -2466,7 +2466,7 @@
     }
   ],
   "totals": {
-    "stars": 4187,
+    "stars": 4188,
     "repositories": 51,
     "forks": 563,
     "watchers": 62,
@@ -2496,7 +2496,7 @@
     "progress": 0.6653333333333333,
     "breakdown": {
       "repositories": 51,
-      "stars": 2093.5,
+      "stars": 2094,
       "commits": 35.1,
       "issues": 0.2,
       "pullRequests": 1.8,
