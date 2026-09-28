@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-09-27T05:06:06.979Z",
+  "collectedAt": "2026-09-28T05:08:20.961Z",
   "window": {
-    "from": "2025-09-27T05:06:06.979Z",
-    "to": "2026-09-27T05:06:06.979Z"
+    "from": "2025-09-28T05:08:20.961Z",
+    "to": "2026-09-28T05:08:20.961Z"
   },
   "scope": {
     "username": "liyown",
@@ -1482,6 +1482,10 @@
       {
         "date": "2026-09-27",
         "count": 0
+      },
+      {
+        "date": "2026-09-28",
+        "count": 0
       }
     ]
   },
@@ -1584,7 +1588,7 @@
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
       "stars": 3194,
-      "forks": 446,
+      "forks": 447,
       "watchers": 22,
       "issues": 52,
       "closedIssues": 50,
@@ -2414,7 +2418,7 @@
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
       "stars": 3194,
-      "forks": 446,
+      "forks": 447,
       "watchers": 22,
       "issues": 52,
       "closedIssues": 50,
@@ -2464,7 +2468,7 @@
   "totals": {
     "stars": 4188,
     "repositories": 51,
-    "forks": 563,
+    "forks": 564,
     "watchers": 62,
     "issues": 68,
     "pullRequests": 55,
@@ -2486,10 +2490,10 @@
   "rating": {
     "version": "v2",
     "grade": "SS",
-    "score": 2998,
+    "score": 2999,
     "nextGrade": "SS+",
     "nextScore": 3500,
-    "progress": 0.6653333333333333,
+    "progress": 0.666,
     "breakdown": {
       "repositories": 51,
       "stars": 2094,
@@ -2498,7 +2502,7 @@
       "pullRequests": 1.8,
       "followers": 14.7,
       "contributedRepositories": 64,
-      "forks": 112.6,
+      "forks": 112.8,
       "starMilestone": 500,
       "averageStars": 100,
       "longevity": 25
