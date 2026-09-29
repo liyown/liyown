@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-09-28T05:08:20.961Z",
+  "collectedAt": "2026-09-29T05:31:33.681Z",
   "window": {
-    "from": "2025-09-28T05:08:20.961Z",
-    "to": "2026-09-28T05:08:20.961Z"
+    "from": "2025-09-29T05:31:33.681Z",
+    "to": "2026-09-29T05:31:33.681Z"
   },
   "scope": {
     "username": "liyown",
@@ -23,10 +23,6 @@
     "pullRequests": 18,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-09-28",
-        "count": 0
-      },
       {
         "date": "2025-09-29",
         "count": 0
@@ -1485,6 +1481,10 @@
       },
       {
         "date": "2026-09-28",
+        "count": 0
+      },
+      {
+        "date": "2026-09-29",
         "count": 0
       }
     ]
