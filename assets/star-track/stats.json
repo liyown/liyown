@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-01T05:34:41.562Z",
+  "collectedAt": "2026-10-02T05:21:46.191Z",
   "window": {
-    "from": "2025-10-01T05:34:41.562Z",
-    "to": "2026-10-01T05:34:41.562Z"
+    "from": "2025-10-02T05:21:46.191Z",
+    "to": "2026-10-02T05:21:46.191Z"
   },
   "scope": {
     "username": "liyown",
@@ -14,7 +14,7 @@
     "login": "liyown",
     "name": "Evan",
     "createdAt": "2019-09-19T05:18:46Z",
-    "followers": 49,
+    "followers": 50,
     "following": 5,
     "contributedTo": 32,
     "contributions": 404,
@@ -23,10 +23,6 @@
     "pullRequests": 18,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-01",
-        "count": 0
-      },
       {
         "date": "2025-10-02",
         "count": 0
@@ -1486,6 +1482,10 @@
       {
         "date": "2026-10-01",
         "count": 0
+      },
+      {
+        "date": "2026-10-02",
+        "count": 0
       }
     ]
   },
@@ -1587,7 +1587,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3195,
+      "stars": 3198,
       "forks": 447,
       "watchers": 22,
       "issues": 52,
@@ -2417,7 +2417,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3195,
+      "stars": 3198,
       "forks": 447,
       "watchers": 22,
       "issues": 52,
@@ -2466,7 +2466,7 @@
     }
   ],
   "totals": {
-    "stars": 4189,
+    "stars": 4192,
     "repositories": 51,
     "forks": 564,
     "watchers": 62,
@@ -2490,17 +2490,17 @@
   "rating": {
     "version": "v2",
     "grade": "SS",
-    "score": 2999,
+    "score": 3001,
     "nextGrade": "SS+",
     "nextScore": 3500,
-    "progress": 0.666,
+    "progress": 0.6673333333333333,
     "breakdown": {
       "repositories": 51,
-      "stars": 2094.5,
+      "stars": 2096,
       "commits": 35.1,
       "issues": 0.2,
       "pullRequests": 1.8,
-      "followers": 14.7,
+      "followers": 15,
       "contributedRepositories": 64,
       "forks": 112.8,
       "starMilestone": 500,
