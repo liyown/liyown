@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-03T05:04:31.346Z",
+  "collectedAt": "2026-10-04T05:37:29.066Z",
   "window": {
-    "from": "2025-10-03T05:04:31.346Z",
-    "to": "2026-10-03T05:04:31.346Z"
+    "from": "2025-10-04T05:37:29.066Z",
+    "to": "2026-10-04T05:37:29.066Z"
   },
   "scope": {
     "username": "liyown",
@@ -23,14 +23,6 @@
     "pullRequests": 18,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-03",
-        "count": 0
-      },
-      {
-        "date": "2025-10-04",
-        "count": 0
-      },
       {
         "date": "2025-10-05",
         "count": 0
@@ -1486,6 +1478,10 @@
       {
         "date": "2026-10-03",
         "count": 0
+      },
+      {
+        "date": "2026-10-04",
+        "count": 0
       }
     ]
   },
@@ -1677,7 +1673,7 @@
       "description": "Build, test, and ship typed DeepSeek Harness plugins — framework, scaffolding, and a verified community Hub.",
       "url": "https://github.com/liyown/dshx",
       "language": "TypeScript",
-      "stars": 13,
+      "stars": 15,
       "forks": 1,
       "watchers": 1,
       "issues": 1,
@@ -2466,7 +2462,7 @@
     }
   ],
   "totals": {
-    "stars": 4192,
+    "stars": 4194,
     "repositories": 51,
     "forks": 564,
     "watchers": 62,
@@ -2490,13 +2486,13 @@
   "rating": {
     "version": "v2",
     "grade": "SS",
-    "score": 3001,
+    "score": 3002,
     "nextGrade": "SS+",
     "nextScore": 3500,
-    "progress": 0.6673333333333333,
+    "progress": 0.668,
     "breakdown": {
       "repositories": 51,
-      "stars": 2096,
+      "stars": 2097,
       "commits": 35.1,
       "issues": 0.2,
       "pullRequests": 1.8,
