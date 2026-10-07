@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-06T06:04:24.518Z",
+  "collectedAt": "2026-10-07T05:40:04.760Z",
   "window": {
-    "from": "2025-10-06T06:04:24.518Z",
-    "to": "2026-10-06T06:04:24.518Z"
+    "from": "2025-10-07T05:40:04.760Z",
+    "to": "2026-10-07T05:40:04.760Z"
   },
   "scope": {
     "username": "liyown",
@@ -23,10 +23,6 @@
     "pullRequests": 18,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-06",
-        "count": 0
-      },
       {
         "date": "2025-10-07",
         "count": 0
@@ -1486,6 +1482,10 @@
       {
         "date": "2026-10-06",
         "count": 0
+      },
+      {
+        "date": "2026-10-07",
+        "count": 0
       }
     ]
   },
@@ -1551,7 +1551,7 @@
       "description": "AI 导航是一个现代化的人工智能网站导航系统，致力于帮助用户发现、分享和管理优质的 AI 工具与资源。项目采用最新的 Web 技术栈构建，提供流畅的用户体验和强大的管理功能。",
       "url": "https://github.com/liyown/ai-navigation",
       "language": "TypeScript",
-      "stars": 129,
+      "stars": 130,
       "forks": 70,
       "watchers": 2,
       "issues": 3,
@@ -1587,8 +1587,8 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3195,
-      "forks": 447,
+      "stars": 3196,
+      "forks": 448,
       "watchers": 22,
       "issues": 52,
       "closedIssues": 50,
@@ -2417,8 +2417,8 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3195,
-      "forks": 447,
+      "stars": 3196,
+      "forks": 448,
       "watchers": 22,
       "issues": 52,
       "closedIssues": 50,
@@ -2453,7 +2453,7 @@
       "description": "AI 导航是一个现代化的人工智能网站导航系统，致力于帮助用户发现、分享和管理优质的 AI 工具与资源。项目采用最新的 Web 技术栈构建，提供流畅的用户体验和强大的管理功能。",
       "url": "https://github.com/liyown/ai-navigation",
       "language": "TypeScript",
-      "stars": 129,
+      "stars": 130,
       "forks": 70,
       "watchers": 2,
       "issues": 3,
@@ -2466,9 +2466,9 @@
     }
   ],
   "totals": {
-    "stars": 4191,
+    "stars": 4193,
     "repositories": 51,
-    "forks": 564,
+    "forks": 565,
     "watchers": 62,
     "issues": 68,
     "pullRequests": 55,
@@ -2490,19 +2490,19 @@
   "rating": {
     "version": "v2",
     "grade": "SS",
-    "score": 3000,
+    "score": 3002,
     "nextGrade": "SS+",
     "nextScore": 3500,
-    "progress": 0.6666666666666666,
+    "progress": 0.668,
     "breakdown": {
       "repositories": 51,
-      "stars": 2095.5,
+      "stars": 2096.5,
       "commits": 35.1,
       "issues": 0.2,
       "pullRequests": 1.8,
       "followers": 15,
       "contributedRepositories": 64,
-      "forks": 112.8,
+      "forks": 113,
       "starMilestone": 500,
       "averageStars": 100,
       "longevity": 25
