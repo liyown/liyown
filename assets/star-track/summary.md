@@ -1,14 +1,14 @@
 # Liuyaowen · Star Track
 
-Updated: 2026-10-08T05:48:24.816Z (UTC)
+Updated: 2026-10-09T05:52:59.633Z (UTC)
 
 Public repository owners: liyown
 
-Personal contribution window: 2025-10-08T05:48:24.816Z to 2026-10-08T05:48:24.816Z
+Personal contribution window: 2025-10-09T05:52:59.633Z to 2026-10-09T05:52:59.633Z
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| Stars | 4200 | Selected public repositories |
+| Stars | 4198 | Selected public repositories |
 | Repositories | 51 | Selected public repositories |
 | Forks received | 565 | Selected public repositories |
 | Watchers | 62 | Subscribers, not stars |
@@ -26,20 +26,20 @@ Personal contribution window: 2025-10-08T05:48:24.816Z to 2026-10-08T05:48:24.81
 
 ## Selected work
 
-- [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) — TrendPublish: 全自动 AI 内容生成与发布系统 \| 微信公众号自动化 \| 多源数据抓取 (Twitter/X、网站) \| DeepseekAI、千问、讯飞模型 \| 智能内容分析排序 \| 定时发布 \| 多模板支持 \| Node.js \| TypeScript \| AI 技术趋势跟踪工具 (3203 stars)
-- [liyown/marknative](https://github.com/liyown/marknative) — A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM. (658 stars)
+- [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) — TrendPublish: 全自动 AI 内容生成与发布系统 \| 微信公众号自动化 \| 多源数据抓取 (Twitter/X、网站) \| DeepseekAI、千问、讯飞模型 \| 智能内容分析排序 \| 定时发布 \| 多模板支持 \| Node.js \| TypeScript \| AI 技术趋势跟踪工具 (3202 stars)
+- [liyown/marknative](https://github.com/liyown/marknative) — A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM. (657 stars)
 - [liyown/ai-navigation](https://github.com/liyown/ai-navigation) — AI 导航是一个现代化的人工智能网站导航系统，致力于帮助用户发现、分享和管理优质的 AI 工具与资源。项目采用最新的 Web 技术栈构建，提供流畅的用户体验和强大的管理功能。 (130 stars)
 
 ## Open-source impact rating
 
-SS · 3005 points · formula v2
+SS · 3004 points · formula v2
 
 This is a transparent project-impact score, not an individual skill ranking. Organization stars and forks belong to the whole organization. Contribution counts follow the API visibility of the supplied token and may include private contribution aggregates; private repository names are never requested.
 
 | Component | Points |
 | --- | ---: |
 | repositories | 51 |
-| stars | 2100 |
+| stars | 2099 |
 | commits | 35.1 |
 | issues | 0.2 |
 | pullRequests | 1.8 |
