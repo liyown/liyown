@@ -1,14 +1,14 @@
 # Liuyaowen · Star Track
 
-Updated: 2026-10-10T05:35:24.931Z (UTC)
+Updated: 2026-10-11T05:31:46.500Z (UTC)
 
 Public repository owners: liyown
 
-Personal contribution window: 2025-10-10T05:35:24.931Z to 2026-10-10T05:35:24.931Z
+Personal contribution window: 2025-10-11T05:31:46.500Z to 2026-10-11T05:31:46.500Z
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| Stars | 4198 | Selected public repositories |
+| Stars | 4196 | Selected public repositories |
 | Repositories | 51 | Selected public repositories |
 | Forks received | 565 | Selected public repositories |
 | Watchers | 62 | Subscribers, not stars |
@@ -32,14 +32,14 @@ Personal contribution window: 2025-10-10T05:35:24.931Z to 2026-10-10T05:35:24.93
 
 ## Open-source impact rating
 
-SS · 3004 points · formula v2
+SS · 3003 points · formula v2
 
 This is a transparent project-impact score, not an individual skill ranking. Organization stars and forks belong to the whole organization. Contribution counts follow the API visibility of the supplied token and may include private contribution aggregates; private repository names are never requested.
 
 | Component | Points |
 | --- | ---: |
 | repositories | 51 |
-| stars | 2099 |
+| stars | 2098 |
 | commits | 35.1 |
 | issues | 0.2 |
 | pullRequests | 1.8 |
