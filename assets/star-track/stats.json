@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-12T05:42:02.034Z",
+  "collectedAt": "2026-10-13T06:37:13.621Z",
   "window": {
-    "from": "2025-10-12T05:42:02.034Z",
-    "to": "2026-10-12T05:42:02.034Z"
+    "from": "2025-10-13T06:37:13.621Z",
+    "to": "2026-10-13T06:37:13.621Z"
   },
   "scope": {
     "username": "liyown",
@@ -16,17 +16,13 @@
     "createdAt": "2019-09-19T05:18:46Z",
     "followers": 50,
     "following": 4,
-    "contributedTo": 32,
-    "contributions": 404,
+    "contributedTo": 33,
+    "contributions": 405,
     "commits": 351,
     "issues": 4,
     "pullRequests": 18,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-12",
-        "count": 0
-      },
       {
         "date": "2025-10-13",
         "count": 0
@@ -1485,6 +1481,10 @@
       },
       {
         "date": "2026-10-12",
+        "count": 1
+      },
+      {
+        "date": "2026-10-13",
         "count": 0
       }
     ]
@@ -1587,8 +1587,8 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3203,
-      "forks": 449,
+      "stars": 3205,
+      "forks": 450,
       "watchers": 22,
       "issues": 52,
       "closedIssues": 50,
@@ -1677,9 +1677,9 @@
       "description": "Build, test, and ship typed DeepSeek Harness plugins — framework, scaffolding, and a verified community Hub.",
       "url": "https://github.com/liyown/dshx",
       "language": "TypeScript",
-      "stars": 13,
-      "forks": 0,
-      "watchers": 0,
+      "stars": 17,
+      "forks": 1,
+      "watchers": 1,
       "issues": 1,
       "closedIssues": 0,
       "pullRequests": 6,
@@ -2417,8 +2417,8 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3203,
-      "forks": 449,
+      "stars": 3205,
+      "forks": 450,
       "watchers": 22,
       "issues": 52,
       "closedIssues": 50,
@@ -2466,10 +2466,10 @@
     }
   ],
   "totals": {
-    "stars": 4196,
+    "stars": 4202,
     "repositories": 51,
-    "forks": 565,
-    "watchers": 61,
+    "forks": 567,
+    "watchers": 62,
     "issues": 68,
     "pullRequests": 55,
     "issueCloseRate": 92.64705882352942,
@@ -2490,19 +2490,19 @@
   "rating": {
     "version": "v2",
     "grade": "SS",
-    "score": 3003,
+    "score": 3009,
     "nextGrade": "SS+",
     "nextScore": 3500,
-    "progress": 0.6686666666666666,
+    "progress": 0.6726666666666666,
     "breakdown": {
       "repositories": 51,
-      "stars": 2098,
+      "stars": 2101,
       "commits": 35.1,
       "issues": 0.2,
       "pullRequests": 1.8,
       "followers": 15,
-      "contributedRepositories": 64,
-      "forks": 113,
+      "contributedRepositories": 66,
+      "forks": 113.4,
       "starMilestone": 500,
       "averageStars": 100,
       "longevity": 25
