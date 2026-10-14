@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-13T06:37:13.621Z",
+  "collectedAt": "2026-10-14T04:38:44.379Z",
   "window": {
-    "from": "2025-10-13T06:37:13.621Z",
-    "to": "2026-10-13T06:37:13.621Z"
+    "from": "2025-10-14T04:38:44.379Z",
+    "to": "2026-10-14T04:38:44.379Z"
   },
   "scope": {
     "username": "liyown",
@@ -23,10 +23,6 @@
     "pullRequests": 18,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-13",
-        "count": 0
-      },
       {
         "date": "2025-10-14",
         "count": 0
@@ -1486,6 +1482,10 @@
       {
         "date": "2026-10-13",
         "count": 0
+      },
+      {
+        "date": "2026-10-14",
+        "count": 0
       }
     ]
   },
@@ -1587,7 +1587,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3205,
+      "stars": 3208,
       "forks": 450,
       "watchers": 22,
       "issues": 52,
@@ -1893,7 +1893,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 657,
+      "stars": 658,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -2417,7 +2417,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3205,
+      "stars": 3208,
       "forks": 450,
       "watchers": 22,
       "issues": 52,
@@ -2435,7 +2435,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 657,
+      "stars": 658,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -2466,7 +2466,7 @@
     }
   ],
   "totals": {
-    "stars": 4202,
+    "stars": 4206,
     "repositories": 51,
     "forks": 567,
     "watchers": 62,
@@ -2490,13 +2490,13 @@
   "rating": {
     "version": "v2",
     "grade": "SS",
-    "score": 3009,
+    "score": 3011,
     "nextGrade": "SS+",
     "nextScore": 3500,
-    "progress": 0.6726666666666666,
+    "progress": 0.674,
     "breakdown": {
       "repositories": 51,
-      "stars": 2101,
+      "stars": 2103,
       "commits": 35.1,
       "issues": 0.2,
       "pullRequests": 1.8,
