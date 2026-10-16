@@ -58,6 +58,8 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
+- [homebrew-tap](https://github.com/liyown/homebrew-tap) - Homebrew formulae for liyown tools, updated by release workflows
+- [memvault](https://github.com/liyown/memvault) - Local-first conversation archive and memory layer for AI agents
 - [dshx](https://github.com/liyown/dshx) - Build, test, and ship typed DeepSeek Harness plugins — framework, scaffolding, and a verified community Hub.
 - [honor-card](https://github.com/liyown/honor-card) - 可自定义并本地保存的电子工卡页面
 - [1panel-cli](https://github.com/liyown/1panel-cli) - Independent CLI for remotely managing 1Panel V2 instances
