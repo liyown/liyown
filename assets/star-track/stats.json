@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-15T04:21:23.282Z",
+  "collectedAt": "2026-10-16T04:16:31.619Z",
   "window": {
-    "from": "2025-10-15T04:21:23.282Z",
-    "to": "2026-10-15T04:21:23.282Z"
+    "from": "2025-10-16T04:16:31.619Z",
+    "to": "2026-10-16T04:16:31.619Z"
   },
   "scope": {
     "username": "liyown",
@@ -16,17 +16,13 @@
     "createdAt": "2019-09-19T05:18:46Z",
     "followers": 49,
     "following": 4,
-    "contributedTo": 34,
-    "contributions": 406,
-    "commits": 351,
+    "contributedTo": 36,
+    "contributions": 410,
+    "commits": 353,
     "issues": 5,
     "pullRequests": 18,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-15",
-        "count": 0
-      },
       {
         "date": "2025-10-16",
         "count": 0
@@ -1485,7 +1481,11 @@
       },
       {
         "date": "2026-10-15",
-        "count": 1
+        "count": 5
+      },
+      {
+        "date": "2026-10-16",
+        "count": 0
       }
     ]
   },
@@ -1590,7 +1590,7 @@
       "stars": 3207,
       "forks": 450,
       "watchers": 22,
-      "issues": 52,
+      "issues": 53,
       "closedIssues": 50,
       "pullRequests": 13,
       "mergedPullRequests": 8,
@@ -1761,6 +1761,24 @@
       "createdAt": "2026-06-13T11:43:58Z"
     },
     {
+      "name": "homebrew-tap",
+      "owner": "liyown",
+      "fullName": "liyown/homebrew-tap",
+      "description": "Homebrew formulae for liyown tools, updated by release workflows",
+      "url": "https://github.com/liyown/homebrew-tap",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "issues": 0,
+      "closedIssues": 0,
+      "pullRequests": 0,
+      "mergedPullRequests": 0,
+      "isFork": false,
+      "isArchived": false,
+      "createdAt": "2026-10-15T13:05:03Z"
+    },
+    {
       "name": "honor-card",
       "owner": "liyown",
       "fullName": "liyown/honor-card",
@@ -1893,7 +1911,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 658,
+      "stars": 657,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -1921,6 +1939,24 @@
       "isFork": false,
       "isArchived": false,
       "createdAt": "2025-06-05T03:16:48Z"
+    },
+    {
+      "name": "memvault",
+      "owner": "liyown",
+      "fullName": "liyown/memvault",
+      "description": "Local-first conversation archive and memory layer for AI agents",
+      "url": "https://github.com/liyown/memvault",
+      "language": "Go",
+      "stars": 1,
+      "forks": 0,
+      "watchers": 0,
+      "issues": 0,
+      "closedIssues": 0,
+      "pullRequests": 0,
+      "mergedPullRequests": 0,
+      "isFork": false,
+      "isArchived": false,
+      "createdAt": "2026-10-15T12:04:51Z"
     },
     {
       "name": "mkdocs",
@@ -2397,7 +2433,7 @@
       "description": "一套规范驱动 AI 的小红书运营系统——输入主题，AI 帮你写选题、生成文案、设计封面、分析数据、复盘、沉淀知识库、文章系列续写、自动优化等等",
       "url": "https://github.com/liyown/XHSSpec",
       "language": "TypeScript",
-      "stars": 46,
+      "stars": 47,
       "forks": 2,
       "watchers": 0,
       "issues": 0,
@@ -2420,7 +2456,7 @@
       "stars": 3207,
       "forks": 450,
       "watchers": 22,
-      "issues": 52,
+      "issues": 53,
       "closedIssues": 50,
       "pullRequests": 13,
       "mergedPullRequests": 8,
@@ -2435,7 +2471,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 658,
+      "stars": 657,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -2466,20 +2502,21 @@
     }
   ],
   "totals": {
-    "stars": 4201,
-    "repositories": 51,
+    "stars": 4202,
+    "repositories": 53,
     "forks": 566,
     "watchers": 62,
-    "issues": 68,
+    "issues": 69,
     "pullRequests": 55,
-    "issueCloseRate": 92.64705882352942,
+    "issueCloseRate": 91.30434782608695,
     "prMergeRate": 52.72727272727272,
     "topLanguage": "TypeScript",
     "languages": {
-      "Go": 4,
+      "Go": 5,
       "Python": 10,
       "JavaScript": 5,
       "TypeScript": 13,
+      "Ruby": 1,
       "Rust": 1,
       "Shell": 1,
       "C": 2,
@@ -2490,18 +2527,18 @@
   "rating": {
     "version": "v2",
     "grade": "SS",
-    "score": 3010,
+    "score": 3016,
     "nextGrade": "SS+",
     "nextScore": 3500,
-    "progress": 0.6733333333333333,
+    "progress": 0.6773333333333333,
     "breakdown": {
-      "repositories": 51,
-      "stars": 2100.5,
-      "commits": 35.1,
+      "repositories": 53,
+      "stars": 2101,
+      "commits": 35.3,
       "issues": 0.25,
       "pullRequests": 1.8,
       "followers": 14.7,
-      "contributedRepositories": 68,
+      "contributedRepositories": 72,
       "forks": 113.2,
       "starMilestone": 500,
       "averageStars": 100,
