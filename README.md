@@ -117,6 +117,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vite 教程：从项目配置、构建原理到插件与全栈框架集成](https://liuyaowen.cn/posts/web-typescript/vite-tutorial)
 - [从零实现一个多轮意图识别助手：语料、状态、路由与评测](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-assistant-demo)
 - [意图识别服务上线：延迟、成本、监控与错误闭环](https://liuyaowen.cn/posts/ai-machine-learning/production-intent-recognition-service)
 - [RAG 与 Agent 中的意图路由：检索、工具、闲聊与澄清](https://liuyaowen.cn/posts/ai-machine-learning/rag-agent-intent-routing)
@@ -126,7 +127,6 @@ $ neofetch
 - [一句话多个意图怎么办：多标签识别、条件与任务依赖](https://liuyaowen.cn/posts/ai-machine-learning/multi-intent-recognition-task-dependencies)
 - [意图识别模型怎么选：规则、TF-IDF、向量检索与小模型基线](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-rules-vectors-baselines)
 - [意图标签怎么设计：分类粒度、槽位边界与多级意图体系](https://liuyaowen.cn/posts/ai-machine-learning/intent-label-taxonomy-design)
-- [多轮对话意图识别：上下文、槽位与对话状态如何协同](https://liuyaowen.cn/posts/ai-machine-learning/multi-turn-intent-recognition-context)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
