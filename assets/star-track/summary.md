@@ -1,23 +1,23 @@
 # Liuyaowen · Star Track
 
-Updated: 2026-10-17T04:07:02.431Z (UTC)
+Updated: 2026-10-18T04:14:47.168Z (UTC)
 
 Public repository owners: liyown
 
-Personal contribution window: 2025-10-17T04:07:02.431Z to 2026-10-17T04:07:02.431Z
+Personal contribution window: 2025-10-18T04:14:47.168Z to 2026-10-18T04:14:47.168Z
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
 | Stars | 4202 | Selected public repositories |
-| Repositories | 53 | Selected public repositories |
-| Forks received | 566 | Selected public repositories |
+| Repositories | 54 | Selected public repositories |
+| Forks received | 565 | Selected public repositories |
 | Watchers | 62 | Subscribers, not stars |
 | Issues | 69 | All authors in selected repositories |
 | Pull requests | 55 | All authors in selected repositories |
 | Issue close rate | 91.3% | Selected repositories |
 | PR merge rate | 52.7% | Selected repositories |
-| Contributions | 410 | Personal, past 365 days |
-| Commits | 353 | GitHub contribution rules, past 365 days |
+| Contributions | 413 | Personal, past 365 days |
+| Commits | 355 | GitHub contribution rules, past 365 days |
 | Issues opened | 5 | Personal, past 365 days |
 | PRs opened | 18 | Personal, past 365 days |
 | PR reviews | 1 | Personal, past 365 days |
@@ -32,20 +32,20 @@ Personal contribution window: 2025-10-17T04:07:02.431Z to 2026-10-17T04:07:02.43
 
 ## Open-source impact rating
 
-SS · 3016 points · formula v2
+SS · 3019 points · formula v2
 
 This is a transparent project-impact score, not an individual skill ranking. Organization stars and forks belong to the whole organization. Contribution counts follow the API visibility of the supplied token and may include private contribution aggregates; private repository names are never requested.
 
 | Component | Points |
 | --- | ---: |
-| repositories | 53 |
+| repositories | 54 |
 | stars | 2101 |
-| commits | 35.3 |
+| commits | 35.5 |
 | issues | 0.25 |
 | pullRequests | 1.8 |
 | followers | 14.7 |
-| contributedRepositories | 72 |
-| forks | 113.2 |
+| contributedRepositories | 74 |
+| forks | 113 |
 | starMilestone | 500 |
 | averageStars | 100 |
 | longevity | 25 |
