@@ -1,10 +1,10 @@
 # Liuyaowen · Star Track
 
-Updated: 2026-10-18T04:14:47.168Z (UTC)
+Updated: 2026-10-19T04:23:32.716Z (UTC)
 
 Public repository owners: liyown
 
-Personal contribution window: 2025-10-18T04:14:47.168Z to 2026-10-18T04:14:47.168Z
+Personal contribution window: 2025-10-19T04:23:32.716Z to 2026-10-19T04:23:32.716Z
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
@@ -16,7 +16,7 @@ Personal contribution window: 2025-10-18T04:14:47.168Z to 2026-10-18T04:14:47.16
 | Pull requests | 55 | All authors in selected repositories |
 | Issue close rate | 91.3% | Selected repositories |
 | PR merge rate | 52.7% | Selected repositories |
-| Contributions | 413 | Personal, past 365 days |
+| Contributions | 414 | Personal, past 365 days |
 | Commits | 355 | GitHub contribution rules, past 365 days |
 | Issues opened | 5 | Personal, past 365 days |
 | PRs opened | 18 | Personal, past 365 days |
@@ -32,7 +32,7 @@ Personal contribution window: 2025-10-18T04:14:47.168Z to 2026-10-18T04:14:47.16
 
 ## Open-source impact rating
 
-SS · 3019 points · formula v2
+SS · 3021 points · formula v2
 
 This is a transparent project-impact score, not an individual skill ranking. Organization stars and forks belong to the whole organization. Contribution counts follow the API visibility of the supplied token and may include private contribution aggregates; private repository names are never requested.
 
@@ -44,7 +44,7 @@ This is a transparent project-impact score, not an individual skill ranking. Org
 | issues | 0.25 |
 | pullRequests | 1.8 |
 | followers | 14.7 |
-| contributedRepositories | 74 |
+| contributedRepositories | 76 |
 | forks | 113 |
 | starMilestone | 500 |
 | averageStars | 100 |
