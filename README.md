@@ -58,6 +58,7 @@ $ neofetch
 ### 📌 My Projects
 
 <!--PROJECTS-->
+- [afilmory-edge](https://github.com/liyown/afilmory-edge) - A personal, Cloudflare-native photo gallery derived from Afilmory
 - [vite-study](https://github.com/liyown/vite-study) - Vite 渐进教程与 11 个可运行实验：配置、HMR、构建、插件 Hook、多环境 SSR 与服务端函数编译
 - [homebrew-tap](https://github.com/liyown/homebrew-tap) - Homebrew formulae for liyown tools, updated by release workflows
 - [memvault](https://github.com/liyown/memvault) - Local-first conversation archive and memory layer for AI agents
