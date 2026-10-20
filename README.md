@@ -132,12 +132,12 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 · Vite 渐进教程与实验](https://github.com/liyown/vite-study/releases/tag/v1.0.0) in [liyown/vite-study](https://github.com/liyown/vite-study)
-2. ❗ Opened issue [#2309](https://github.com/yetone/magpie/issues/2309) in [yetone/magpie](https://github.com/yetone/magpie)
-3. 🎉 Merged PR [#43](https://github.com/Innei/lody-ios/pull/43) in [Innei/lody-ios](https://github.com/Innei/lody-ios)
-4. 🗣 Commented on [#43](https://github.com/Innei/lody-ios/pull/43#issuecomment-5727116665) in [Innei/lody-ios](https://github.com/Innei/lody-ios)
-5. ❗ Opened issue [#41](https://github.com/Innei/lody-ios/issues/41) in [Innei/lody-ios](https://github.com/Innei/lody-ios)
-6. 🎉 Merged PR [#5](https://github.com/liyown/dshx/pull/5) in [liyown/dshx](https://github.com/liyown/dshx)
+1. 🎉 Merged PR [#1726](https://github.com/LodyAI/Lody/pull/1726) in [LodyAI/Lody](https://github.com/LodyAI/Lody)
+2. 💪 Opened PR [#1726](https://github.com/LodyAI/Lody/pull/1726) in [LodyAI/Lody](https://github.com/LodyAI/Lody)
+3. 💪 Opened PR [#1722](https://github.com/LodyAI/Lody/pull/1722) in [LodyAI/Lody](https://github.com/LodyAI/Lody)
+4. 💪 Opened PR [#1714](https://github.com/LodyAI/Lody/pull/1714) in [LodyAI/Lody](https://github.com/LodyAI/Lody)
+5. 🚀 Published release [v1.0.0 · Vite 渐进教程与实验](https://github.com/liyown/vite-study/releases/tag/v1.0.0) in [liyown/vite-study](https://github.com/liyown/vite-study)
+6. ❗ Opened issue [#2309](https://github.com/yetone/magpie/issues/2309) in [yetone/magpie](https://github.com/yetone/magpie)
 7. 💪 Opened PR [#4](https://github.com/liyown/dshx/pull/4) in [liyown/dshx](https://github.com/liyown/dshx)
 8. 🎉 Merged PR [#4](https://github.com/liyown/dshx/pull/4) in [liyown/dshx](https://github.com/liyown/dshx)
 9. 🎉 Merged PR [#1](https://github.com/liyown/dshx/pull/1) in [liyown/dshx](https://github.com/liyown/dshx)
