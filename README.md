@@ -133,16 +133,16 @@ $ neofetch
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1726](https://github.com/LodyAI/Lody/pull/1726) in [LodyAI/Lody](https://github.com/LodyAI/Lody)
-2. 💪 Opened PR [#1726](https://github.com/LodyAI/Lody/pull/1726) in [LodyAI/Lody](https://github.com/LodyAI/Lody)
-3. 💪 Opened PR [#1722](https://github.com/LodyAI/Lody/pull/1722) in [LodyAI/Lody](https://github.com/LodyAI/Lody)
-4. 💪 Opened PR [#1714](https://github.com/LodyAI/Lody/pull/1714) in [LodyAI/Lody](https://github.com/LodyAI/Lody)
-5. 🚀 Published release [v1.0.0 · Vite 渐进教程与实验](https://github.com/liyown/vite-study/releases/tag/v1.0.0) in [liyown/vite-study](https://github.com/liyown/vite-study)
-6. ❗ Opened issue [#2309](https://github.com/yetone/magpie/issues/2309) in [yetone/magpie](https://github.com/yetone/magpie)
-7. 💪 Opened PR [#4](https://github.com/liyown/dshx/pull/4) in [liyown/dshx](https://github.com/liyown/dshx)
-8. 🎉 Merged PR [#4](https://github.com/liyown/dshx/pull/4) in [liyown/dshx](https://github.com/liyown/dshx)
-9. 🎉 Merged PR [#1](https://github.com/liyown/dshx/pull/1) in [liyown/dshx](https://github.com/liyown/dshx)
-10. 💪 Opened PR [#1](https://github.com/liyown/dshx/pull/1) in [liyown/dshx](https://github.com/liyown/dshx)
+1. ❌ Closed PR [#1](https://github.com/liyown/awesome-dsh-plugin/pull/1) in [liyown/awesome-dsh-plugin](https://github.com/liyown/awesome-dsh-plugin)
+2. 💪 Opened PR [#8558](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/8558) in [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
+3. 💪 Opened PR [#1](https://github.com/liyown/awesome-dsh-plugin/pull/1) in [liyown/awesome-dsh-plugin](https://github.com/liyown/awesome-dsh-plugin)
+4. 🎉 Merged PR [#944](https://github.com/KrisTHL181/Break-This-Repo/pull/944) in [KrisTHL181/Break-This-Repo](https://github.com/KrisTHL181/Break-This-Repo)
+5. 🎉 Merged PR [#946](https://github.com/KrisTHL181/Break-This-Repo/pull/946) in [KrisTHL181/Break-This-Repo](https://github.com/KrisTHL181/Break-This-Repo)
+6. 💪 Opened PR [#946](https://github.com/KrisTHL181/Break-This-Repo/pull/946) in [KrisTHL181/Break-This-Repo](https://github.com/KrisTHL181/Break-This-Repo)
+7. 🎉 Merged PR [#945](https://github.com/KrisTHL181/Break-This-Repo/pull/945) in [KrisTHL181/Break-This-Repo](https://github.com/KrisTHL181/Break-This-Repo)
+8. 💪 Opened PR [#945](https://github.com/KrisTHL181/Break-This-Repo/pull/945) in [KrisTHL181/Break-This-Repo](https://github.com/KrisTHL181/Break-This-Repo)
+9. 💪 Opened PR [#944](https://github.com/KrisTHL181/Break-This-Repo/pull/944) in [KrisTHL181/Break-This-Repo](https://github.com/KrisTHL181/Break-This-Repo)
+10. 🎉 Merged PR [#1726](https://github.com/LodyAI/Lody/pull/1726) in [LodyAI/Lody](https://github.com/LodyAI/Lody)
 <!--END_SECTION:activity-->
 
 [![GitHub Roast](https://githubroast.dev/api/card/liyown)](https://githubroast.dev/u/liyown)
