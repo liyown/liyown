@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-22T04:25:16.124Z",
+  "collectedAt": "2026-10-23T04:30:33.706Z",
   "window": {
-    "from": "2025-10-22T04:25:16.124Z",
-    "to": "2026-10-22T04:25:16.124Z"
+    "from": "2025-10-23T04:30:33.706Z",
+    "to": "2026-10-23T04:30:33.706Z"
   },
   "scope": {
     "username": "liyown",
@@ -18,17 +18,13 @@
     "createdAt": "2019-09-19T05:18:46Z",
     "followers": 49,
     "following": 4,
-    "contributedTo": 44,
-    "contributions": 431,
-    "commits": 360,
-    "issues": 5,
-    "pullRequests": 26,
+    "contributedTo": 48,
+    "contributions": 482,
+    "commits": 406,
+    "issues": 6,
+    "pullRequests": 28,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-22",
-        "count": 0
-      },
       {
         "date": "2025-10-23",
         "count": 0
@@ -1479,15 +1475,19 @@
       },
       {
         "date": "2026-10-20",
-        "count": 1
+        "count": 6
       },
       {
         "date": "2026-10-21",
-        "count": 8
+        "count": 20
       },
       {
         "date": "2026-10-22",
-        "count": 3
+        "count": 9
+      },
+      {
+        "date": "2026-10-23",
+        "count": 28
       }
     ]
   },
@@ -1535,7 +1535,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2659,
+      "stars": 2660,
       "forks": 330,
       "watchers": 5,
       "issues": 119,
@@ -1679,7 +1679,7 @@
       "description": "AI 导航是一个现代化的人工智能网站导航系统，致力于帮助用户发现、分享和管理优质的 AI 工具与资源。项目采用最新的 Web 技术栈构建，提供流畅的用户体验和强大的管理功能。",
       "url": "https://github.com/liyown/ai-navigation",
       "language": "TypeScript",
-      "stars": 130,
+      "stars": 131,
       "forks": 70,
       "watchers": 2,
       "issues": 3,
@@ -1715,7 +1715,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3212,
+      "stars": 3214,
       "forks": 452,
       "watchers": 22,
       "issues": 53,
@@ -1810,7 +1810,7 @@
       "watchers": 0,
       "issues": 1,
       "closedIssues": 0,
-      "pullRequests": 6,
+      "pullRequests": 7,
       "mergedPullRequests": 4,
       "isFork": false,
       "isArchived": false,
@@ -2399,7 +2399,7 @@
       "description": "自动为你的README生成一张的GitHub统计卡片，通过这个GitHub Action展示你的开源贡献和活动数据",
       "url": "https://github.com/liyown/star-track-action",
       "language": "TypeScript",
-      "stars": 2,
+      "stars": 3,
       "forks": 0,
       "watchers": 0,
       "issues": 0,
@@ -2599,7 +2599,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3212,
+      "stars": 3214,
       "forks": 452,
       "watchers": 22,
       "issues": 53,
@@ -2617,7 +2617,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2659,
+      "stars": 2660,
       "forks": 330,
       "watchers": 5,
       "issues": 119,
@@ -2648,14 +2648,14 @@
     }
   ],
   "totals": {
-    "stars": 6906,
+    "stars": 6911,
     "repositories": 61,
     "forks": 933,
     "watchers": 66,
     "issues": 195,
-    "pullRequests": 242,
+    "pullRequests": 243,
     "issueCloseRate": 76.41025641025641,
-    "prMergeRate": 75.20661157024794,
+    "prMergeRate": 74.8971193415638,
     "topLanguage": "TypeScript",
     "languages": {
       "TypeScript": 15,
@@ -2674,18 +2674,18 @@
   "rating": {
     "version": "v2",
     "grade": "SS+",
-    "score": 4967,
+    "score": 4983,
     "nextGrade": "SSS",
     "nextScore": 5000,
-    "progress": 0.978,
+    "progress": 0.9886666666666667,
     "breakdown": {
       "repositories": 61,
-      "stars": 3453,
-      "commits": 36,
-      "issues": 0.25,
-      "pullRequests": 2.6,
+      "stars": 3455.5,
+      "commits": 40.6,
+      "issues": 0.3,
+      "pullRequests": 2.8,
       "followers": 14.7,
-      "contributedRepositories": 88,
+      "contributedRepositories": 96,
       "forks": 186.6,
       "starMilestone": 1000,
       "averageStars": 100,
