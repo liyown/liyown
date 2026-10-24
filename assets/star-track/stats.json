@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-23T04:30:33.706Z",
+  "collectedAt": "2026-10-24T04:20:51.414Z",
   "window": {
-    "from": "2025-10-23T04:30:33.706Z",
-    "to": "2026-10-23T04:30:33.706Z"
+    "from": "2025-10-24T04:20:51.414Z",
+    "to": "2026-10-24T04:20:51.414Z"
   },
   "scope": {
     "username": "liyown",
@@ -19,16 +19,12 @@
     "followers": 49,
     "following": 4,
     "contributedTo": 48,
-    "contributions": 482,
+    "contributions": 483,
     "commits": 406,
     "issues": 6,
     "pullRequests": 28,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-23",
-        "count": 0
-      },
       {
         "date": "2025-10-24",
         "count": 0
@@ -1487,7 +1483,11 @@
       },
       {
         "date": "2026-10-23",
-        "count": 28
+        "count": 29
+      },
+      {
+        "date": "2026-10-24",
+        "count": 0
       }
     ]
   },
@@ -1715,7 +1715,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3214,
+      "stars": 3215,
       "forks": 452,
       "watchers": 22,
       "issues": 53,
@@ -2599,7 +2599,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3214,
+      "stars": 3215,
       "forks": 452,
       "watchers": 22,
       "issues": 53,
@@ -2648,7 +2648,7 @@
     }
   ],
   "totals": {
-    "stars": 6911,
+    "stars": 6912,
     "repositories": 61,
     "forks": 933,
     "watchers": 66,
@@ -2680,7 +2680,7 @@
     "progress": 0.9886666666666667,
     "breakdown": {
       "repositories": 61,
-      "stars": 3455.5,
+      "stars": 3456,
       "commits": 40.6,
       "issues": 0.3,
       "pullRequests": 2.8,
