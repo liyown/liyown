@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-24T04:20:51.414Z",
+  "collectedAt": "2026-10-25T04:24:42.077Z",
   "window": {
-    "from": "2025-10-24T04:20:51.414Z",
-    "to": "2026-10-24T04:20:51.414Z"
+    "from": "2025-10-25T04:24:42.077Z",
+    "to": "2026-10-25T04:24:42.077Z"
   },
   "scope": {
     "username": "liyown",
@@ -25,14 +25,6 @@
     "pullRequests": 28,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-24",
-        "count": 0
-      },
-      {
-        "date": "2025-10-25",
-        "count": 0
-      },
       {
         "date": "2025-10-26",
         "count": 0
@@ -1488,6 +1480,10 @@
       {
         "date": "2026-10-24",
         "count": 0
+      },
+      {
+        "date": "2026-10-25",
+        "count": 0
       }
     ]
   },
@@ -1536,7 +1532,7 @@
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
       "stars": 2660,
-      "forks": 330,
+      "forks": 331,
       "watchers": 5,
       "issues": 119,
       "closedIssues": 84,
@@ -1715,7 +1711,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3215,
+      "stars": 3218,
       "forks": 452,
       "watchers": 22,
       "issues": 53,
@@ -2599,7 +2595,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3215,
+      "stars": 3218,
       "forks": 452,
       "watchers": 22,
       "issues": 53,
@@ -2618,7 +2614,7 @@
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
       "stars": 2660,
-      "forks": 330,
+      "forks": 331,
       "watchers": 5,
       "issues": 119,
       "closedIssues": 84,
@@ -2648,9 +2644,9 @@
     }
   ],
   "totals": {
-    "stars": 6912,
+    "stars": 6915,
     "repositories": 61,
-    "forks": 933,
+    "forks": 934,
     "watchers": 66,
     "issues": 195,
     "pullRequests": 243,
@@ -2674,19 +2670,19 @@
   "rating": {
     "version": "v2",
     "grade": "SS+",
-    "score": 4983,
+    "score": 4985,
     "nextGrade": "SSS",
     "nextScore": 5000,
-    "progress": 0.9886666666666667,
+    "progress": 0.99,
     "breakdown": {
       "repositories": 61,
-      "stars": 3456,
+      "stars": 3457.5,
       "commits": 40.6,
       "issues": 0.3,
       "pullRequests": 2.8,
       "followers": 14.7,
       "contributedRepositories": 96,
-      "forks": 186.6,
+      "forks": 186.8,
       "starMilestone": 1000,
       "averageStars": 100,
       "longevity": 25
