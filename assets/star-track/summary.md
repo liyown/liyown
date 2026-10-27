@@ -1,17 +1,17 @@
 # Liuyaowen · Star Track
 
-Updated: 2026-10-26T04:27:27.973Z (UTC)
+Updated: 2026-10-27T04:46:53.141Z (UTC)
 
 Public repository owners: liyown, afilmory
 
-Personal contribution window: 2025-10-26T04:27:27.973Z to 2026-10-26T04:27:27.973Z
+Personal contribution window: 2025-10-27T04:46:53.141Z to 2026-10-27T04:46:53.141Z
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| Stars | 6917 | Selected public repositories |
+| Stars | 6919 | Selected public repositories |
 | Repositories | 61 | Selected public repositories |
 | Forks received | 934 | Selected public repositories |
-| Watchers | 66 | Subscribers, not stars |
+| Watchers | 65 | Subscribers, not stars |
 | Issues | 195 | All authors in selected repositories |
 | Pull requests | 243 | All authors in selected repositories |
 | Issue close rate | 76.4% | Selected repositories |
@@ -27,19 +27,19 @@ Personal contribution window: 2025-10-26T04:27:27.973Z to 2026-10-26T04:27:27.97
 ## Selected work
 
 - [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) — TrendPublish: 全自动 AI 内容生成与发布系统 \| 微信公众号自动化 \| 多源数据抓取 (Twitter/X、网站) \| DeepseekAI、千问、讯飞模型 \| 智能内容分析排序 \| 定时发布 \| 多模板支持 \| Node.js \| TypeScript \| AI 技术趋势跟踪工具 (3220 stars)
-- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. (2660 stars)
+- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. (2662 stars)
 - [liyown/marknative](https://github.com/liyown/marknative) — A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM. (657 stars)
 
 ## Open-source impact rating
 
-SS+ · 4986 points · formula v2
+SS+ · 4987 points · formula v2
 
 This is a transparent project-impact score, not an individual skill ranking. Organization stars and forks belong to the whole organization. Contribution counts follow the API visibility of the supplied token and may include private contribution aggregates; private repository names are never requested.
 
 | Component | Points |
 | --- | ---: |
 | repositories | 61 |
-| stars | 3458.5 |
+| stars | 3459.5 |
 | commits | 40.6 |
 | issues | 0.3 |
 | pullRequests | 2.8 |

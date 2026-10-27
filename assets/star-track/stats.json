@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-26T04:27:27.973Z",
+  "collectedAt": "2026-10-27T04:46:53.141Z",
   "window": {
-    "from": "2025-10-26T04:27:27.973Z",
-    "to": "2026-10-26T04:27:27.973Z"
+    "from": "2025-10-27T04:46:53.141Z",
+    "to": "2026-10-27T04:46:53.141Z"
   },
   "scope": {
     "username": "liyown",
@@ -25,10 +25,6 @@
     "pullRequests": 28,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-26",
-        "count": 0
-      },
       {
         "date": "2025-10-27",
         "count": 0
@@ -1488,6 +1484,10 @@
       {
         "date": "2026-10-26",
         "count": 0
+      },
+      {
+        "date": "2026-10-27",
+        "count": 0
       }
     ]
   },
@@ -1535,9 +1535,9 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2660,
+      "stars": 2662,
       "forks": 331,
-      "watchers": 5,
+      "watchers": 4,
       "issues": 119,
       "closedIssues": 84,
       "pullRequests": 178,
@@ -2617,9 +2617,9 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2660,
+      "stars": 2662,
       "forks": 331,
-      "watchers": 5,
+      "watchers": 4,
       "issues": 119,
       "closedIssues": 84,
       "pullRequests": 178,
@@ -2648,10 +2648,10 @@
     }
   ],
   "totals": {
-    "stars": 6917,
+    "stars": 6919,
     "repositories": 61,
     "forks": 934,
-    "watchers": 66,
+    "watchers": 65,
     "issues": 195,
     "pullRequests": 243,
     "issueCloseRate": 76.41025641025641,
@@ -2674,13 +2674,13 @@
   "rating": {
     "version": "v2",
     "grade": "SS+",
-    "score": 4986,
+    "score": 4987,
     "nextGrade": "SSS",
     "nextScore": 5000,
-    "progress": 0.9906666666666667,
+    "progress": 0.9913333333333333,
     "breakdown": {
       "repositories": 61,
-      "stars": 3458.5,
+      "stars": 3459.5,
       "commits": 40.6,
       "issues": 0.3,
       "pullRequests": 2.8,
