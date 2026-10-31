@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-30T05:30:53.143Z",
+  "collectedAt": "2026-10-31T05:17:20.170Z",
   "window": {
-    "from": "2025-10-30T05:30:53.143Z",
-    "to": "2026-10-30T05:30:53.143Z"
+    "from": "2025-10-31T05:17:20.170Z",
+    "to": "2026-10-31T05:17:20.170Z"
   },
   "scope": {
     "username": "liyown",
@@ -16,7 +16,7 @@
     "login": "liyown",
     "name": "Evan",
     "createdAt": "2019-09-19T05:18:46Z",
-    "followers": 49,
+    "followers": 48,
     "following": 4,
     "contributedTo": 48,
     "contributions": 483,
@@ -25,10 +25,6 @@
     "pullRequests": 28,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-30",
-        "count": 0
-      },
       {
         "date": "2025-10-31",
         "count": 0
@@ -1488,6 +1484,10 @@
       {
         "date": "2026-10-30",
         "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "count": 0
       }
     ]
   },
@@ -1535,7 +1535,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2663,
+      "stars": 2665,
       "forks": 331,
       "watchers": 4,
       "issues": 119,
@@ -1715,8 +1715,8 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3224,
-      "forks": 453,
+      "stars": 3225,
+      "forks": 454,
       "watchers": 22,
       "issues": 53,
       "closedIssues": 50,
@@ -2599,8 +2599,8 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3224,
-      "forks": 453,
+      "stars": 3225,
+      "forks": 454,
       "watchers": 22,
       "issues": 53,
       "closedIssues": 50,
@@ -2617,7 +2617,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2663,
+      "stars": 2665,
       "forks": 331,
       "watchers": 4,
       "issues": 119,
@@ -2648,9 +2648,9 @@
     }
   ],
   "totals": {
-    "stars": 6924,
+    "stars": 6927,
     "repositories": 61,
-    "forks": 935,
+    "forks": 936,
     "watchers": 65,
     "issues": 196,
     "pullRequests": 243,
@@ -2674,19 +2674,19 @@
   "rating": {
     "version": "v2",
     "grade": "SS+",
-    "score": 4989,
+    "score": 4991,
     "nextGrade": "SSS",
     "nextScore": 5000,
-    "progress": 0.9926666666666667,
+    "progress": 0.994,
     "breakdown": {
       "repositories": 61,
-      "stars": 3462,
+      "stars": 3463.5,
       "commits": 40.6,
       "issues": 0.3,
       "pullRequests": 2.8,
-      "followers": 14.7,
+      "followers": 14.4,
       "contributedRepositories": 96,
-      "forks": 187,
+      "forks": 187.2,
       "starMilestone": 1000,
       "averageStars": 100,
       "longevity": 25
