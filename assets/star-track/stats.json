@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-10-31T05:17:20.170Z",
+  "collectedAt": "2026-11-01T05:45:56.862Z",
   "window": {
-    "from": "2025-10-31T05:17:20.170Z",
-    "to": "2026-10-31T05:17:20.170Z"
+    "from": "2025-11-01T05:45:56.862Z",
+    "to": "2026-11-01T05:45:56.862Z"
   },
   "scope": {
     "username": "liyown",
@@ -25,14 +25,6 @@
     "pullRequests": 28,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-10-31",
-        "count": 0
-      },
-      {
-        "date": "2025-11-01",
-        "count": 0
-      },
       {
         "date": "2025-11-02",
         "count": 0
@@ -1488,6 +1480,10 @@
       {
         "date": "2026-10-31",
         "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "count": 0
       }
     ]
   },
@@ -1715,7 +1711,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3225,
+      "stars": 3226,
       "forks": 454,
       "watchers": 22,
       "issues": 53,
@@ -2599,7 +2595,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3225,
+      "stars": 3226,
       "forks": 454,
       "watchers": 22,
       "issues": 53,
@@ -2648,7 +2644,7 @@
     }
   ],
   "totals": {
-    "stars": 6927,
+    "stars": 6928,
     "repositories": 61,
     "forks": 936,
     "watchers": 65,
@@ -2680,7 +2676,7 @@
     "progress": 0.994,
     "breakdown": {
       "repositories": 61,
-      "stars": 3463.5,
+      "stars": 3464,
       "commits": 40.6,
       "issues": 0.3,
       "pullRequests": 2.8,
