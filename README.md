@@ -118,6 +118,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [服务器反复卡死，监控却一切正常：一次 OOM 排查实录](https://liuyaowen.cn/posts/cloud-native-infrastructure/server-oom-nextjs-memory)
 - [Vite 教程：从项目配置、构建原理到插件与全栈框架集成](https://liuyaowen.cn/posts/web-typescript/vite-tutorial)
 - [从零实现一个多轮意图识别助手：语料、状态、路由与评测](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-assistant-demo)
 - [意图识别服务上线：延迟、成本、监控与错误闭环](https://liuyaowen.cn/posts/ai-machine-learning/production-intent-recognition-service)
@@ -127,7 +128,6 @@ $ neofetch
 - [意图不明确时怎么办：未知意图识别、拒识与澄清追问](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-unknown-clarification)
 - [一句话多个意图怎么办：多标签识别、条件与任务依赖](https://liuyaowen.cn/posts/ai-machine-learning/multi-intent-recognition-task-dependencies)
 - [意图识别模型怎么选：规则、TF-IDF、向量检索与小模型基线](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-rules-vectors-baselines)
-- [意图标签怎么设计：分类粒度、槽位边界与多级意图体系](https://liuyaowen.cn/posts/ai-machine-learning/intent-label-taxonomy-design)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
