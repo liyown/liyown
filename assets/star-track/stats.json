@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-11-02T05:44:24.579Z",
+  "collectedAt": "2026-11-03T06:25:51.791Z",
   "window": {
-    "from": "2025-11-02T05:44:24.579Z",
-    "to": "2026-11-02T05:44:24.579Z"
+    "from": "2025-11-03T06:25:51.791Z",
+    "to": "2026-11-03T06:25:51.791Z"
   },
   "scope": {
     "username": "liyown",
@@ -19,16 +19,12 @@
     "followers": 48,
     "following": 4,
     "contributedTo": 48,
-    "contributions": 483,
-    "commits": 406,
+    "contributions": 488,
+    "commits": 407,
     "issues": 6,
     "pullRequests": 28,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-11-02",
-        "count": 0
-      },
       {
         "date": "2025-11-03",
         "count": 0
@@ -1487,6 +1483,10 @@
       },
       {
         "date": "2026-11-02",
+        "count": 5
+      },
+      {
+        "date": "2026-11-03",
         "count": 0
       }
     ]
@@ -1535,7 +1535,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2667,
+      "stars": 2669,
       "forks": 331,
       "watchers": 4,
       "issues": 119,
@@ -2617,7 +2617,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2667,
+      "stars": 2669,
       "forks": 331,
       "watchers": 4,
       "issues": 119,
@@ -2648,7 +2648,7 @@
     }
   ],
   "totals": {
-    "stars": 6933,
+    "stars": 6935,
     "repositories": 61,
     "forks": 935,
     "watchers": 65,
@@ -2674,14 +2674,14 @@
   "rating": {
     "version": "v2",
     "grade": "SS+",
-    "score": 4994,
+    "score": 4995,
     "nextGrade": "SSS",
     "nextScore": 5000,
-    "progress": 0.996,
+    "progress": 0.9966666666666667,
     "breakdown": {
       "repositories": 61,
-      "stars": 3466.5,
-      "commits": 40.6,
+      "stars": 3467.5,
+      "commits": 40.7,
       "issues": 0.3,
       "pullRequests": 2.8,
       "followers": 14.4,
