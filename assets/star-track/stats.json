@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-11-03T06:25:51.791Z",
+  "collectedAt": "2026-11-04T05:58:20.763Z",
   "window": {
-    "from": "2025-11-03T06:25:51.791Z",
-    "to": "2026-11-03T06:25:51.791Z"
+    "from": "2025-11-04T05:58:20.763Z",
+    "to": "2026-11-04T05:58:20.763Z"
   },
   "scope": {
     "username": "liyown",
@@ -25,10 +25,6 @@
     "pullRequests": 28,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-11-03",
-        "count": 0
-      },
       {
         "date": "2025-11-04",
         "count": 0
@@ -1488,6 +1484,10 @@
       {
         "date": "2026-11-03",
         "count": 0
+      },
+      {
+        "date": "2026-11-04",
+        "count": 0
       }
     ]
   },
@@ -1715,7 +1715,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3229,
+      "stars": 3232,
       "forks": 453,
       "watchers": 22,
       "issues": 53,
@@ -1810,7 +1810,7 @@
       "watchers": 0,
       "issues": 2,
       "closedIssues": 0,
-      "pullRequests": 7,
+      "pullRequests": 8,
       "mergedPullRequests": 4,
       "isFork": false,
       "isArchived": false,
@@ -2039,7 +2039,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 657,
+      "stars": 656,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -2599,7 +2599,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3229,
+      "stars": 3232,
       "forks": 453,
       "watchers": 22,
       "issues": 53,
@@ -2635,7 +2635,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 657,
+      "stars": 656,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -2648,14 +2648,14 @@
     }
   ],
   "totals": {
-    "stars": 6935,
+    "stars": 6937,
     "repositories": 61,
     "forks": 935,
     "watchers": 65,
     "issues": 196,
-    "pullRequests": 243,
+    "pullRequests": 244,
     "issueCloseRate": 76.0204081632653,
-    "prMergeRate": 74.8971193415638,
+    "prMergeRate": 74.59016393442623,
     "topLanguage": "TypeScript",
     "languages": {
       "TypeScript": 15,
@@ -2674,13 +2674,13 @@
   "rating": {
     "version": "v2",
     "grade": "SS+",
-    "score": 4995,
+    "score": 4996,
     "nextGrade": "SSS",
     "nextScore": 5000,
-    "progress": 0.9966666666666667,
+    "progress": 0.9973333333333333,
     "breakdown": {
       "repositories": 61,
-      "stars": 3467.5,
+      "stars": 3468.5,
       "commits": 40.7,
       "issues": 0.3,
       "pullRequests": 2.8,
