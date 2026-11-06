@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-11-05T06:23:11.841Z",
+  "collectedAt": "2026-11-06T06:17:23.467Z",
   "window": {
-    "from": "2025-11-05T06:23:11.841Z",
-    "to": "2026-11-05T06:23:11.841Z"
+    "from": "2025-11-06T06:17:23.467Z",
+    "to": "2026-11-06T06:17:23.467Z"
   },
   "scope": {
     "username": "liyown",
@@ -25,10 +25,6 @@
     "pullRequests": 29,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-11-05",
-        "count": 0
-      },
       {
         "date": "2025-11-06",
         "count": 0
@@ -1488,6 +1484,10 @@
       {
         "date": "2026-11-05",
         "count": 3
+      },
+      {
+        "date": "2026-11-06",
+        "count": 0
       }
     ]
   },
@@ -1535,7 +1535,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2670,
+      "stars": 2672,
       "forks": 331,
       "watchers": 4,
       "issues": 119,
@@ -1716,7 +1716,7 @@
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
       "stars": 3235,
-      "forks": 452,
+      "forks": 453,
       "watchers": 22,
       "issues": 53,
       "closedIssues": 50,
@@ -2600,7 +2600,7 @@
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
       "stars": 3235,
-      "forks": 452,
+      "forks": 453,
       "watchers": 22,
       "issues": 53,
       "closedIssues": 50,
@@ -2617,7 +2617,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2670,
+      "stars": 2672,
       "forks": 331,
       "watchers": 4,
       "issues": 119,
@@ -2648,9 +2648,9 @@
     }
   ],
   "totals": {
-    "stars": 6940,
+    "stars": 6942,
     "repositories": 61,
-    "forks": 934,
+    "forks": 935,
     "watchers": 65,
     "issues": 196,
     "pullRequests": 245,
@@ -2674,19 +2674,19 @@
   "rating": {
     "version": "v2",
     "grade": "SSS",
-    "score": 5001,
+    "score": 5002,
     "nextGrade": null,
     "nextScore": null,
     "progress": 1,
     "breakdown": {
       "repositories": 61,
-      "stars": 3470,
+      "stars": 3471,
       "commits": 40.8,
       "issues": 0.3,
       "pullRequests": 2.9,
       "followers": 14.4,
       "contributedRepositories": 100,
-      "forks": 186.8,
+      "forks": 187,
       "starMilestone": 1000,
       "averageStars": 100,
       "longevity": 25
