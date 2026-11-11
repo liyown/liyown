@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-11-10T07:00:23.183Z",
+  "collectedAt": "2026-11-11T05:52:42.189Z",
   "window": {
-    "from": "2025-11-10T07:00:23.183Z",
-    "to": "2026-11-10T07:00:23.183Z"
+    "from": "2025-11-11T05:52:42.189Z",
+    "to": "2026-11-11T05:52:42.189Z"
   },
   "scope": {
     "username": "liyown",
@@ -25,10 +25,6 @@
     "pullRequests": 29,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-11-10",
-        "count": 0
-      },
       {
         "date": "2025-11-11",
         "count": 0
@@ -1488,6 +1484,10 @@
       {
         "date": "2026-11-10",
         "count": 0
+      },
+      {
+        "date": "2026-11-11",
+        "count": 0
       }
     ]
   },
@@ -1535,7 +1535,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2670,
+      "stars": 2672,
       "forks": 330,
       "watchers": 4,
       "issues": 119,
@@ -1679,7 +1679,7 @@
       "description": "AI 导航是一个现代化的人工智能网站导航系统，致力于帮助用户发现、分享和管理优质的 AI 工具与资源。项目采用最新的 Web 技术栈构建，提供流畅的用户体验和强大的管理功能。",
       "url": "https://github.com/liyown/ai-navigation",
       "language": "TypeScript",
-      "stars": 129,
+      "stars": 130,
       "forks": 70,
       "watchers": 2,
       "issues": 3,
@@ -1715,7 +1715,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3239,
+      "stars": 3240,
       "forks": 454,
       "watchers": 22,
       "issues": 52,
@@ -2599,7 +2599,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3239,
+      "stars": 3240,
       "forks": 454,
       "watchers": 22,
       "issues": 52,
@@ -2617,7 +2617,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2670,
+      "stars": 2672,
       "forks": 330,
       "watchers": 4,
       "issues": 119,
@@ -2648,7 +2648,7 @@
     }
   ],
   "totals": {
-    "stars": 6942,
+    "stars": 6946,
     "repositories": 61,
     "forks": 936,
     "watchers": 65,
@@ -2674,13 +2674,13 @@
   "rating": {
     "version": "v2",
     "grade": "SSS",
-    "score": 5005,
+    "score": 5007,
     "nextGrade": null,
     "nextScore": null,
     "progress": 1,
     "breakdown": {
       "repositories": 61,
-      "stars": 3471,
+      "stars": 3473,
       "commits": 40.8,
       "issues": 0.3,
       "pullRequests": 2.9,
