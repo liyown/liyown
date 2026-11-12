@@ -1,14 +1,14 @@
 # Liuyaowen · Star Track
 
-Updated: 2026-11-11T05:52:42.189Z (UTC)
+Updated: 2026-11-12T06:57:07.552Z (UTC)
 
 Public repository owners: liyown, afilmory
 
-Personal contribution window: 2025-11-11T05:52:42.189Z to 2026-11-11T05:52:42.189Z
+Personal contribution window: 2025-11-12T06:57:07.552Z to 2026-11-12T06:57:07.552Z
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| Stars | 6946 | Selected public repositories |
+| Stars | 6948 | Selected public repositories |
 | Repositories | 61 | Selected public repositories |
 | Forks received | 936 | Selected public repositories |
 | Watchers | 65 | Subscribers, not stars |
@@ -26,20 +26,20 @@ Personal contribution window: 2025-11-11T05:52:42.189Z to 2026-11-11T05:52:42.18
 
 ## Selected work
 
-- [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) — TrendPublish: 全自动 AI 内容生成与发布系统 \| 微信公众号自动化 \| 多源数据抓取 (Twitter/X、网站) \| DeepseekAI、千问、讯飞模型 \| 智能内容分析排序 \| 定时发布 \| 多模板支持 \| Node.js \| TypeScript \| AI 技术趋势跟踪工具 (3240 stars)
-- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. (2672 stars)
+- [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) — TrendPublish: 全自动 AI 内容生成与发布系统 \| 微信公众号自动化 \| 多源数据抓取 (Twitter/X、网站) \| DeepseekAI、千问、讯飞模型 \| 智能内容分析排序 \| 定时发布 \| 多模板支持 \| Node.js \| TypeScript \| AI 技术趋势跟踪工具 (3241 stars)
+- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. (2673 stars)
 - [liyown/marknative](https://github.com/liyown/marknative) — A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM. (655 stars)
 
 ## Open-source impact rating
 
-SSS · 5007 points · formula v2
+SSS · 5008 points · formula v2
 
 This is a transparent project-impact score, not an individual skill ranking. Organization stars and forks belong to the whole organization. Contribution counts follow the API visibility of the supplied token and may include private contribution aggregates; private repository names are never requested.
 
 | Component | Points |
 | --- | ---: |
 | repositories | 61 |
-| stars | 3473 |
+| stars | 3474 |
 | commits | 40.8 |
 | issues | 0.3 |
 | pullRequests | 2.9 |
