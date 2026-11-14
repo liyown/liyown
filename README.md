@@ -118,6 +118,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如何在 AI 大规模产出代码的时代进行代码审查？](https://liuyaowen.cn/posts/engineering-toolchain/code-review-in-ai-era)
 - [现代 Web 与 App 认证体系：从 Session、OAuth 到 PKCE 的完整实践](https://liuyaowen.cn/posts/web-typescript/web-app-authentication-session-oauth-pkce)
 - [服务器反复卡死，监控却一切正常：一次 OOM 排查实录](https://liuyaowen.cn/posts/cloud-native-infrastructure/server-oom-nextjs-memory)
 - [Vite 教程：从项目配置、构建原理到插件与全栈框架集成](https://liuyaowen.cn/posts/web-typescript/vite-tutorial)
@@ -127,7 +128,6 @@ $ neofetch
 - [意图识别小模型实战：分类头训练、知识蒸馏与低成本部署](https://liuyaowen.cn/posts/ai-machine-learning/small-model-intent-recognition-finetuning)
 - [意图识别怎么评测：从分类准确率到多轮任务成功率](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-evaluation)
 - [意图不明确时怎么办：未知意图识别、拒识与澄清追问](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-unknown-clarification)
-- [一句话多个意图怎么办：多标签识别、条件与任务依赖](https://liuyaowen.cn/posts/ai-machine-learning/multi-intent-recognition-task-dependencies)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
