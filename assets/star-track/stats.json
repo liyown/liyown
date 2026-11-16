@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-11-15T06:06:07.382Z",
+  "collectedAt": "2026-11-16T06:05:13.637Z",
   "window": {
-    "from": "2025-11-15T06:06:07.382Z",
-    "to": "2026-11-15T06:06:07.382Z"
+    "from": "2025-11-16T06:05:13.637Z",
+    "to": "2026-11-16T06:05:13.637Z"
   },
   "scope": {
     "username": "liyown",
@@ -1484,6 +1484,10 @@
       {
         "date": "2026-11-15",
         "count": 0
+      },
+      {
+        "date": "2026-11-16",
+        "count": 0
       }
     ]
   },
@@ -1711,7 +1715,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3250,
+      "stars": 3252,
       "forks": 455,
       "watchers": 22,
       "issues": 52,
@@ -1806,7 +1810,7 @@
       "watchers": 0,
       "issues": 3,
       "closedIssues": 0,
-      "pullRequests": 9,
+      "pullRequests": 11,
       "mergedPullRequests": 4,
       "isFork": false,
       "isArchived": false,
@@ -2595,7 +2599,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3250,
+      "stars": 3252,
       "forks": 455,
       "watchers": 22,
       "issues": 52,
@@ -2644,14 +2648,14 @@
     }
   ],
   "totals": {
-    "stars": 6955,
+    "stars": 6957,
     "repositories": 61,
     "forks": 937,
     "watchers": 65,
     "issues": 196,
-    "pullRequests": 246,
+    "pullRequests": 248,
     "issueCloseRate": 75.51020408163265,
-    "prMergeRate": 74.39024390243902,
+    "prMergeRate": 73.79032258064517,
     "topLanguage": "TypeScript",
     "languages": {
       "TypeScript": 15,
@@ -2670,13 +2674,13 @@
   "rating": {
     "version": "v2",
     "grade": "SSS",
-    "score": 5011,
+    "score": 5012,
     "nextGrade": null,
     "nextScore": null,
     "progress": 1,
     "breakdown": {
       "repositories": 61,
-      "stars": 3477.5,
+      "stars": 3478.5,
       "commits": 40.8,
       "issues": 0.3,
       "pullRequests": 2.9,
