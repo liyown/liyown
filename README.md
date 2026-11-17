@@ -118,16 +118,16 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [第六篇：指令集架构与计算机生态](https://liuyaowen.cn/posts/codenotes/isa-and-computer-ecosystem)
+- [第五篇：指令集与 CPU 微架构](https://liuyaowen.cn/posts/codenotes/instruction-set-and-cpu-microarchitecture)
+- [第四篇：x86-64 指令编码](https://liuyaowen.cn/posts/codenotes/x86-64-instruction-encoding)
+- [第三篇：x86-64 指令集基础](https://liuyaowen.cn/posts/codenotes/x86-64-instruction-basics)
 - [第二篇：程序如何变成机器指令](https://liuyaowen.cn/posts/codenotes/how-code-becomes-machine-instructions)
 - [从零理解 x86-64 指令集：第一篇：指令集架构（ISA）的本质](https://liuyaowen.cn/posts/codenotes/x86-64-cpu)
 - [告别“守门”：AI 驱动的现代代码审查工程演进](https://liuyaowen.cn/posts/engineering-toolchain/code-review-in-ai-era)
 - [现代 Web 与 App 认证体系：从 Session、OAuth 到 PKCE 的完整实践](https://liuyaowen.cn/posts/web-typescript/web-app-authentication-session-oauth-pkce)
 - [服务器反复卡死，监控却一切正常：一次 OOM 排查实录](https://liuyaowen.cn/posts/cloud-native-infrastructure/server-oom-nextjs-memory)
 - [Vite 教程：从项目配置、构建原理到插件与全栈框架集成](https://liuyaowen.cn/posts/web-typescript/vite-tutorial)
-- [从零实现一个多轮意图识别助手：语料、状态、路由与评测](https://liuyaowen.cn/posts/ai-machine-learning/intent-recognition-assistant-demo)
-- [意图识别服务上线：延迟、成本、监控与错误闭环](https://liuyaowen.cn/posts/ai-machine-learning/production-intent-recognition-service)
-- [RAG 与 Agent 中的意图路由：检索、工具、闲聊与澄清](https://liuyaowen.cn/posts/ai-machine-learning/rag-agent-intent-routing)
-- [意图识别小模型实战：分类头训练、知识蒸馏与低成本部署](https://liuyaowen.cn/posts/ai-machine-learning/small-model-intent-recognition-finetuning)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
