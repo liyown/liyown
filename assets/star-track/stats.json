@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-11-18T07:04:47.880Z",
+  "collectedAt": "2026-11-19T07:05:05.822Z",
   "window": {
-    "from": "2025-11-18T07:04:47.880Z",
-    "to": "2026-11-18T07:04:47.880Z"
+    "from": "2025-11-19T07:05:05.822Z",
+    "to": "2026-11-19T07:05:05.822Z"
   },
   "scope": {
     "username": "liyown",
@@ -25,10 +25,6 @@
     "pullRequests": 29,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-11-18",
-        "count": 0
-      },
       {
         "date": "2025-11-19",
         "count": 0
@@ -1488,6 +1484,10 @@
       {
         "date": "2026-11-18",
         "count": 0
+      },
+      {
+        "date": "2026-11-19",
+        "count": 0
       }
     ]
   },
@@ -1535,9 +1535,9 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2676,
+      "stars": 2679,
       "forks": 330,
-      "watchers": 4,
+      "watchers": 5,
       "issues": 119,
       "closedIssues": 85,
       "pullRequests": 178,
@@ -1715,12 +1715,12 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3259,
-      "forks": 457,
+      "stars": 3260,
+      "forks": 458,
       "watchers": 22,
       "issues": 52,
       "closedIssues": 49,
-      "pullRequests": 14,
+      "pullRequests": 15,
       "mergedPullRequests": 8,
       "isFork": false,
       "isArchived": false,
@@ -2039,7 +2039,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 654,
+      "stars": 653,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -2599,12 +2599,12 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3259,
-      "forks": 457,
+      "stars": 3260,
+      "forks": 458,
       "watchers": 22,
       "issues": 52,
       "closedIssues": 49,
-      "pullRequests": 14,
+      "pullRequests": 15,
       "mergedPullRequests": 8,
       "isFork": false,
       "isArchived": false,
@@ -2617,9 +2617,9 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2676,
+      "stars": 2679,
       "forks": 330,
-      "watchers": 4,
+      "watchers": 5,
       "issues": 119,
       "closedIssues": 85,
       "pullRequests": 178,
@@ -2635,7 +2635,7 @@
       "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.",
       "url": "https://github.com/liyown/marknative",
       "language": "TypeScript",
-      "stars": 654,
+      "stars": 653,
       "forks": 33,
       "watchers": 4,
       "issues": 4,
@@ -2648,14 +2648,14 @@
     }
   ],
   "totals": {
-    "stars": 6969,
+    "stars": 6972,
     "repositories": 61,
-    "forks": 938,
-    "watchers": 65,
+    "forks": 939,
+    "watchers": 66,
     "issues": 197,
-    "pullRequests": 249,
+    "pullRequests": 250,
     "issueCloseRate": 75.63451776649747,
-    "prMergeRate": 73.49397590361446,
+    "prMergeRate": 73.2,
     "topLanguage": "TypeScript",
     "languages": {
       "TypeScript": 15,
@@ -2674,19 +2674,19 @@
   "rating": {
     "version": "v2",
     "grade": "SSS",
-    "score": 5019,
+    "score": 5020,
     "nextGrade": null,
     "nextScore": null,
     "progress": 1,
     "breakdown": {
       "repositories": 61,
-      "stars": 3484.5,
+      "stars": 3486,
       "commits": 40.8,
       "issues": 0.3,
       "pullRequests": 2.9,
       "followers": 14.4,
       "contributedRepositories": 102,
-      "forks": 187.6,
+      "forks": 187.8,
       "starMilestone": 1000,
       "averageStars": 100,
       "longevity": 25
