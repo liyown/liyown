@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-11-20T06:56:40.776Z",
+  "collectedAt": "2026-11-21T06:52:07.109Z",
   "window": {
-    "from": "2025-11-20T06:56:40.776Z",
-    "to": "2026-11-20T06:56:40.776Z"
+    "from": "2025-11-21T06:52:07.109Z",
+    "to": "2026-11-21T06:52:07.109Z"
   },
   "scope": {
     "username": "liyown",
@@ -25,10 +25,6 @@
     "pullRequests": 29,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-11-20",
-        "count": 0
-      },
       {
         "date": "2025-11-21",
         "count": 0
@@ -1488,6 +1484,10 @@
       {
         "date": "2026-11-20",
         "count": 0
+      },
+      {
+        "date": "2026-11-21",
+        "count": 0
       }
     ]
   },
@@ -1715,7 +1715,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3261,
+      "stars": 3262,
       "forks": 458,
       "watchers": 22,
       "issues": 52,
@@ -1769,7 +1769,7 @@
       "description": "一个简单高效的 systemd 服务管理工具，支持自动创建配置文件并智能适配不同类型的服务。",
       "url": "https://github.com/liyown/autoservice",
       "language": "Python",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "watchers": 1,
       "issues": 0,
@@ -2599,7 +2599,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3261,
+      "stars": 3262,
       "forks": 458,
       "watchers": 22,
       "issues": 52,
@@ -2648,7 +2648,7 @@
     }
   ],
   "totals": {
-    "stars": 6974,
+    "stars": 6976,
     "repositories": 61,
     "forks": 939,
     "watchers": 66,
@@ -2674,13 +2674,13 @@
   "rating": {
     "version": "v2",
     "grade": "SSS",
-    "score": 5021,
+    "score": 5022,
     "nextGrade": null,
     "nextScore": null,
     "progress": 1,
     "breakdown": {
       "repositories": 61,
-      "stars": 3487,
+      "stars": 3488,
       "commits": 40.8,
       "issues": 0.3,
       "pullRequests": 2.9,
