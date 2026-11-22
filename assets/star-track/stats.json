@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-11-21T06:52:07.109Z",
+  "collectedAt": "2026-11-22T06:25:20.583Z",
   "window": {
-    "from": "2025-11-21T06:52:07.109Z",
-    "to": "2026-11-21T06:52:07.109Z"
+    "from": "2025-11-22T06:25:20.583Z",
+    "to": "2026-11-22T06:25:20.583Z"
   },
   "scope": {
     "username": "liyown",
@@ -25,14 +25,6 @@
     "pullRequests": 29,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-11-21",
-        "count": 0
-      },
-      {
-        "date": "2025-11-22",
-        "count": 0
-      },
       {
         "date": "2025-11-23",
         "count": 0
@@ -1488,6 +1480,10 @@
       {
         "date": "2026-11-21",
         "count": 0
+      },
+      {
+        "date": "2026-11-22",
+        "count": 0
       }
     ]
   },
@@ -1535,7 +1531,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2680,
+      "stars": 2681,
       "forks": 330,
       "watchers": 5,
       "issues": 119,
@@ -1810,7 +1806,7 @@
       "watchers": 0,
       "issues": 4,
       "closedIssues": 0,
-      "pullRequests": 11,
+      "pullRequests": 12,
       "mergedPullRequests": 4,
       "isFork": false,
       "isArchived": false,
@@ -2617,7 +2613,7 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2680,
+      "stars": 2681,
       "forks": 330,
       "watchers": 5,
       "issues": 119,
@@ -2648,14 +2644,14 @@
     }
   ],
   "totals": {
-    "stars": 6976,
+    "stars": 6977,
     "repositories": 61,
     "forks": 939,
     "watchers": 66,
     "issues": 197,
-    "pullRequests": 250,
+    "pullRequests": 251,
     "issueCloseRate": 75.63451776649747,
-    "prMergeRate": 73.2,
+    "prMergeRate": 72.90836653386454,
     "topLanguage": "TypeScript",
     "languages": {
       "TypeScript": 15,
@@ -2674,13 +2670,13 @@
   "rating": {
     "version": "v2",
     "grade": "SSS",
-    "score": 5022,
+    "score": 5023,
     "nextGrade": null,
     "nextScore": null,
     "progress": 1,
     "breakdown": {
       "repositories": 61,
-      "stars": 3488,
+      "stars": 3488.5,
       "commits": 40.8,
       "issues": 0.3,
       "pullRequests": 2.9,
