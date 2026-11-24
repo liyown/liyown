@@ -1,14 +1,14 @@
 # Liuyaowen · Star Track
 
-Updated: 2026-11-23T07:16:32.424Z (UTC)
+Updated: 2026-11-24T09:39:20.751Z (UTC)
 
 Public repository owners: liyown, afilmory
 
-Personal contribution window: 2025-11-23T07:16:32.424Z to 2026-11-23T07:16:32.424Z
+Personal contribution window: 2025-11-24T09:39:20.751Z to 2026-11-24T09:39:20.751Z
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
-| Stars | 6981 | Selected public repositories |
+| Stars | 6982 | Selected public repositories |
 | Repositories | 61 | Selected public repositories |
 | Forks received | 938 | Selected public repositories |
 | Watchers | 66 | Subscribers, not stars |
@@ -26,7 +26,7 @@ Personal contribution window: 2025-11-23T07:16:32.424Z to 2026-11-23T07:16:32.42
 
 ## Selected work
 
-- [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) — TrendPublish: 全自动 AI 内容生成与发布系统 \| 微信公众号自动化 \| 多源数据抓取 (Twitter/X、网站) \| DeepseekAI、千问、讯飞模型 \| 智能内容分析排序 \| 定时发布 \| 多模板支持 \| Node.js \| TypeScript \| AI 技术趋势跟踪工具 (3264 stars)
+- [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) — TrendPublish: 全自动 AI 内容生成与发布系统 \| 微信公众号自动化 \| 多源数据抓取 (Twitter/X、网站) \| DeepseekAI、千问、讯飞模型 \| 智能内容分析排序 \| 定时发布 \| 多模板支持 \| Node.js \| TypeScript \| AI 技术趋势跟踪工具 (3265 stars)
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. (2682 stars)
 - [liyown/marknative](https://github.com/liyown/marknative) — A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM. (653 stars)
 
@@ -39,7 +39,7 @@ This is a transparent project-impact score, not an individual skill ranking. Org
 | Component | Points |
 | --- | ---: |
 | repositories | 61 |
-| stars | 3490.5 |
+| stars | 3491 |
 | commits | 40.8 |
 | issues | 0.3 |
 | pullRequests | 2.9 |
