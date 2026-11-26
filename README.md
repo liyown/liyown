@@ -36,7 +36,7 @@ $ neofetch
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/star-track/profile-dark-compact.svg" />
   <source media="(max-width: 640px)" srcset="assets/star-track/profile-light-compact.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/star-track/profile-dark.svg" />
-  <img src="assets/star-track/profile-light.svg" alt="Liuyaowen: 6988 stars, 61 repositories, 493 contributions, SSS (5028). Updated 2026-11-25 UTC." width="100%" />
+  <img src="assets/star-track/profile-light.svg" alt="Liuyaowen: 6989 stars, 61 repositories, 493 contributions, SSS (5029). Updated 2026-11-26 UTC." width="100%" />
 </picture>
 
 [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) · [Afilmory/afilmory](https://github.com/Afilmory/afilmory) · [liyown/marknative](https://github.com/liyown/marknative)
