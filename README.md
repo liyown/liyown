@@ -118,6 +118,7 @@ $ neofetch
 ### 📰 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [模块化单体里的 DDD：跨域调用与两种 Service 的分界](https://liuyaowen.cn/posts/software-architecture-design/ddd-modular-monolith-cross-domain-calls-and-two-kinds-of-service)
 - [第六篇：指令集架构与计算机生态](https://liuyaowen.cn/posts/codenotes/isa-and-computer-ecosystem)
 - [第五篇：指令集与 CPU 微架构](https://liuyaowen.cn/posts/codenotes/instruction-set-and-cpu-microarchitecture)
 - [第四篇：x86-64 指令编码](https://liuyaowen.cn/posts/codenotes/x86-64-instruction-encoding)
@@ -127,7 +128,6 @@ $ neofetch
 - [告别“守门”：AI 驱动的现代代码审查工程演进](https://liuyaowen.cn/posts/engineering-toolchain/code-review-in-ai-era)
 - [现代 Web 与 App 认证体系：从 Session、OAuth 到 PKCE 的完整实践](https://liuyaowen.cn/posts/web-typescript/web-app-authentication-session-oauth-pkce)
 - [服务器反复卡死，监控却一切正常：一次 OOM 排查实录](https://liuyaowen.cn/posts/cloud-native-infrastructure/server-oom-nextjs-memory)
-- [Vite 教程：从项目配置、构建原理到插件与全栈框架集成](https://liuyaowen.cn/posts/web-typescript/vite-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡️ Recent Activity
