@@ -1,16 +1,16 @@
 # Liuyaowen · Star Track
 
-Updated: 2026-11-27T08:00:33.972Z (UTC)
+Updated: 2026-11-28T07:29:45.598Z (UTC)
 
 Public repository owners: liyown, afilmory
 
-Personal contribution window: 2025-11-27T08:00:33.972Z to 2026-11-27T08:00:33.972Z
+Personal contribution window: 2025-11-28T07:29:45.598Z to 2026-11-28T07:29:45.598Z
 
 | Metric | Value | Scope |
 | --- | ---: | --- |
 | Stars | 6992 | Selected public repositories |
 | Repositories | 61 | Selected public repositories |
-| Forks received | 940 | Selected public repositories |
+| Forks received | 941 | Selected public repositories |
 | Watchers | 66 | Subscribers, not stars |
 | Issues | 198 | All authors in selected repositories |
 | Pull requests | 251 | All authors in selected repositories |
@@ -26,13 +26,13 @@ Personal contribution window: 2025-11-27T08:00:33.972Z to 2026-11-27T08:00:33.97
 
 ## Selected work
 
-- [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) — TrendPublish: 全自动 AI 内容生成与发布系统 \| 微信公众号自动化 \| 多源数据抓取 (Twitter/X、网站) \| DeepseekAI、千问、讯飞模型 \| 智能内容分析排序 \| 定时发布 \| 多模板支持 \| Node.js \| TypeScript \| AI 技术趋势跟踪工具 (3270 stars)
-- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. (2685 stars)
+- [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) — TrendPublish: 全自动 AI 内容生成与发布系统 \| 微信公众号自动化 \| 多源数据抓取 (Twitter/X、网站) \| DeepseekAI、千问、讯飞模型 \| 智能内容分析排序 \| 定时发布 \| 多模板支持 \| Node.js \| TypeScript \| AI 技术趋势跟踪工具 (3269 stars)
+- [Afilmory/afilmory](https://github.com/Afilmory/afilmory) — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. (2686 stars)
 - [liyown/marknative](https://github.com/liyown/marknative) — A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM. (654 stars)
 
 ## Open-source impact rating
 
-SSS · 5030 points · formula v2
+SSS · 5031 points · formula v2
 
 This is a transparent project-impact score, not an individual skill ranking. Organization stars and forks belong to the whole organization. Contribution counts follow the API visibility of the supplied token and may include private contribution aggregates; private repository names are never requested.
 
@@ -45,7 +45,7 @@ This is a transparent project-impact score, not an individual skill ranking. Org
 | pullRequests | 2.9 |
 | followers | 14.4 |
 | contributedRepositories | 102 |
-| forks | 188 |
+| forks | 188.2 |
 | starMilestone | 1000 |
 | averageStars | 100 |
 | longevity | 25 |

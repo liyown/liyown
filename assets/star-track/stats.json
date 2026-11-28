@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "sourceKey": "78d9b481aa83d5ec",
-  "collectedAt": "2026-11-27T08:00:33.972Z",
+  "collectedAt": "2026-11-28T07:29:45.598Z",
   "window": {
-    "from": "2025-11-27T08:00:33.972Z",
-    "to": "2026-11-27T08:00:33.972Z"
+    "from": "2025-11-28T07:29:45.598Z",
+    "to": "2026-11-28T07:29:45.598Z"
   },
   "scope": {
     "username": "liyown",
@@ -25,10 +25,6 @@
     "pullRequests": 29,
     "reviews": 1,
     "calendar": [
-      {
-        "date": "2025-11-27",
-        "count": 0
-      },
       {
         "date": "2025-11-28",
         "count": 0
@@ -1488,6 +1484,10 @@
       {
         "date": "2026-11-27",
         "count": 0
+      },
+      {
+        "date": "2026-11-28",
+        "count": 0
       }
     ]
   },
@@ -1535,8 +1535,8 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2685,
-      "forks": 330,
+      "stars": 2686,
+      "forks": 331,
       "watchers": 5,
       "issues": 119,
       "closedIssues": 85,
@@ -1715,7 +1715,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3270,
+      "stars": 3269,
       "forks": 459,
       "watchers": 22,
       "issues": 53,
@@ -2599,7 +2599,7 @@
       "description": "TrendPublish: 全自动 AI 内容生成与发布系统 | 微信公众号自动化 | 多源数据抓取 (Twitter/X、网站) | DeepseekAI、千问、讯飞模型 | 智能内容分析排序 | 定时发布 | 多模板支持 | Node.js | TypeScript | AI 技术趋势跟踪工具",
       "url": "https://github.com/liyown/ai-trend-publish",
       "language": "TypeScript",
-      "stars": 3270,
+      "stars": 3269,
       "forks": 459,
       "watchers": 22,
       "issues": 53,
@@ -2617,8 +2617,8 @@
       "description": "Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.",
       "url": "https://github.com/Afilmory/afilmory",
       "language": "TypeScript",
-      "stars": 2685,
-      "forks": 330,
+      "stars": 2686,
+      "forks": 331,
       "watchers": 5,
       "issues": 119,
       "closedIssues": 85,
@@ -2650,7 +2650,7 @@
   "totals": {
     "stars": 6992,
     "repositories": 61,
-    "forks": 940,
+    "forks": 941,
     "watchers": 66,
     "issues": 198,
     "pullRequests": 251,
@@ -2674,7 +2674,7 @@
   "rating": {
     "version": "v2",
     "grade": "SSS",
-    "score": 5030,
+    "score": 5031,
     "nextGrade": null,
     "nextScore": null,
     "progress": 1,
@@ -2686,7 +2686,7 @@
       "pullRequests": 2.9,
       "followers": 14.4,
       "contributedRepositories": 102,
-      "forks": 188,
+      "forks": 188.2,
       "starMilestone": 1000,
       "averageStars": 100,
       "longevity": 25
